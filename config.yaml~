@@ -1,0 +1,14 @@
+---
+baseurl: "http://etienneburdet.github.io/hugo"
+title: "omg I'm Blogging"
+permalinks:
+  post: /:year/:month/:title/
+params:
+  Subtitle: "Can't believe it's actually working"
+  AuthorName: "Etienne"
+  GitHubUser: "etienneburdet"
+  ListOfFoo:
+    - "foo1"
+    - "foo2"
+  SidebarRecentLimit: 5
+...

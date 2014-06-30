@@ -7,15 +7,25 @@
     <language>en-us</language>
     
     
-    <updated>Mon, 30 Jun 2014 20:05:18 UTC</updated>
+    <updated>Mon, 30 Jun 2014 21:02:17 UTC</updated>
     
     <item>
       <title>first</title>
       <link>http://localhost:1313/post/first</link>
-      <pubDate>Mon, 30 Jun 2014 20:05:18 UTC</pubDate>
+      <pubDate>Mon, 30 Jun 2014 21:02:17 UTC</pubDate>
       
       <guid>http://localhost:1313/post/first</guid>
-      <description>&lt;p&gt;PTDR&lt;/p&gt;
+      <description>&lt;p&gt;HO&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>second</title>
+      <link>http://localhost:1313/post/second</link>
+      <pubDate>Mon, 30 Jun 2014 21:01:42 UTC</pubDate>
+      
+      <guid>http://localhost:1313/post/second</guid>
+      <description>&lt;p&gt;NOZ&lt;/p&gt;
 </description>
     </item>
     
