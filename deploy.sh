@@ -4,14 +4,14 @@ echo -e "\033[0;32mDeploying updates to Github...\033[0m"
 hugo --theme=hyde --buildDrafts
 
 # Add changes to git.
-git add -A
+# git add -A
 
-# Commit changes.
+# Commit changes (no staging).
 msg="rebuilding site `date`"
 if [ $# -eq 1 ]
   then msg="$1"
 fi
-git commit -m "$msg"
+git commit -a -m "$msg"
 
 # Push source and build repos.
 git push origin master
