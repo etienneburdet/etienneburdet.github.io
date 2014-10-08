@@ -2,23 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://etienneburdet.github.io/</loc>
-    <lastmod>2014-06-30T21:02:17+00:00</lastmod>
+    <loc>http://etienneburdet.github.io/hugo/</loc>
+    <lastmod>2014-10-08T17:56:26+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://etienneburdet.github.io/post/first</loc>
+    <loc>http://etienneburdet.github.io/hugo/Vita/cv/</loc>
+    <lastmod>2014-10-08T17:56:26+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://etienneburdet.github.io/hugo/post/third/</loc>
+    <lastmod>2014-10-08T17:51:27+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://etienneburdet.github.io/hugo/post/</loc>
+    <lastmod>2014-10-08T17:48:44+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://etienneburdet.github.io/hugo/post/first/</loc>
     <lastmod>2014-06-30T21:02:17+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://etienneburdet.github.io/about</loc>
+    <loc>http://etienneburdet.github.io/hugo/about/</loc>
     <lastmod>2014-06-30T21:02:06+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://etienneburdet.github.io/post/second</loc>
+    <loc>http://etienneburdet.github.io/hugo/post/second/</loc>
     <lastmod>2014-06-30T21:01:42+00:00</lastmod>
   </url>
   
