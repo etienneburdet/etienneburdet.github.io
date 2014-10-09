@@ -3,37 +3,37 @@
   <channel>
       <title>Posts on Etienne Burdet </title>
       <generator uri="https://gohugo.io">Hugo</generator>
-    <link>http://etienneburdet.github.io/post/index.xml/</link>
-    <language>en-us</language>
+    <link>http://localhost:1313/post/index.xml/</link>
+    
     
     
     <updated>Wed, 08 Oct 2014 17:51:27 CEST</updated>
     
     <item>
       <title>third</title>
-      <link>http://etienneburdet.github.io/post/third/</link>
+      <link>http://localhost:1313/post/third/</link>
       <pubDate>Wed, 08 Oct 2014 17:51:27 CEST</pubDate>
       
-      <guid>http://etienneburdet.github.io/post/third/</guid>
+      <guid>http://localhost:1313/post/third/</guid>
       <description></description>
     </item>
     
     <item>
       <title>first</title>
-      <link>http://etienneburdet.github.io/post/first/</link>
+      <link>http://localhost:1313/post/first/</link>
       <pubDate>Mon, 30 Jun 2014 21:02:17 UTC</pubDate>
       
-      <guid>http://etienneburdet.github.io/post/first/</guid>
+      <guid>http://localhost:1313/post/first/</guid>
       <description>&lt;p&gt;HO&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>second</title>
-      <link>http://etienneburdet.github.io/post/second/</link>
+      <link>http://localhost:1313/post/second/</link>
       <pubDate>Mon, 30 Jun 2014 21:01:42 UTC</pubDate>
       
-      <guid>http://etienneburdet.github.io/post/second/</guid>
+      <guid>http://localhost:1313/post/second/</guid>
       <description>&lt;p&gt;NOZ&lt;/p&gt;
 </description>
     </item>

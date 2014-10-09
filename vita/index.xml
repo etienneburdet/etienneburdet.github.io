@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Vita on Etienne Burdet </title>
+      <generator uri="https://gohugo.io">Hugo</generator>
+    <link>http://localhost:1313/vita/index.xml/</link>
+    
+    
+    
+    <updated>Wed, 08 Oct 2014 17:56:26 CEST</updated>
+    
+    <item>
+      <title>cv</title>
+      <link>http://localhost:1313/Vita/cv/</link>
+      <pubDate>Wed, 08 Oct 2014 17:56:26 CEST</pubDate>
+      
+      <guid>http://localhost:1313/Vita/cv/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
