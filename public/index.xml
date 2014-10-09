@@ -3,66 +3,66 @@
   <channel>
       <title>Recent Content on Etienne Burdet </title>
       <generator uri="https://gohugo.io">Hugo</generator>
-    <link>http://etienneburdet.github.io/index.xml/</link>
-    <language>en-us</language>
+    <link>http://localhost:1313/index.xml/</link>
+    
     
     
     <updated>Wed, 08 Oct 2014 17:56:26 CEST</updated>
     
     <item>
       <title>cv</title>
-      <link>http://etienneburdet.github.io/Vita/cv/</link>
+      <link>http://localhost:1313/Vita/cv/</link>
       <pubDate>Wed, 08 Oct 2014 17:56:26 CEST</pubDate>
       
-      <guid>http://etienneburdet.github.io/Vita/cv/</guid>
+      <guid>http://localhost:1313/Vita/cv/</guid>
       <description></description>
     </item>
     
     <item>
       <title>third</title>
-      <link>http://etienneburdet.github.io/post/third/</link>
+      <link>http://localhost:1313/post/third/</link>
       <pubDate>Wed, 08 Oct 2014 17:51:27 CEST</pubDate>
       
-      <guid>http://etienneburdet.github.io/post/third/</guid>
+      <guid>http://localhost:1313/post/third/</guid>
       <description></description>
     </item>
     
     <item>
       <title>post</title>
-      <link>http://etienneburdet.github.io/post/</link>
+      <link>http://localhost:1313/post/</link>
       <pubDate>Wed, 08 Oct 2014 17:48:44 CEST</pubDate>
       
-      <guid>http://etienneburdet.github.io/post/</guid>
+      <guid>http://localhost:1313/post/</guid>
       <description>&lt;p&gt;LOL&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>first</title>
-      <link>http://etienneburdet.github.io/post/first/</link>
+      <link>http://localhost:1313/post/first/</link>
       <pubDate>Mon, 30 Jun 2014 21:02:17 UTC</pubDate>
       
-      <guid>http://etienneburdet.github.io/post/first/</guid>
+      <guid>http://localhost:1313/post/first/</guid>
       <description>&lt;p&gt;HO&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>about</title>
-      <link>http://etienneburdet.github.io/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 30 Jun 2014 21:02:06 UTC</pubDate>
       
-      <guid>http://etienneburdet.github.io/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>&lt;p&gt;ROFLCOPTER&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>second</title>
-      <link>http://etienneburdet.github.io/post/second/</link>
+      <link>http://localhost:1313/post/second/</link>
       <pubDate>Mon, 30 Jun 2014 21:01:42 UTC</pubDate>
       
-      <guid>http://etienneburdet.github.io/post/second/</guid>
+      <guid>http://localhost:1313/post/second/</guid>
       <description>&lt;p&gt;NOZ&lt;/p&gt;
 </description>
     </item>

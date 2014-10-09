@@ -1,4 +1,10 @@
-baseurl = "http://etienneburdet.github.io/hugo"
-languageCode = "en-us"
-title = "Etienne Burdet"
-subtitle = " City enthousitast"
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+builddrafts = false
+baseurl = "http://yoursite.example.com/"
+canonifyurls = true
+
+[indexes]
+   category = "categories"
+   tag = "tags"
