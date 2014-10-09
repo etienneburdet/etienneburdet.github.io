@@ -12,5 +12,7 @@ title="Etienne Burdet"
 
 [Params]
    Description = "City //scientist//geek//enthusiast"
+   
+[author]
    twitter = "https://twitter.com/GourmetSolitair"
    linkedin = "https://www.linkedin.com/pub/etienne-burdet/16/25b/954"
