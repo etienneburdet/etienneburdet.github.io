@@ -3,7 +3,7 @@
   <channel>
       <title>Posts on Etienne Burdet </title>
       <generator uri="https://gohugo.io">Hugo</generator>
-    <link>http://localhost:1313/post/index.xml/</link>
+    <link>http://yoursite.example.com/post/index.xml/</link>
     
     
     
@@ -11,29 +11,29 @@
     
     <item>
       <title>third</title>
-      <link>http://localhost:1313/post/third/</link>
+      <link>http://yoursite.example.com/post/third/</link>
       <pubDate>Wed, 08 Oct 2014 17:51:27 CEST</pubDate>
       
-      <guid>http://localhost:1313/post/third/</guid>
+      <guid>http://yoursite.example.com/post/third/</guid>
       <description></description>
     </item>
     
     <item>
       <title>first</title>
-      <link>http://localhost:1313/post/first/</link>
+      <link>http://yoursite.example.com/post/first/</link>
       <pubDate>Mon, 30 Jun 2014 21:02:17 UTC</pubDate>
       
-      <guid>http://localhost:1313/post/first/</guid>
+      <guid>http://yoursite.example.com/post/first/</guid>
       <description>&lt;p&gt;HO&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>second</title>
-      <link>http://localhost:1313/post/second/</link>
+      <link>http://yoursite.example.com/post/second/</link>
       <pubDate>Mon, 30 Jun 2014 21:01:42 UTC</pubDate>
       
-      <guid>http://localhost:1313/post/second/</guid>
+      <guid>http://yoursite.example.com/post/second/</guid>
       <description>&lt;p&gt;NOZ&lt;/p&gt;
 </description>
     </item>

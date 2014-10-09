@@ -3,7 +3,7 @@
   <channel>
       <title>Recent Content on Etienne Burdet </title>
       <generator uri="https://gohugo.io">Hugo</generator>
-    <link>http://localhost:1313/index.xml/</link>
+    <link>http://yoursite.example.com/index.xml/</link>
     
     
     
@@ -11,58 +11,58 @@
     
     <item>
       <title>cv</title>
-      <link>http://localhost:1313/Vita/cv/</link>
+      <link>http://yoursite.example.com/Vita/cv/</link>
       <pubDate>Wed, 08 Oct 2014 17:56:26 CEST</pubDate>
       
-      <guid>http://localhost:1313/Vita/cv/</guid>
+      <guid>http://yoursite.example.com/Vita/cv/</guid>
       <description></description>
     </item>
     
     <item>
       <title>third</title>
-      <link>http://localhost:1313/post/third/</link>
+      <link>http://yoursite.example.com/post/third/</link>
       <pubDate>Wed, 08 Oct 2014 17:51:27 CEST</pubDate>
       
-      <guid>http://localhost:1313/post/third/</guid>
+      <guid>http://yoursite.example.com/post/third/</guid>
       <description></description>
     </item>
     
     <item>
       <title>post</title>
-      <link>http://localhost:1313/post/</link>
+      <link>http://yoursite.example.com/post/</link>
       <pubDate>Wed, 08 Oct 2014 17:48:44 CEST</pubDate>
       
-      <guid>http://localhost:1313/post/</guid>
+      <guid>http://yoursite.example.com/post/</guid>
       <description>&lt;p&gt;LOL&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>first</title>
-      <link>http://localhost:1313/post/first/</link>
+      <link>http://yoursite.example.com/post/first/</link>
       <pubDate>Mon, 30 Jun 2014 21:02:17 UTC</pubDate>
       
-      <guid>http://localhost:1313/post/first/</guid>
+      <guid>http://yoursite.example.com/post/first/</guid>
       <description>&lt;p&gt;HO&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>about</title>
-      <link>http://localhost:1313/about/</link>
+      <link>http://yoursite.example.com/about/</link>
       <pubDate>Mon, 30 Jun 2014 21:02:06 UTC</pubDate>
       
-      <guid>http://localhost:1313/about/</guid>
+      <guid>http://yoursite.example.com/about/</guid>
       <description>&lt;p&gt;ROFLCOPTER&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>second</title>
-      <link>http://localhost:1313/post/second/</link>
+      <link>http://yoursite.example.com/post/second/</link>
       <pubDate>Mon, 30 Jun 2014 21:01:42 UTC</pubDate>
       
-      <guid>http://localhost:1313/post/second/</guid>
+      <guid>http://yoursite.example.com/post/second/</guid>
       <description>&lt;p&gt;NOZ&lt;/p&gt;
 </description>
     </item>
