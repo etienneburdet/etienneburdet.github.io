@@ -5,7 +5,7 @@
       <generator uri="https://hugo.spf13.com">Hugo</generator>
     <link>http://etienneburdet.github.io/ressources/index.xml</link>
     
-    
+    <author>Etienne Burdet</author>
     
     <updated>Sat, 11 Oct 2014 16:47:12 UTC</updated>
     
@@ -13,7 +13,7 @@
       <title>Ressources</title>
       <link>http://etienneburdet.github.io/ressources/Ressources</link>
       <pubDate>Sat, 11 Oct 2014 16:47:12 UTC</pubDate>
-      
+      <author>Etienne Burdet</author>
       <guid>http://etienneburdet.github.io/ressources/Ressources</guid>
       <description>
 
