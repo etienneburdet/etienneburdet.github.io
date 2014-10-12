@@ -99,13 +99,6 @@ a.sidebar-nav-item:focus {
   font-weight: bold;
 }
 
-/*Copyrights */
-
-.footnote {
-font-size: 0.7em;
-margin-top: 0.5rem;
-}
-
 /* Sticky sidebar
  *
  * Add the `sidebar-sticky` class to the sidebar's container to affix it the

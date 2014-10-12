@@ -12,13 +12,12 @@
     </div>
 
 
-    <ul class="sidebar-nav">
-      <li><a href="/">Blog</a> </li>
+    <p class="sidebar-nav">
+      <a href="/">Blog</a>
       {{ range .Site.Menus.main }}
-        <li><a href="{{.Url}}"> {{ .Name }} </a></li>
+        <a href="{{.Url}}"> {{ .Name }} </a>
       {{end}}
-    </ul>
+    </p>
 
-    <p>
-    <p class="footnote">{{ with .Site.Params.Copyright }}{{.}}{{ else }}&copy; {{.Now.Format "2006"}} Etienne Burdet, all rights reserved. {{end}} <br /> powered by <a href="http://gohugo.io/">Hugo</a></p>  </div>
+    <p class="footnote"> {{ with .Site.Params.Copyright }}{{.}}{{ else }}&copy; {{.Now.Format "2006"}} Etienne Burdet. All rights reserved. {{end}} <br /> powered by <a href="http://gohugo.io/">Hugo</a></p>  </div>
 </div>
