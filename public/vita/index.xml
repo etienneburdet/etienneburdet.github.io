@@ -3,18 +3,18 @@
   <channel>
       <title>Vita on Etienne Burdet </title>
       <generator uri="https://hugo.spf13.com">Hugo</generator>
-    <link>http://localhost:1313/vita/index.xml</link>
+    <link>http://etienneburdet.github.io/vita/index.xml</link>
     
     <author>Etienne Burdet</author>
     
     <updated>Wed, 08 Oct 2014 17:56:26 CEST</updated>
     
     <item>
-      <title>cv</title>
-      <link>http://localhost:1313/Vita/cv</link>
+      <title>Vita</title>
+      <link>http://etienneburdet.github.io/Vita/cv</link>
       <pubDate>Wed, 08 Oct 2014 17:56:26 CEST</pubDate>
       <author>Etienne Burdet</author>
-      <guid>http://localhost:1313/Vita/cv</guid>
+      <guid>http://etienneburdet.github.io/Vita/cv</guid>
       <description>&lt;p&gt;Ma vie mon oeuvre&lt;/p&gt;
 </description>
     </item>
