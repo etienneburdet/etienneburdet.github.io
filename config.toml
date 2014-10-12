@@ -10,8 +10,12 @@ title="Etienne Burdet"
    category = "categories"
    tag = "tags"
 
+[Author]
+  name = "Etienne Burdet"
+  
 [Params]
-   Description = "Modeling, Analyzing, Observing and Enjoying Cities."
-   twitter = "https://twitter.com/GourmetSolitair"
+   Description = "Modeling, Analyzing and Enjoying Cities."
+   twitter = "https://twitter.com/EtienneBurdet"
    linkedin = "https://www.linkedin.com/pub/etienne-burdet/16/25b/954"
    github = "https://github.com/etienneburdet"
+   author = "Etienne Burdet"

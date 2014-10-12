@@ -19,7 +19,6 @@
       {{end}}
     </ul>
 
-
-    <p>{{ with .Site.Params.Copyright }}{{.}}{{ else }}&copy; {{.Now.Format "2006"}}. All rights reserved. {{end}}</p>
-  </div>
+    <p>
+    <p class="footnote">{{ with .Site.Params.Copyright }}{{.}}{{ else }}&copy; {{.Now.Format "2006"}} Etienne Burdet, all rights reserved. {{end}} <br /> powered by <a href="http://gohugo.io/">Hugo</a></p>  </div>
 </div>
