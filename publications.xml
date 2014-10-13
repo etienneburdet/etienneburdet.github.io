@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Publications on Etienne Burdet </title>
+      <generator uri="https://hugo.spf13.com">Hugo</generator>
+    <link>http://etienneburdet.github.io/publications.xml</link>
+    
+    <author>Etienne Burdet</author>
+    
+    <updated>Sat, 11 Oct 2014 16:47:33 UTC</updated>
+    
+    <item>
+      <title>Publications</title>
+      <link>http://etienneburdet.github.io/Publications/publi.html</link>
+      <pubDate>Sat, 11 Oct 2014 16:47:33 UTC</pubDate>
+      <author>Etienne Burdet</author>
+      <guid>http://etienneburdet.github.io/Publications/publi.html</guid>
+      <description>
+
+&lt;h3 id=&#34;toc_0&#34;&gt;Journal Preprint (waiting for review)&lt;/h3&gt;
+
+&lt;h3 id=&#34;toc_1&#34;&gt;Conference papers&lt;/h3&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
