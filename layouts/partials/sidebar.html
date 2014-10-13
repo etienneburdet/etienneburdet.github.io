@@ -9,8 +9,8 @@
 
 
     <ul class="sidebar-nav">
-      <li><a href="/">Blog</a></li>
-      <li><a href="/ressources">Ressources</a></li>
+      <li><a href="{{ .Site.BaseUrl }}/">Blog</a></li>
+      <li><a href="{{ .Site.BaseUrl }}/ressources">Ressources</a></li>
       {{ range .Site.Menus.main }}
         <li><a href="{{.Url}}"> {{ .Name }} </a></li>
       {{end}}
