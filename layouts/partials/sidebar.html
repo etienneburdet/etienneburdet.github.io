@@ -2,10 +2,6 @@
   <div class="container sidebar-sticky">
     <div class="sidebar-about">
       <h1>{{ .Site.Title }}</h1>
-      {{ with .Site.Params.github }}<a href="{{ . }}"><i class="fa fa-github fa-lg"></i></a>{{ end }}
-      {{ with .Site.Params.linkedin }}<a href="{{ . }}"><i class="fa fa-linkedin-square fa-lg"></i></a>{{ end }}
-      {{ with .Site.Params.twitter }}<a href="{{ . }}"><i class="fa fa-twitter fa-lg"></i></a>{{ end }}
-      <a href="{{ .RSSlink }}"><i class="fa fa-rss fa-lg"></i></a>
       <p class="lead">
       {{ with .Site.Params.Description }} {{.}} {{ else }}An elegant open source and mobile first theme for <a href="http://hugo.spf13.com">hugo</a> made by <a href="http://twitter.com/mdo">@mdo</a>. Originally made for Jekyll.{{end}}
       </p>
@@ -19,6 +15,13 @@
         <li><a href="{{.Url}}"> {{ .Name }} </a></li>
       {{end}}
     </ul>
+
+    <p class="sidebar-nav">
+      {{ with .Site.Params.github }}<a href="{{ . }}"><i class="fa fa-github fa-lg"></i></a>{{ end }}
+      {{ with .Site.Params.linkedin }}<a href="{{ . }}"><i class="fa fa-linkedin-square fa-lg"></i></a>{{ end }}
+      {{ with .Site.Params.twitter }}<a href="{{ . }}"><i class="fa fa-twitter fa-lg"></i></a>{{ end }}
+      <a href="{{ .RSSlink }}"><i class="fa fa-rss fa-lg"></i></a>
+    </p>
 
     <p class="footnote"> {{ with .Site.Params.Copyright }}{{.}}{{ else }}&copy; {{.Now.Format "2006"}} Etienne Burdet. All rights reserved. {{end}} <br /> powered by <a href="http://gohugo.io/">Hugo</a></p>  </div>
 </div>

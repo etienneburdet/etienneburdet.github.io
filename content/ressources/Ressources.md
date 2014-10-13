@@ -5,4 +5,14 @@ title = "Ressources"
 
 +++
 
-### Software
+### Software Linup
+
+*Text editor* : Atom / Emacs
+*Latex* : TeXmaker
+*Mindmapping* : Freeplane
+
+### LateX
+
+
+### Website
+Github repo for this website (barebone, without content)

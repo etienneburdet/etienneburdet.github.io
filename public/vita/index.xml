@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
       <title>Vita on Etienne Burdet </title>
-      <generator uri="https://hugo.spf13.com">Hugo</generator>
-    <link>http://etienneburdet.github.io/vita/index.xml</link>
+      <generator uri="https://gohugo.io">Hugo</generator>
+    <link>http://etienneburdet.github.io/hugo/vita/index.xml/</link>
     
     <author>Etienne Burdet</author>
     
@@ -11,10 +11,10 @@
     
     <item>
       <title>Vita</title>
-      <link>http://etienneburdet.github.io/Vita/cv</link>
+      <link>http://etienneburdet.github.io/hugo/Vita/cv/</link>
       <pubDate>Wed, 08 Oct 2014 17:56:26 CEST</pubDate>
       <author>Etienne Burdet</author>
-      <guid>http://etienneburdet.github.io/Vita/cv</guid>
+      <guid>http://etienneburdet.github.io/hugo/Vita/cv/</guid>
       <description>&lt;p&gt;Ma vie mon oeuvre&lt;/p&gt;
 </description>
     </item>
