@@ -8,14 +8,17 @@ menu = "main"
 ### Software Linup
 
 * [**Atom**](https://atom.io/) : switching from Emacs, still using emacs for a few minor modes (mainly GNU-Octave).
-* [**TeXmaker**](http://www.xm1math.net/texmaker/index_fr.html) : mainly because it's cross platform and provides super easy access to multiple compile options, shortcuts etc. (I hope a nice Atom package shows up though).
-* [**Freeplane**](http://freeplane.sourceforge.net/wiki/index.php/Main_Page)
+* [**TeXmaker**](http://www.xm1math.net/texmaker/index_fr.html) : mainly because it's cross platform and provides super easy access to multiple compile options, shortcuts etc. But I hope a nice Atom package shows up.
+* [**Freeplane**](http://freeplane.sourceforge.net/wiki/index.php/Main_Page) : simple and actively developped.
 * [**GNU-Octave**](https://www.gnu.org/software/octave/) : who needs Matlab ? Still mostly compatible with it.
+* [**CitySim**](http://citysim.epfl.ch/) : Has the very big advantage of being integrable into a multi-software workflow (Rhino, autoCAD for preprocessing, Octave for post-process etc.).
+* **Rhino** : my CAD software of choice for designing urban blocks. No good OS alternative as far as I know.
+* **Illustrator** : Maybe a bit overkill for simple workflows, pictograms and posters but… we get used to comfort.
+* **Mendeley** : classic.
+
 
 ### LateX
-*Phd and Vita template on their ways…*
-**Essential packages** : microtype (the nail in the coffin for word processors), 
-I only use lualatex as of now
 
-### Website
-Barebone, without content. [Hugo](http://gohugo.io/) stock [Hyde](https://github.com/spf13/hugoThemes) theme, with very few tweaks. Good for a lazy clone. Deploy script is obviously for github hosting.
+**Packages** : microtype, glossaries, lineno, cleveref, flafter, lmodern, tikz, siuntix, booktabs.
+
+A very nice trick for having [matlab figures in LateX](http://www.howtotex.com/packages/beautiful-matlab-figures-in-latex/) using tikz.
