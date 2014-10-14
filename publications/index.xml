@@ -3,7 +3,7 @@
   <channel>
       <title>Publications on Etienne Burdet </title>
       <generator uri="https://gohugo.io">Hugo</generator>
-    <link>http://etienneburdet.github.io/hugo/publications/index.xml/</link>
+    <link>http://localhost:1313/hugo/publications/index.xml/</link>
     
     <author>Etienne Burdet</author>
     
@@ -11,10 +11,10 @@
     
     <item>
       <title>Publications</title>
-      <link>http://etienneburdet.github.io/hugo/Publications/publi/</link>
+      <link>http://localhost:1313/hugo/Publications/publi/</link>
       <pubDate>Sat, 11 Oct 2014 16:47:33 UTC</pubDate>
       <author>Etienne Burdet</author>
-      <guid>http://etienneburdet.github.io/hugo/Publications/publi/</guid>
+      <guid>http://localhost:1313/hugo/Publications/publi/</guid>
       <description>
 
 &lt;h3 id=&#34;toc_0&#34;&gt;Journal Preprint (waiting for review)&lt;/h3&gt;
