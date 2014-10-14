@@ -2,13 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
       <title>Recent Content on Etienne Burdet </title>
-<<<<<<< HEAD
       <generator uri="https://gohugo.io">Hugo</generator>
-    <link>http://localhost:1313/hugo/index.xml/</link>
-=======
-      <generator uri="https://hugo.spf13.com">Hugo</generator>
-    <link>/index.xml</link>
->>>>>>> c3da503160c6da3e9d069c054b551f68087637c0
+    <link>http://etienneburdet.github.io/hugo/index.xml/</link>
     
     <author>Etienne Burdet</author>
     
@@ -16,17 +11,10 @@
     
     <item>
       <title>Publications</title>
-<<<<<<< HEAD
-      <link>http://localhost:1313/hugo/Publications/publi/</link>
+      <link>http://etienneburdet.github.io/hugo/Publications/publi/</link>
       <pubDate>Sat, 11 Oct 2014 16:47:33 UTC</pubDate>
       <author>Etienne Burdet</author>
-      <guid>http://localhost:1313/hugo/Publications/publi/</guid>
-=======
-      <link>/Publications/publi</link>
-      <pubDate>Sat, 11 Oct 2014 16:47:33 UTC</pubDate>
-      <author>Etienne Burdet</author>
-      <guid>/Publications/publi</guid>
->>>>>>> c3da503160c6da3e9d069c054b551f68087637c0
+      <guid>http://etienneburdet.github.io/hugo/Publications/publi/</guid>
       <description>
 
 &lt;h3 id=&#34;toc_0&#34;&gt;Journal Preprint (waiting for review)&lt;/h3&gt;
@@ -37,137 +25,88 @@
     
     <item>
       <title>Ressources</title>
-<<<<<<< HEAD
-      <link>http://localhost:1313/hugo/ressources/Ressources/</link>
+      <link>http://etienneburdet.github.io/hugo/ressources/Ressources/</link>
       <pubDate>Sat, 11 Oct 2014 16:47:12 UTC</pubDate>
       <author>Etienne Burdet</author>
-      <guid>http://localhost:1313/hugo/ressources/Ressources/</guid>
-=======
-      <link>/ressources/Ressources</link>
-      <pubDate>Sat, 11 Oct 2014 16:47:12 UTC</pubDate>
-      <author>Etienne Burdet</author>
-      <guid>/ressources/Ressources</guid>
->>>>>>> c3da503160c6da3e9d069c054b551f68087637c0
+      <guid>http://etienneburdet.github.io/hugo/ressources/Ressources/</guid>
       <description>
 
 &lt;h3 id=&#34;toc_0&#34;&gt;Software Linup&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://atom.io/&#34;&gt;&lt;strong&gt;Atom&lt;/strong&gt;&lt;/a&gt; : switching from Emacs, still using emacs for a few minor modes (mainly GNU-Octave).&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.xm1math.net/texmaker/index_fr.html&#34;&gt;&lt;strong&gt;TeXmaker&lt;/strong&gt;&lt;/a&gt; : mainly because it&amp;rsquo;s cross platform and provides super easy access to multiple compile options, shortcuts etc. (I hope a nice Atom package shows up though).&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://freeplane.sourceforge.net/wiki/index.php/Main_Page&#34;&gt;&lt;strong&gt;Freeplane&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.xm1math.net/texmaker/index_fr.html&#34;&gt;&lt;strong&gt;TeXmaker&lt;/strong&gt;&lt;/a&gt; : mainly because it&amp;rsquo;s cross platform and provides super easy access to multiple compile options, shortcuts etc. But I hope a nice Atom package shows up.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://freeplane.sourceforge.net/wiki/index.php/Main_Page&#34;&gt;&lt;strong&gt;Freeplane&lt;/strong&gt;&lt;/a&gt; : simple and actively developped.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.gnu.org/software/octave/&#34;&gt;&lt;strong&gt;GNU-Octave&lt;/strong&gt;&lt;/a&gt; : who needs Matlab ? Still mostly compatible with it.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://citysim.epfl.ch/&#34;&gt;&lt;strong&gt;CitySim&lt;/strong&gt;&lt;/a&gt; : Has the very big advantage of being integrable into a multi-software workflow (Rhino, autoCAD for preprocessing, Octave for post-process etc.).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Rhino&lt;/strong&gt; : my CAD software of choice for designing urban blocks. No good OS alternative as far as I know.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Illustrator&lt;/strong&gt; : Maybe a bit overkill for simple workflows, pictograms and posters but… we get used to comfort.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mendeley&lt;/strong&gt; : classic.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&#34;toc_1&#34;&gt;LateX&lt;/h3&gt;
 
-&lt;p&gt;&lt;em&gt;Phd and Vita template on their ways…&lt;/em&gt;
-&lt;strong&gt;Essential packages&lt;/strong&gt; : microtype (the nail in the coffin for word processors),
-I only use lualatex as of now&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Packages&lt;/strong&gt; : microtype, glossaries, lineno, cleveref, flafter, lmodern, tikz, siuntix, booktabs.&lt;/p&gt;
 
-&lt;h3 id=&#34;toc_2&#34;&gt;Website&lt;/h3&gt;
-
-&lt;p&gt;Barebone, without content. &lt;a href=&#34;http://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; stock &lt;a href=&#34;https://github.com/spf13/hugoThemes&#34;&gt;Hyde&lt;/a&gt; theme, with very few tweaks. Good for a lazy clone. Deploy script is obviously for github hosting.&lt;/p&gt;
+&lt;p&gt;A very nice trick for having &lt;a href=&#34;http://www.howtotex.com/packages/beautiful-matlab-figures-in-latex/&#34;&gt;matlab figures in LateX&lt;/a&gt; using tikz.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Vita</title>
-<<<<<<< HEAD
-      <link>http://localhost:1313/hugo/Vita/cv/</link>
+      <link>http://etienneburdet.github.io/hugo/Vita/cv/</link>
       <pubDate>Wed, 08 Oct 2014 17:56:26 CEST</pubDate>
       <author>Etienne Burdet</author>
-      <guid>http://localhost:1313/hugo/Vita/cv/</guid>
-=======
-      <link>/Vita/cv</link>
-      <pubDate>Wed, 08 Oct 2014 17:56:26 CEST</pubDate>
-      <author>Etienne Burdet</author>
-      <guid>/Vita/cv</guid>
->>>>>>> c3da503160c6da3e9d069c054b551f68087637c0
+      <guid>http://etienneburdet.github.io/hugo/Vita/cv/</guid>
       <description>&lt;p&gt;Ma vie mon oeuvre&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>third</title>
-<<<<<<< HEAD
-      <link>http://localhost:1313/hugo/post/third/</link>
+      <link>http://etienneburdet.github.io/hugo/post/third/</link>
       <pubDate>Wed, 08 Oct 2014 17:51:27 CEST</pubDate>
       <author>Etienne Burdet</author>
-      <guid>http://localhost:1313/hugo/post/third/</guid>
-=======
-      <link>/post/third</link>
-      <pubDate>Wed, 08 Oct 2014 17:51:27 CEST</pubDate>
-      <author>Etienne Burdet</author>
-      <guid>/post/third</guid>
->>>>>>> c3da503160c6da3e9d069c054b551f68087637c0
+      <guid>http://etienneburdet.github.io/hugo/post/third/</guid>
       <description></description>
     </item>
     
     <item>
       <title>post</title>
-<<<<<<< HEAD
-      <link>http://localhost:1313/hugo/post/</link>
+      <link>http://etienneburdet.github.io/hugo/post/</link>
       <pubDate>Wed, 08 Oct 2014 17:48:44 CEST</pubDate>
       <author>Etienne Burdet</author>
-      <guid>http://localhost:1313/hugo/post/</guid>
-=======
-      <link>/post</link>
-      <pubDate>Wed, 08 Oct 2014 17:48:44 CEST</pubDate>
-      <author>Etienne Burdet</author>
-      <guid>/post</guid>
->>>>>>> c3da503160c6da3e9d069c054b551f68087637c0
+      <guid>http://etienneburdet.github.io/hugo/post/</guid>
       <description>&lt;p&gt;LOL&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>first</title>
-<<<<<<< HEAD
-      <link>http://localhost:1313/hugo/post/first/</link>
+      <link>http://etienneburdet.github.io/hugo/post/first/</link>
       <pubDate>Mon, 30 Jun 2014 21:02:17 UTC</pubDate>
       <author>Etienne Burdet</author>
-      <guid>http://localhost:1313/hugo/post/first/</guid>
-=======
-      <link>/post/first</link>
-      <pubDate>Mon, 30 Jun 2014 21:02:17 UTC</pubDate>
-      <author>Etienne Burdet</author>
-      <guid>/post/first</guid>
->>>>>>> c3da503160c6da3e9d069c054b551f68087637c0
+      <guid>http://etienneburdet.github.io/hugo/post/first/</guid>
       <description>&lt;p&gt;HO&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>about</title>
-<<<<<<< HEAD
-      <link>http://localhost:1313/hugo/about/</link>
+      <link>http://etienneburdet.github.io/hugo/about/</link>
       <pubDate>Mon, 30 Jun 2014 21:02:06 UTC</pubDate>
       <author>Etienne Burdet</author>
-      <guid>http://localhost:1313/hugo/about/</guid>
-=======
-      <link>/about</link>
-      <pubDate>Mon, 30 Jun 2014 21:02:06 UTC</pubDate>
-      <author>Etienne Burdet</author>
-      <guid>/about</guid>
->>>>>>> c3da503160c6da3e9d069c054b551f68087637c0
+      <guid>http://etienneburdet.github.io/hugo/about/</guid>
       <description>&lt;p&gt;ROFLCOPTER&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>second</title>
-<<<<<<< HEAD
-      <link>http://localhost:1313/hugo/post/second/</link>
+      <link>http://etienneburdet.github.io/hugo/post/second/</link>
       <pubDate>Mon, 30 Jun 2014 21:01:42 UTC</pubDate>
       <author>Etienne Burdet</author>
-      <guid>http://localhost:1313/hugo/post/second/</guid>
-=======
-      <link>/post/second</link>
-      <pubDate>Mon, 30 Jun 2014 21:01:42 UTC</pubDate>
-      <author>Etienne Burdet</author>
-      <guid>/post/second</guid>
->>>>>>> c3da503160c6da3e9d069c054b551f68087637c0
+      <guid>http://etienneburdet.github.io/hugo/post/second/</guid>
       <description>&lt;p&gt;NOZ&lt;/p&gt;
 </description>
     </item>
