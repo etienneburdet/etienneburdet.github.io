@@ -2,8 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
       <title>Posts on Etienne Burdet </title>
+<<<<<<< HEAD
       <generator uri="https://gohugo.io">Hugo</generator>
     <link>http://localhost:1313/hugo/post/index.xml/</link>
+=======
+      <generator uri="https://hugo.spf13.com">Hugo</generator>
+    <link>/post/index.xml</link>
+>>>>>>> c3da503160c6da3e9d069c054b551f68087637c0
     
     <author>Etienne Burdet</author>
     
@@ -11,29 +16,50 @@
     
     <item>
       <title>third</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/hugo/post/third/</link>
       <pubDate>Wed, 08 Oct 2014 17:51:27 CEST</pubDate>
       <author>Etienne Burdet</author>
       <guid>http://localhost:1313/hugo/post/third/</guid>
+=======
+      <link>/post/third</link>
+      <pubDate>Wed, 08 Oct 2014 17:51:27 CEST</pubDate>
+      <author>Etienne Burdet</author>
+      <guid>/post/third</guid>
+>>>>>>> c3da503160c6da3e9d069c054b551f68087637c0
       <description></description>
     </item>
     
     <item>
       <title>first</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/hugo/post/first/</link>
       <pubDate>Mon, 30 Jun 2014 21:02:17 UTC</pubDate>
       <author>Etienne Burdet</author>
       <guid>http://localhost:1313/hugo/post/first/</guid>
+=======
+      <link>/post/first</link>
+      <pubDate>Mon, 30 Jun 2014 21:02:17 UTC</pubDate>
+      <author>Etienne Burdet</author>
+      <guid>/post/first</guid>
+>>>>>>> c3da503160c6da3e9d069c054b551f68087637c0
       <description>&lt;p&gt;HO&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>second</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/hugo/post/second/</link>
       <pubDate>Mon, 30 Jun 2014 21:01:42 UTC</pubDate>
       <author>Etienne Burdet</author>
       <guid>http://localhost:1313/hugo/post/second/</guid>
+=======
+      <link>/post/second</link>
+      <pubDate>Mon, 30 Jun 2014 21:01:42 UTC</pubDate>
+      <author>Etienne Burdet</author>
+      <guid>/post/second</guid>
+>>>>>>> c3da503160c6da3e9d069c054b551f68087637c0
       <description>&lt;p&gt;NOZ&lt;/p&gt;
 </description>
     </item>

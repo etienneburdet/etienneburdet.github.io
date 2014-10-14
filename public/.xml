@@ -2,13 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
       <title>Recent Content on Etienne Burdet </title>
-<<<<<<< HEAD
-      <generator uri="https://gohugo.io">Hugo</generator>
-    <link>http://localhost:1313/hugo/index.xml/</link>
-=======
       <generator uri="https://hugo.spf13.com">Hugo</generator>
-    <link>/index.xml</link>
->>>>>>> c3da503160c6da3e9d069c054b551f68087637c0
+    <link>http://etienneburdet.github.io/index.xml</link>
     
     <author>Etienne Burdet</author>
     
@@ -16,17 +11,10 @@
     
     <item>
       <title>Publications</title>
-<<<<<<< HEAD
-      <link>http://localhost:1313/hugo/Publications/publi/</link>
+      <link>http://etienneburdet.github.io/Publications/publi.html</link>
       <pubDate>Sat, 11 Oct 2014 16:47:33 UTC</pubDate>
       <author>Etienne Burdet</author>
-      <guid>http://localhost:1313/hugo/Publications/publi/</guid>
-=======
-      <link>/Publications/publi</link>
-      <pubDate>Sat, 11 Oct 2014 16:47:33 UTC</pubDate>
-      <author>Etienne Burdet</author>
-      <guid>/Publications/publi</guid>
->>>>>>> c3da503160c6da3e9d069c054b551f68087637c0
+      <guid>http://etienneburdet.github.io/Publications/publi.html</guid>
       <description>
 
 &lt;h3 id=&#34;toc_0&#34;&gt;Journal Preprint (waiting for review)&lt;/h3&gt;
@@ -37,17 +25,10 @@
     
     <item>
       <title>Ressources</title>
-<<<<<<< HEAD
-      <link>http://localhost:1313/hugo/ressources/Ressources/</link>
+      <link>http://etienneburdet.github.io/ressources/Ressources.html</link>
       <pubDate>Sat, 11 Oct 2014 16:47:12 UTC</pubDate>
       <author>Etienne Burdet</author>
-      <guid>http://localhost:1313/hugo/ressources/Ressources/</guid>
-=======
-      <link>/ressources/Ressources</link>
-      <pubDate>Sat, 11 Oct 2014 16:47:12 UTC</pubDate>
-      <author>Etienne Burdet</author>
-      <guid>/ressources/Ressources</guid>
->>>>>>> c3da503160c6da3e9d069c054b551f68087637c0
+      <guid>http://etienneburdet.github.io/ressources/Ressources.html</guid>
       <description>
 
 &lt;h3 id=&#34;toc_0&#34;&gt;Software Linup&lt;/h3&gt;
@@ -73,101 +54,59 @@ I only use lualatex as of now&lt;/p&gt;
     
     <item>
       <title>Vita</title>
-<<<<<<< HEAD
-      <link>http://localhost:1313/hugo/Vita/cv/</link>
+      <link>http://etienneburdet.github.io/Vita/cv.html</link>
       <pubDate>Wed, 08 Oct 2014 17:56:26 CEST</pubDate>
       <author>Etienne Burdet</author>
-      <guid>http://localhost:1313/hugo/Vita/cv/</guid>
-=======
-      <link>/Vita/cv</link>
-      <pubDate>Wed, 08 Oct 2014 17:56:26 CEST</pubDate>
-      <author>Etienne Burdet</author>
-      <guid>/Vita/cv</guid>
->>>>>>> c3da503160c6da3e9d069c054b551f68087637c0
+      <guid>http://etienneburdet.github.io/Vita/cv.html</guid>
       <description>&lt;p&gt;Ma vie mon oeuvre&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>third</title>
-<<<<<<< HEAD
-      <link>http://localhost:1313/hugo/post/third/</link>
+      <link>http://etienneburdet.github.io/post/third.html</link>
       <pubDate>Wed, 08 Oct 2014 17:51:27 CEST</pubDate>
       <author>Etienne Burdet</author>
-      <guid>http://localhost:1313/hugo/post/third/</guid>
-=======
-      <link>/post/third</link>
-      <pubDate>Wed, 08 Oct 2014 17:51:27 CEST</pubDate>
-      <author>Etienne Burdet</author>
-      <guid>/post/third</guid>
->>>>>>> c3da503160c6da3e9d069c054b551f68087637c0
+      <guid>http://etienneburdet.github.io/post/third.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>post</title>
-<<<<<<< HEAD
-      <link>http://localhost:1313/hugo/post/</link>
+      <link>http://etienneburdet.github.io/post.html</link>
       <pubDate>Wed, 08 Oct 2014 17:48:44 CEST</pubDate>
       <author>Etienne Burdet</author>
-      <guid>http://localhost:1313/hugo/post/</guid>
-=======
-      <link>/post</link>
-      <pubDate>Wed, 08 Oct 2014 17:48:44 CEST</pubDate>
-      <author>Etienne Burdet</author>
-      <guid>/post</guid>
->>>>>>> c3da503160c6da3e9d069c054b551f68087637c0
+      <guid>http://etienneburdet.github.io/post.html</guid>
       <description>&lt;p&gt;LOL&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>first</title>
-<<<<<<< HEAD
-      <link>http://localhost:1313/hugo/post/first/</link>
+      <link>http://etienneburdet.github.io/post/first.html</link>
       <pubDate>Mon, 30 Jun 2014 21:02:17 UTC</pubDate>
       <author>Etienne Burdet</author>
-      <guid>http://localhost:1313/hugo/post/first/</guid>
-=======
-      <link>/post/first</link>
-      <pubDate>Mon, 30 Jun 2014 21:02:17 UTC</pubDate>
-      <author>Etienne Burdet</author>
-      <guid>/post/first</guid>
->>>>>>> c3da503160c6da3e9d069c054b551f68087637c0
+      <guid>http://etienneburdet.github.io/post/first.html</guid>
       <description>&lt;p&gt;HO&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>about</title>
-<<<<<<< HEAD
-      <link>http://localhost:1313/hugo/about/</link>
+      <link>http://etienneburdet.github.io/about.html</link>
       <pubDate>Mon, 30 Jun 2014 21:02:06 UTC</pubDate>
       <author>Etienne Burdet</author>
-      <guid>http://localhost:1313/hugo/about/</guid>
-=======
-      <link>/about</link>
-      <pubDate>Mon, 30 Jun 2014 21:02:06 UTC</pubDate>
-      <author>Etienne Burdet</author>
-      <guid>/about</guid>
->>>>>>> c3da503160c6da3e9d069c054b551f68087637c0
+      <guid>http://etienneburdet.github.io/about.html</guid>
       <description>&lt;p&gt;ROFLCOPTER&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>second</title>
-<<<<<<< HEAD
-      <link>http://localhost:1313/hugo/post/second/</link>
+      <link>http://etienneburdet.github.io/post/second.html</link>
       <pubDate>Mon, 30 Jun 2014 21:01:42 UTC</pubDate>
       <author>Etienne Burdet</author>
-      <guid>http://localhost:1313/hugo/post/second/</guid>
-=======
-      <link>/post/second</link>
-      <pubDate>Mon, 30 Jun 2014 21:01:42 UTC</pubDate>
-      <author>Etienne Burdet</author>
-      <guid>/post/second</guid>
->>>>>>> c3da503160c6da3e9d069c054b551f68087637c0
+      <guid>http://etienneburdet.github.io/post/second.html</guid>
       <description>&lt;p&gt;NOZ&lt;/p&gt;
 </description>
     </item>

@@ -2,48 +2,84 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+<<<<<<< HEAD
     <loc>http://localhost:1313/hugo/</loc>
+=======
+    <loc>/</loc>
+>>>>>>> c3da503160c6da3e9d069c054b551f68087637c0
     <lastmod>2014-10-11T16:47:33+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>http://localhost:1313/hugo/Publications/publi/</loc>
+=======
+    <loc>/Publications/publi</loc>
+>>>>>>> c3da503160c6da3e9d069c054b551f68087637c0
     <lastmod>2014-10-11T16:47:33+00:00</lastmod>
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>http://localhost:1313/hugo/ressources/Ressources/</loc>
+=======
+    <loc>/ressources/Ressources</loc>
+>>>>>>> c3da503160c6da3e9d069c054b551f68087637c0
     <lastmod>2014-10-11T16:47:12+00:00</lastmod>
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>http://localhost:1313/hugo/Vita/cv/</loc>
+=======
+    <loc>/Vita/cv</loc>
+>>>>>>> c3da503160c6da3e9d069c054b551f68087637c0
     <lastmod>2014-10-08T17:56:26+02:00</lastmod>
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>http://localhost:1313/hugo/post/third/</loc>
+=======
+    <loc>/post/third</loc>
+>>>>>>> c3da503160c6da3e9d069c054b551f68087637c0
     <lastmod>2014-10-08T17:51:27+02:00</lastmod>
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>http://localhost:1313/hugo/post/</loc>
+=======
+    <loc>/post</loc>
+>>>>>>> c3da503160c6da3e9d069c054b551f68087637c0
     <lastmod>2014-10-08T17:48:44+02:00</lastmod>
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>http://localhost:1313/hugo/post/first/</loc>
+=======
+    <loc>/post/first</loc>
+>>>>>>> c3da503160c6da3e9d069c054b551f68087637c0
     <lastmod>2014-06-30T21:02:17+00:00</lastmod>
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>http://localhost:1313/hugo/about/</loc>
+=======
+    <loc>/about</loc>
+>>>>>>> c3da503160c6da3e9d069c054b551f68087637c0
     <lastmod>2014-06-30T21:02:06+00:00</lastmod>
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>http://localhost:1313/hugo/post/second/</loc>
+=======
+    <loc>/post/second</loc>
+>>>>>>> c3da503160c6da3e9d069c054b551f68087637c0
     <lastmod>2014-06-30T21:01:42+00:00</lastmod>
   </url>
   
