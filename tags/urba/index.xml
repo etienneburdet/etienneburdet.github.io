@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Urba on Etienne Burdet </title>
+      <generator uri="https://hugo.spf13.com">Hugo</generator>
+    <link>http://localhost:1313/tags/urba/index.xml</link>
+    
+    <author>Etienne Burdet</author>
+    
+    <updated>Sat, 18 Oct 2014 14:28:36 UTC</updated>
+    
+    <item>
+      <title>Readings</title>
+      <link>http://localhost:1313/ressources/readings</link>
+      <pubDate>Sat, 18 Oct 2014 14:28:36 UTC</pubDate>
+      <author>Etienne Burdet</author>
+      <guid>http://localhost:1313/ressources/readings</guid>
+      <description>
+
+&lt;p&gt;A few selected readings I&amp;rsquo;m often asked for.&lt;/p&gt;
+
+&lt;h3 id=&#34;toc_0&#34;&gt;Articles&lt;/h3&gt;
+
+&lt;h3 id=&#34;toc_1&#34;&gt;Books&lt;/h3&gt;
+
+&lt;h3 id=&#34;toc_2&#34;&gt;On-line&lt;/h3&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
