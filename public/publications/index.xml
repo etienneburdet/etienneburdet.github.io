@@ -2,13 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
       <title>Publications on Etienne Burdet </title>
-<<<<<<< HEAD
       <generator uri="https://hugo.spf13.com">Hugo</generator>
     <link>http://localhost:1313/publications/index.xml</link>
-=======
-      <generator uri="https://gohugo.io">Hugo</generator>
-    <link>http://localhost:1313/hugo/publications/index.xml/</link>
->>>>>>> afaee223e9afc5e34336ecc172ffacfd23c56346
     
     <author>Etienne Burdet</author>
     
@@ -16,17 +11,10 @@
     
     <item>
       <title>Publications</title>
-<<<<<<< HEAD
       <link>http://localhost:1313/Publications/publi</link>
       <pubDate>Sat, 11 Oct 2014 16:47:33 UTC</pubDate>
       <author>Etienne Burdet</author>
       <guid>http://localhost:1313/Publications/publi</guid>
-=======
-      <link>http://localhost:1313/hugo/Publications/publi/</link>
-      <pubDate>Sat, 11 Oct 2014 16:47:33 UTC</pubDate>
-      <author>Etienne Burdet</author>
-      <guid>http://localhost:1313/hugo/Publications/publi/</guid>
->>>>>>> afaee223e9afc5e34336ecc172ffacfd23c56346
       <description>
 
 &lt;h3 id=&#34;toc_0&#34;&gt;Journal Preprint (waiting for review)&lt;/h3&gt;
