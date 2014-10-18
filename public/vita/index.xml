@@ -3,7 +3,7 @@
   <channel>
       <title>Vita on Etienne Burdet </title>
       <generator uri="https://gohugo.io">Hugo</generator>
-    <link>http://etienneburdet.github.io/hugo/vita/index.xml/</link>
+    <link>http://localhost:1313/hugo/vita/index.xml/</link>
     
     <author>Etienne Burdet</author>
     
@@ -11,10 +11,10 @@
     
     <item>
       <title>Vita</title>
-      <link>http://etienneburdet.github.io/hugo/Vita/cv/</link>
+      <link>http://localhost:1313/hugo/Vita/cv/</link>
       <pubDate>Wed, 08 Oct 2014 17:56:26 CEST</pubDate>
       <author>Etienne Burdet</author>
-      <guid>http://etienneburdet.github.io/hugo/Vita/cv/</guid>
+      <guid>http://localhost:1313/hugo/Vita/cv/</guid>
       <description>&lt;p&gt;Ma vie mon oeuvre&lt;/p&gt;
 </description>
     </item>

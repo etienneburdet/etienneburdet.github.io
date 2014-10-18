@@ -10,9 +10,9 @@
   <title> about &middot; Etienne Burdet </title>
 
   
-  <link rel="stylesheet" href="http://etienneburdet.github.io/hugo/css/poole.css">
-  <link rel="stylesheet" href="http://etienneburdet.github.io/hugo/css/syntax.css">
-  <link rel="stylesheet" href="http://etienneburdet.github.io/hugo/css/hyde.css">
+  <link rel="stylesheet" href="http://localhost:1313/hugo/css/poole.css">
+  <link rel="stylesheet" href="http://localhost:1313/hugo/css/syntax.css">
+  <link rel="stylesheet" href="http://localhost:1313/hugo/css/hyde.css">
   <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface">
 
   
@@ -32,20 +32,19 @@
     <div class="sidebar-about">
       <h1>Etienne Burdet</h1>
       <p class="lead">
-        Modeling, Analyzing and Enjoying Cities. <br /> Phd. Candidate at <a href="http://www.eivp-paris.fr/">EIVP</a>.
+        Modeling, Analyzing and Enjoying Cities. 
       </p>
     </div>
 
 
     <ul class="sidebar-nav">
-      <li><a href="http://etienneburdet.github.io/hugo/">Blog</a></li>
+      <li><a href="http://localhost:1313/hugo/">Blog</a></li>
       
-        <li><a href="http://etienneburdet.github.io/hugo/Publications/publi/"> Publications </a></li>
+        <li><a href="http://localhost:1313/hugo/Publications/publi/"> Publications </a></li>
       
-        <li><a href="http://etienneburdet.github.io/hugo/ressources/Ressources/"> Ressources </a></li>
+        <li><a href="http://localhost:1313/hugo/ressources/Ressources/"> Ressources </a></li>
       
-        <li><a href="http://etienneburdet.github.io/hugo/Vita/cv/"> Vita </a></li>
-      
+      <li><a href="http://localhost:1313/hugo/EtienneBurdet_CV.pdf">CV</a>
     </ul>
 
     <p class="sidebar-nav">
@@ -68,5 +67,8 @@
 </div>
 </div>
 
-  </body>
+  <script>document.write('<script src="http://'
+        + (location.host || 'localhost').split(':')[0]
+		+ ':1313/livereload.js?mindelay=10"></'
+        + 'script>')</script></body>
 </html>
