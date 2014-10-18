@@ -2,48 +2,80 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+<<<<<<< HEAD
     <loc>http://localhost:1313/</loc>
+=======
+    <loc>http://localhost:1313/hugo/</loc>
+>>>>>>> afaee223e9afc5e34336ecc172ffacfd23c56346
     <lastmod>2014-10-11T16:47:33+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>http://localhost:1313/Publications/publi</loc>
+=======
+    <loc>http://localhost:1313/hugo/Publications/publi/</loc>
+>>>>>>> afaee223e9afc5e34336ecc172ffacfd23c56346
     <lastmod>2014-10-11T16:47:33+00:00</lastmod>
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>http://localhost:1313/ressources/Ressources</loc>
+=======
+    <loc>http://localhost:1313/hugo/ressources/Ressources/</loc>
+>>>>>>> afaee223e9afc5e34336ecc172ffacfd23c56346
     <lastmod>2014-10-11T16:47:12+00:00</lastmod>
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>http://localhost:1313/Vita/cv</loc>
     <lastmod>2014-10-08T17:56:26+02:00</lastmod>
   </url>
   
   <url>
     <loc>http://localhost:1313/post/third</loc>
+=======
+    <loc>http://localhost:1313/hugo/post/third/</loc>
+>>>>>>> afaee223e9afc5e34336ecc172ffacfd23c56346
     <lastmod>2014-10-08T17:51:27+02:00</lastmod>
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>http://localhost:1313/post</loc>
+=======
+    <loc>http://localhost:1313/hugo/post/</loc>
+>>>>>>> afaee223e9afc5e34336ecc172ffacfd23c56346
     <lastmod>2014-10-08T17:48:44+02:00</lastmod>
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>http://localhost:1313/post/first</loc>
+=======
+    <loc>http://localhost:1313/hugo/post/first/</loc>
+>>>>>>> afaee223e9afc5e34336ecc172ffacfd23c56346
     <lastmod>2014-06-30T21:02:17+00:00</lastmod>
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>http://localhost:1313/about</loc>
+=======
+    <loc>http://localhost:1313/hugo/about/</loc>
+>>>>>>> afaee223e9afc5e34336ecc172ffacfd23c56346
     <lastmod>2014-06-30T21:02:06+00:00</lastmod>
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>http://localhost:1313/post/second</loc>
+=======
+    <loc>http://localhost:1313/hugo/post/second/</loc>
+>>>>>>> afaee223e9afc5e34336ecc172ffacfd23c56346
     <lastmod>2014-06-30T21:01:42+00:00</lastmod>
   </url>
   

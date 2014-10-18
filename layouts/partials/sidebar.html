@@ -3,7 +3,7 @@
     <div class="sidebar-about">
       <h1>{{ .Site.Title }}</h1>
       <p class="lead">
-      {{ with .Site.Params.Description }}  {{.}} <br /> Phd. Candidate at <a href="http://www.eivp-paris.fr/">EIVP</a>.{{ else }}An elegant open source and mobile first theme for <a href="http://hugo.spf13.com">hugo</a> made by <a href="http://twitter.com/mdo">@mdo</a>. Originally made for Jekyll.{{end}}
+      {{ with .Site.Params.Description }}  {{.}} {{ else }}An elegant open source and mobile first theme for <a href="http://hugo.spf13.com">hugo</a> made by <a href="http://twitter.com/mdo">@mdo</a>. Originally made for Jekyll.{{end}}
       </p>
     </div>
 
@@ -13,6 +13,7 @@
       {{ range .Site.Menus.main }}
         <li><a href="{{.Url}}"> {{ .Name }} </a></li>
       {{end}}
+      <li><a href="{{ .Site.BaseUrl }}/EtienneBurdet_CV.pdf">CV</a>
     </ul>
 
     <p class="sidebar-nav">

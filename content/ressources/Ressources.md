@@ -5,7 +5,7 @@ title = "Ressources"
 menu = "main"
 +++
 
-### Software Linup
+### Software Lineup
 
 * [**Atom**](https://atom.io/) : switching from Emacs, still using emacs for a few minor modes (mainly GNU-Octave).
 * [**TeXmaker**](http://www.xm1math.net/texmaker/index_fr.html) : mainly because it's cross platform and provides super easy access to multiple compile options, shortcuts etc. But I hope a nice Atom package shows up.
