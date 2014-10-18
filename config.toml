@@ -4,7 +4,7 @@ publishdir = "public"
 builddrafts = false
 canonifyurls = true
 title="Etienne Burdet"
-baseurl = "http://etienneburdet.github.io/hugo/"
+baseurl = "http://etienneburdet.github.io/hugo"
 
 [indexes]
    category = "categories"

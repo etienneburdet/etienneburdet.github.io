@@ -6,6 +6,6 @@ menu = "main"
 tags = ["science","productivity"]
 +++
 
-* [Software Lineup](/ressources/software)
+* [Software Lineup]()
 * [Latex](/ressources/latex)
 * [Readings](/ressources/readings)

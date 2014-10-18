@@ -100,7 +100,7 @@
       <author>Etienne Burdet</author>
       <guid>http://etienneburdet.github.io/hugo/ressources/Ressources/</guid>
       <description>&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;/ressources/software&#34;&gt;Software Lineup&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[Software Lineup]()&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;/ressources/latex&#34;&gt;Latex&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;/ressources/readings&#34;&gt;Readings&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
