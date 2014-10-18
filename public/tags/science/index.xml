@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Science on Etienne Burdet </title>
+      <generator uri="https://hugo.spf13.com">Hugo</generator>
+    <link>http://localhost:1313/tags/science/index.xml</link>
+    
+    <author>Etienne Burdet</author>
+    
+    <updated>Sat, 18 Oct 2014 14:28:36 UTC</updated>
+    
+    <item>
+      <title>Readings</title>
+      <link>http://localhost:1313/ressources/readings</link>
+      <pubDate>Sat, 18 Oct 2014 14:28:36 UTC</pubDate>
+      <author>Etienne Burdet</author>
+      <guid>http://localhost:1313/ressources/readings</guid>
+      <description>
+
+&lt;p&gt;A few selected readings I&amp;rsquo;m often asked for.&lt;/p&gt;
+
+&lt;h3 id=&#34;toc_0&#34;&gt;Articles&lt;/h3&gt;
+
+&lt;h3 id=&#34;toc_1&#34;&gt;Books&lt;/h3&gt;
+
+&lt;h3 id=&#34;toc_2&#34;&gt;On-line&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LaTeX </title>
+      <link>http://localhost:1313/ressources/latex</link>
+      <pubDate>Sat, 18 Oct 2014 14:11:28 UTC</pubDate>
+      <author>Etienne Burdet</author>
+      <guid>http://localhost:1313/ressources/latex</guid>
+      <description>
+
+&lt;h3 id=&#34;toc_0&#34;&gt;Templates&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/etienneburdet/Deedy-Resume&#34;&gt;My Vita&lt;/a&gt;, &lt;a href=&#34;/stilltocome&#34;&gt;My Phd. memoir&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;toc_1&#34;&gt;Useful packages you might have missed&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;microtype&lt;/strong&gt; : For the best typographic grey ever ! Default settings usually give significant improvement.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;glossaries&lt;/strong&gt; : Very powerful tool, provided you use it from the begining. Requires xindy.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;lineno&lt;/strong&gt; :  For proofreading versions.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;cleveref&lt;/strong&gt; : Really, really more clever than your usual \label \ref.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;flafter&lt;/strong&gt; : I find it distracting when a float comes before it is actually refered to.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;lmodern&lt;/strong&gt; : Defaut font enhancement.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;fontspec&lt;/strong&gt; : If you need more fonts, you can just use any .otf .ttf.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;tikz&lt;/strong&gt; : For awesome graphics. I don&amp;rsquo;t really use it by itself, rather in workflows implying it.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;siuntix&lt;/strong&gt; : Because units are boring to type.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;booktabs&lt;/strong&gt; : Beautiful tables (kill those vertical rules in tables !).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;toc_2&#34;&gt;Tips and Tricks&lt;/h3&gt;
+
+&lt;p&gt;A very nice trick for having &lt;a href=&#34;http://www.howtotex.com/packages/beautiful-matlab-figures-in-latex/&#34;&gt;matlab figures in LateX&lt;/a&gt; using tikz.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ressources</title>
+      <link>http://localhost:1313/ressources/Ressources</link>
+      <pubDate>Sat, 11 Oct 2014 16:47:12 UTC</pubDate>
+      <author>Etienne Burdet</author>
+      <guid>http://localhost:1313/ressources/Ressources</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;/ressources/software&#34;&gt;Software Lineup&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/ressources/latex&#34;&gt;Latex&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/ressources/readings&#34;&gt;Readings&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
