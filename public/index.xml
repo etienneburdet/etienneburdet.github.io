@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
       <title>Recent Content on Etienne Burdet </title>
-      <generator uri="https://gohugo.io">Hugo</generator>
-    <link>http://etienneburdet.github.io/hugo/index.xml/</link>
+      <generator uri="https://hugo.spf13.com">Hugo</generator>
+    <link>http://localhost:1313/index.xml</link>
     
     <author>Etienne Burdet</author>
     
@@ -11,10 +11,10 @@
     
     <item>
       <title>Publications</title>
-      <link>http://etienneburdet.github.io/hugo/Publications/publi/</link>
+      <link>http://localhost:1313/Publications/publi</link>
       <pubDate>Sat, 11 Oct 2014 16:47:33 UTC</pubDate>
       <author>Etienne Burdet</author>
-      <guid>http://etienneburdet.github.io/hugo/Publications/publi/</guid>
+      <guid>http://localhost:1313/Publications/publi</guid>
       <description>
 
 &lt;h3 id=&#34;toc_0&#34;&gt;Journal Preprint (waiting for review)&lt;/h3&gt;
@@ -25,10 +25,10 @@
     
     <item>
       <title>Ressources</title>
-      <link>http://etienneburdet.github.io/hugo/ressources/Ressources/</link>
+      <link>http://localhost:1313/ressources/Ressources</link>
       <pubDate>Sat, 11 Oct 2014 16:47:12 UTC</pubDate>
       <author>Etienne Burdet</author>
-      <guid>http://etienneburdet.github.io/hugo/ressources/Ressources/</guid>
+      <guid>http://localhost:1313/ressources/Ressources</guid>
       <description>
 
 &lt;h3 id=&#34;toc_0&#34;&gt;Software Linup&lt;/h3&gt;
@@ -54,59 +54,59 @@
     
     <item>
       <title>Vita</title>
-      <link>http://etienneburdet.github.io/hugo/Vita/cv/</link>
+      <link>http://localhost:1313/Vita/cv</link>
       <pubDate>Wed, 08 Oct 2014 17:56:26 CEST</pubDate>
       <author>Etienne Burdet</author>
-      <guid>http://etienneburdet.github.io/hugo/Vita/cv/</guid>
+      <guid>http://localhost:1313/Vita/cv</guid>
       <description>&lt;p&gt;Ma vie mon oeuvre&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>third</title>
-      <link>http://etienneburdet.github.io/hugo/post/third/</link>
+      <link>http://localhost:1313/post/third</link>
       <pubDate>Wed, 08 Oct 2014 17:51:27 CEST</pubDate>
       <author>Etienne Burdet</author>
-      <guid>http://etienneburdet.github.io/hugo/post/third/</guid>
+      <guid>http://localhost:1313/post/third</guid>
       <description></description>
     </item>
     
     <item>
       <title>post</title>
-      <link>http://etienneburdet.github.io/hugo/post/</link>
+      <link>http://localhost:1313/post</link>
       <pubDate>Wed, 08 Oct 2014 17:48:44 CEST</pubDate>
       <author>Etienne Burdet</author>
-      <guid>http://etienneburdet.github.io/hugo/post/</guid>
+      <guid>http://localhost:1313/post</guid>
       <description>&lt;p&gt;LOL&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>first</title>
-      <link>http://etienneburdet.github.io/hugo/post/first/</link>
+      <link>http://localhost:1313/post/first</link>
       <pubDate>Mon, 30 Jun 2014 21:02:17 UTC</pubDate>
       <author>Etienne Burdet</author>
-      <guid>http://etienneburdet.github.io/hugo/post/first/</guid>
+      <guid>http://localhost:1313/post/first</guid>
       <description>&lt;p&gt;HO&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>about</title>
-      <link>http://etienneburdet.github.io/hugo/about/</link>
+      <link>http://localhost:1313/about</link>
       <pubDate>Mon, 30 Jun 2014 21:02:06 UTC</pubDate>
       <author>Etienne Burdet</author>
-      <guid>http://etienneburdet.github.io/hugo/about/</guid>
+      <guid>http://localhost:1313/about</guid>
       <description>&lt;p&gt;ROFLCOPTER&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>second</title>
-      <link>http://etienneburdet.github.io/hugo/post/second/</link>
+      <link>http://localhost:1313/post/second</link>
       <pubDate>Mon, 30 Jun 2014 21:01:42 UTC</pubDate>
       <author>Etienne Burdet</author>
-      <guid>http://etienneburdet.github.io/hugo/post/second/</guid>
+      <guid>http://localhost:1313/post/second</guid>
       <description>&lt;p&gt;NOZ&lt;/p&gt;
 </description>
     </item>
