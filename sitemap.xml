@@ -2,58 +2,58 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://etienneburdet.github.io/</loc>
+    <loc>/</loc>
     <lastmod>2014-10-18T14:28:36+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://etienneburdet.github.io/ressources/readings</loc>
+    <loc>/ressources/readings</loc>
     <lastmod>2014-10-18T14:28:36+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://etienneburdet.github.io/ressources/latex</loc>
+    <loc>/ressources/latex</loc>
     <lastmod>2014-10-18T14:11:28+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://etienneburdet.github.io/ressources/software</loc>
+    <loc>/ressources/software</loc>
     <lastmod>2014-10-18T13:42:07+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://etienneburdet.github.io/Publications/publi</loc>
+    <loc>/Publications/publi</loc>
     <lastmod>2014-10-11T16:47:33+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://etienneburdet.github.io/ressources/Ressources</loc>
+    <loc>/ressources/Ressources</loc>
     <lastmod>2014-10-11T16:47:12+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://etienneburdet.github.io/post/third</loc>
+    <loc>/post/third</loc>
     <lastmod>2014-10-08T17:51:27+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://etienneburdet.github.io/post</loc>
+    <loc>/post</loc>
     <lastmod>2014-10-08T17:48:44+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://etienneburdet.github.io/post/first</loc>
+    <loc>/post/first</loc>
     <lastmod>2014-06-30T21:02:17+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://etienneburdet.github.io/about</loc>
+    <loc>/about</loc>
     <lastmod>2014-06-30T21:02:06+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://etienneburdet.github.io/post/second</loc>
+    <loc>/post/second</loc>
     <lastmod>2014-06-30T21:01:42+00:00</lastmod>
   </url>
   
