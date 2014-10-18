@@ -2,9 +2,9 @@ contentdir = "content"
 layoutdir = "layouts"
 publishdir = "public"
 builddrafts = false
-baseurl = "/hugo"
 canonifyurls = true
 title="Etienne Burdet"
+baseurl = "http://etienneburdet.github.io/hugo"
 
 [indexes]
    category = "categories"
