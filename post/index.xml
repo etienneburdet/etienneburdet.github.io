@@ -2,13 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
       <title>Posts on Etienne Burdet </title>
-<<<<<<< HEAD
       <generator uri="https://hugo.spf13.com">Hugo</generator>
     <link>http://localhost:1313/post/index.xml</link>
-=======
-      <generator uri="https://gohugo.io">Hugo</generator>
-    <link>http://localhost:1313/hugo/post/index.xml/</link>
->>>>>>> afaee223e9afc5e34336ecc172ffacfd23c56346
     
     <author>Etienne Burdet</author>
     
@@ -16,50 +11,29 @@
     
     <item>
       <title>third</title>
-<<<<<<< HEAD
       <link>http://localhost:1313/post/third</link>
       <pubDate>Wed, 08 Oct 2014 17:51:27 CEST</pubDate>
       <author>Etienne Burdet</author>
       <guid>http://localhost:1313/post/third</guid>
-=======
-      <link>http://localhost:1313/hugo/post/third/</link>
-      <pubDate>Wed, 08 Oct 2014 17:51:27 CEST</pubDate>
-      <author>Etienne Burdet</author>
-      <guid>http://localhost:1313/hugo/post/third/</guid>
->>>>>>> afaee223e9afc5e34336ecc172ffacfd23c56346
       <description></description>
     </item>
     
     <item>
       <title>first</title>
-<<<<<<< HEAD
       <link>http://localhost:1313/post/first</link>
       <pubDate>Mon, 30 Jun 2014 21:02:17 UTC</pubDate>
       <author>Etienne Burdet</author>
       <guid>http://localhost:1313/post/first</guid>
-=======
-      <link>http://localhost:1313/hugo/post/first/</link>
-      <pubDate>Mon, 30 Jun 2014 21:02:17 UTC</pubDate>
-      <author>Etienne Burdet</author>
-      <guid>http://localhost:1313/hugo/post/first/</guid>
->>>>>>> afaee223e9afc5e34336ecc172ffacfd23c56346
       <description>&lt;p&gt;HO&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>second</title>
-<<<<<<< HEAD
       <link>http://localhost:1313/post/second</link>
       <pubDate>Mon, 30 Jun 2014 21:01:42 UTC</pubDate>
       <author>Etienne Burdet</author>
       <guid>http://localhost:1313/post/second</guid>
-=======
-      <link>http://localhost:1313/hugo/post/second/</link>
-      <pubDate>Mon, 30 Jun 2014 21:01:42 UTC</pubDate>
-      <author>Etienne Burdet</author>
-      <guid>http://localhost:1313/hugo/post/second/</guid>
->>>>>>> afaee223e9afc5e34336ecc172ffacfd23c56346
       <description>&lt;p&gt;NOZ&lt;/p&gt;
 </description>
     </item>
