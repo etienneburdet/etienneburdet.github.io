@@ -2,8 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
       <title>Ressources on Etienne Burdet </title>
+<<<<<<< HEAD
       <generator uri="https://hugo.spf13.com">Hugo</generator>
     <link>http://localhost:1313/ressources/index.xml</link>
+=======
+      <generator uri="https://gohugo.io">Hugo</generator>
+    <link>http://localhost:1313/hugo/ressources/index.xml/</link>
+>>>>>>> afaee223e9afc5e34336ecc172ffacfd23c56346
     
     <author>Etienne Burdet</author>
     
@@ -11,13 +16,20 @@
     
     <item>
       <title>Ressources</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/ressources/Ressources</link>
       <pubDate>Sat, 11 Oct 2014 16:47:12 UTC</pubDate>
       <author>Etienne Burdet</author>
       <guid>http://localhost:1313/ressources/Ressources</guid>
+=======
+      <link>http://localhost:1313/hugo/ressources/Ressources/</link>
+      <pubDate>Sat, 11 Oct 2014 16:47:12 UTC</pubDate>
+      <author>Etienne Burdet</author>
+      <guid>http://localhost:1313/hugo/ressources/Ressources/</guid>
+>>>>>>> afaee223e9afc5e34336ecc172ffacfd23c56346
       <description>
 
-&lt;h3 id=&#34;toc_0&#34;&gt;Software Linup&lt;/h3&gt;
+&lt;h3 id=&#34;toc_0&#34;&gt;Software Lineup&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://atom.io/&#34;&gt;&lt;strong&gt;Atom&lt;/strong&gt;&lt;/a&gt; : switching from Emacs, still using emacs for a few minor modes (mainly GNU-Octave).&lt;/li&gt;
