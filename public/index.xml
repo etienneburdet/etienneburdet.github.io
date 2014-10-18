@@ -3,7 +3,7 @@
   <channel>
       <title>Recent Content on Etienne Burdet </title>
       <generator uri="https://hugo.spf13.com">Hugo</generator>
-    <link>http://etienneburdet.github.io/index.xml</link>
+    <link>/index.xml</link>
     
     <author>Etienne Burdet</author>
     
@@ -11,10 +11,10 @@
     
     <item>
       <title>Readings</title>
-      <link>http://etienneburdet.github.io/ressources/readings</link>
+      <link>/ressources/readings</link>
       <pubDate>Sat, 18 Oct 2014 14:28:36 UTC</pubDate>
       <author>Etienne Burdet</author>
-      <guid>http://etienneburdet.github.io/ressources/readings</guid>
+      <guid>/ressources/readings</guid>
       <description>
 
 &lt;p&gt;A few selected readings I&amp;rsquo;m often asked for.&lt;/p&gt;
@@ -29,10 +29,10 @@
     
     <item>
       <title>LaTeX </title>
-      <link>http://etienneburdet.github.io/ressources/latex</link>
+      <link>/ressources/latex</link>
       <pubDate>Sat, 18 Oct 2014 14:11:28 UTC</pubDate>
       <author>Etienne Burdet</author>
-      <guid>http://etienneburdet.github.io/ressources/latex</guid>
+      <guid>/ressources/latex</guid>
       <description>
 
 &lt;h3 id=&#34;toc_0&#34;&gt;Templates&lt;/h3&gt;
@@ -62,10 +62,10 @@
     
     <item>
       <title>Software Lineup</title>
-      <link>http://etienneburdet.github.io/ressources/software</link>
+      <link>/ressources/software</link>
       <pubDate>Sat, 18 Oct 2014 13:42:07 UTC</pubDate>
       <author>Etienne Burdet</author>
-      <guid>http://etienneburdet.github.io/ressources/software</guid>
+      <guid>/ressources/software</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://atom.io/&#34;&gt;&lt;strong&gt;Atom&lt;/strong&gt;&lt;/a&gt; : switching from Emacs, still using emacs for a few minor modes (mainly GNU-Octave).&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.xm1math.net/texmaker/index_fr.html&#34;&gt;&lt;strong&gt;TeXmaker&lt;/strong&gt;&lt;/a&gt; : mainly because it&amp;rsquo;s cross platform and provides super easy access to multiple compile options, shortcuts etc. But I hope a nice Atom package shows up.&lt;/li&gt;
@@ -81,10 +81,10 @@
     
     <item>
       <title>Publications</title>
-      <link>http://etienneburdet.github.io/Publications/publi</link>
+      <link>/Publications/publi</link>
       <pubDate>Sat, 11 Oct 2014 16:47:33 UTC</pubDate>
       <author>Etienne Burdet</author>
-      <guid>http://etienneburdet.github.io/Publications/publi</guid>
+      <guid>/Publications/publi</guid>
       <description>
 
 &lt;h3 id=&#34;toc_0&#34;&gt;Journal Preprint (waiting for review)&lt;/h3&gt;
@@ -95,10 +95,10 @@
     
     <item>
       <title>Ressources</title>
-      <link>http://etienneburdet.github.io/ressources/Ressources</link>
+      <link>/ressources/Ressources</link>
       <pubDate>Sat, 11 Oct 2014 16:47:12 UTC</pubDate>
       <author>Etienne Burdet</author>
-      <guid>http://etienneburdet.github.io/ressources/Ressources</guid>
+      <guid>/ressources/Ressources</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;/ressources/software&#34;&gt;Software Lineup&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;/ressources/latex&#34;&gt;Latex&lt;/a&gt;&lt;/li&gt;
@@ -109,39 +109,39 @@
     
     <item>
       <title>third</title>
-      <link>http://etienneburdet.github.io/post/third</link>
+      <link>/post/third</link>
       <pubDate>Wed, 08 Oct 2014 17:51:27 CEST</pubDate>
       <author>Etienne Burdet</author>
-      <guid>http://etienneburdet.github.io/post/third</guid>
+      <guid>/post/third</guid>
       <description></description>
     </item>
     
     <item>
       <title>post</title>
-      <link>http://etienneburdet.github.io/post</link>
+      <link>/post</link>
       <pubDate>Wed, 08 Oct 2014 17:48:44 CEST</pubDate>
       <author>Etienne Burdet</author>
-      <guid>http://etienneburdet.github.io/post</guid>
+      <guid>/post</guid>
       <description>&lt;p&gt;LOL&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>first</title>
-      <link>http://etienneburdet.github.io/post/first</link>
+      <link>/post/first</link>
       <pubDate>Mon, 30 Jun 2014 21:02:17 UTC</pubDate>
       <author>Etienne Burdet</author>
-      <guid>http://etienneburdet.github.io/post/first</guid>
+      <guid>/post/first</guid>
       <description>&lt;p&gt;HO&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>About</title>
-      <link>http://etienneburdet.github.io/about</link>
+      <link>/about</link>
       <pubDate>Mon, 30 Jun 2014 21:02:06 UTC</pubDate>
       <author>Etienne Burdet</author>
-      <guid>http://etienneburdet.github.io/about</guid>
+      <guid>/about</guid>
       <description>&lt;p&gt;&lt;a href=&#34;/EtienneBurdet_CV.pdf&#34;&gt;Download my Vita&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;I&amp;rsquo;m a 28 years old Phd. Student (soon a Dr. !) in urban engineering. My main research is focused on the relation between energy fluxes and urban morphology. I try to produce models for engineers, designers or anybody trying to build cities, rather than for external observers. I also work on various side-topics regardings urban morhpology, urban design/planning and urban climate.&lt;/p&gt;
@@ -156,10 +156,10 @@
     
     <item>
       <title>second</title>
-      <link>http://etienneburdet.github.io/post/second</link>
+      <link>/post/second</link>
       <pubDate>Mon, 30 Jun 2014 21:01:42 UTC</pubDate>
       <author>Etienne Burdet</author>
-      <guid>http://etienneburdet.github.io/post/second</guid>
+      <guid>/post/second</guid>
       <description>&lt;p&gt;NOZ&lt;/p&gt;
 </description>
     </item>
