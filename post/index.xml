@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
       <title>Posts on Etienne Burdet </title>
-      <generator uri="https://hugo.spf13.com">Hugo</generator>
-    <link>http://etienneburdet.github.io/post/index.xml</link>
+      <generator uri="https://gohugo.io">Hugo</generator>
+    <link>http://etienneburdet.github.io/hugo/post/index.xml</link>
     
     <author>Etienne Burdet</author>
     
@@ -11,29 +11,29 @@
     
     <item>
       <title>third</title>
-      <link>http://etienneburdet.github.io/post/third</link>
+      <link>http://etienneburdet.github.io/hugo/post/third/</link>
       <pubDate>Wed, 08 Oct 2014 17:51:27 CEST</pubDate>
       <author>Etienne Burdet</author>
-      <guid>http://etienneburdet.github.io/post/third</guid>
+      <guid>http://etienneburdet.github.io/hugo/post/third/</guid>
       <description></description>
     </item>
     
     <item>
       <title>first</title>
-      <link>http://etienneburdet.github.io/post/first</link>
+      <link>http://etienneburdet.github.io/hugo/post/first/</link>
       <pubDate>Mon, 30 Jun 2014 21:02:17 UTC</pubDate>
       <author>Etienne Burdet</author>
-      <guid>http://etienneburdet.github.io/post/first</guid>
+      <guid>http://etienneburdet.github.io/hugo/post/first/</guid>
       <description>&lt;p&gt;HO&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>second</title>
-      <link>http://etienneburdet.github.io/post/second</link>
+      <link>http://etienneburdet.github.io/hugo/post/second/</link>
       <pubDate>Mon, 30 Jun 2014 21:01:42 UTC</pubDate>
       <author>Etienne Burdet</author>
-      <guid>http://etienneburdet.github.io/post/second</guid>
+      <guid>http://etienneburdet.github.io/hugo/post/second/</guid>
       <description>&lt;p&gt;NOZ&lt;/p&gt;
 </description>
     </item>
