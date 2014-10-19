@@ -3,8 +3,8 @@ layoutdir = "layouts"
 publishdir = "public"
 builddrafts = false
 canonifyurls = true
-title="Etienne Burdet"
-baseurl = "http://etienneburdet.github.io/hugo/"
+title = "Etienne Burdet"
+baseurl= "http://etienneburdet.github.io/hugo"
 
 [indexes]
    category = "categories"

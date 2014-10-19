@@ -4,7 +4,7 @@ draft = true
 title = "About"
 menu = "main"
 +++
-[Download my Vita](/EtienneBurdet_CV.pdf)
+[&rarr; My Vita](/EtienneBurdet_CV.pdf)
 
 I'm a 28 years old Phd. Student (soon a Dr. !) in urban engineering. My main research is focused on the relation between energy fluxes and urban morphology. I try to produce models for engineers, designers or anybody trying to build cities, rather than for external observers. I also work on various side-topics regardings urban morhpology, urban design/planning and urban climate.
 
