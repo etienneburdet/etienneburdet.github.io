@@ -7,25 +7,12 @@
       </p>
     </div>
 
-<!--
-    <ul class="sidebar-nav">
-      <li><a href="{{ .Site.BaseUrl }}/">Blog</a></li>
-      {{ range .Site.Menus.main }}
-        <li><a href="{{ .Url }}"> {{ .Name }} </a></li>
-      {{end}}
-    </ul>
-    //-->
-        <p class="sidebar-nav">
+    <p class="sidebar-nav">
       <a href="{{ .Site.BaseUrl }}/">Blog</a>
+      &bull; <a href="{{ .Site.BaseUrl }}/EtienneBurdet_CV.pdf">CV</a>
       {{ range .Site.Menus.main }}
       &bull; <a href="{{ .Url }}">{{ .Name }}</a>
       {{end}}
-      <!--
-      <li class="sidebar-nav-item"><a href="{{ .Site.BaseUrl }}/">Blog</a></li>
-      {{ range .Site.Menus.main }}
-      <li class="sidebar-nav-item"><a href="{{ .Url }}">{{ .Name }}</a></li>
-      {{end}}
-      //-->
     </p>
 
     <p class="sidebar-nav">

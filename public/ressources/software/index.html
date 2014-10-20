@@ -10,9 +10,9 @@
   <title> Software Lineup &middot; Etienne Burdet </title>
 
   
-  <link rel="stylesheet" href="http://etienneburdet.github.io/hugo/css/poole.css">
-  <link rel="stylesheet" href="http://etienneburdet.github.io/hugo/css/syntax.css">
-  <link rel="stylesheet" href="http://etienneburdet.github.io/hugo/css/hyde.css">
+  <link rel="stylesheet" href="http://localhost:1313/hugo/css/poole.css">
+  <link rel="stylesheet" href="http://localhost:1313/hugo/css/syntax.css">
+  <link rel="stylesheet" href="http://localhost:1313/hugo/css/hyde.css">
   <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface">
 
   
@@ -36,24 +36,15 @@
       </p>
     </div>
 
-
-        <p class="sidebar-nav">
-      <a href="http://etienneburdet.github.io/hugo/">Blog</a>
+    <p class="sidebar-nav">
+      <a href="http://localhost:1313/hugo/">Blog</a>
+      &bull; <a href="http://localhost:1313/hugo/EtienneBurdet_CV.pdf">CV</a>
       
-<<<<<<< HEAD
-      &bull; <a href="http://etienneburdet.github.io/hugo/about/">About</a>
+      &bull; <a href="http://localhost:1313/hugo/about/">About</a>
       
-      &bull; <a href="http://etienneburdet.github.io/hugo/Publications/publi/">Publications</a>
+      &bull; <a href="http://localhost:1313/hugo/Publications/publi/">Publications</a>
       
-      &bull; <a href="http://etienneburdet.github.io/hugo/ressources/Ressources/">Ressources</a>
-=======
-        <li><a href="http://etienneburdet.github.io/hugo/about/"> About </a></li>
-      
-        <li><a href="http://etienneburdet.github.io/hugo/Publications/publi/"> Publications </a></li>
-      
-        <li><a href="http://etienneburdet.github.io/hugo/ressources/Ressources/"> Ressources </a></li>
->>>>>>> 25de9e5722343d5ee8e623014cb2b4fd8537eb45
-      
+      &bull; <a href="http://localhost:1313/hugo/Ressources/">Ressources</a>
       
     </p>
 
@@ -71,7 +62,7 @@
     <div class="content container">
 <div class="post">
   <h1>Software Lineup</h1>
-  <span class="post-date">Sat, Oct 18, 2014</span>
+  <span class="post-date"></span>
       <ul>
 <li><a href="https://atom.io/"><strong>Atom</strong></a> : switching from Emacs, still using emacs for a few minor modes (mainly GNU-Octave).</li>
 <li><a href="http://www.xm1math.net/texmaker/index_fr.html"><strong>TeXmaker</strong></a> : mainly because it&rsquo;s cross platform and provides super easy access to multiple compile options, shortcuts etc. But I hope a nice Atom package shows up.</li>
@@ -86,5 +77,8 @@
 </div>
 </div>
 
-  </body>
+  <script>document.write('<script src="http://'
+        + (location.host || 'localhost').split(':')[0]
+		+ ':1313/livereload.js?mindelay=10"></'
+        + 'script>')</script></body>
 </html>
