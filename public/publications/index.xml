@@ -3,7 +3,11 @@
   <channel>
       <title>Publications on Etienne Burdet </title>
       <generator uri="https://gohugo.io">Hugo</generator>
+<<<<<<< HEAD
     <link>http://etienneburdet.github.io/hugo/publications/index.xml</link>
+=======
+    <link>http://etienneburdet.github.io/hugo/publications/index.xml/</link>
+>>>>>>> 25de9e5722343d5ee8e623014cb2b4fd8537eb45
     
     <author>Etienne Burdet</author>
     
