@@ -3,11 +3,7 @@
   <channel>
       <title>Ressources on Etienne Burdet </title>
       <generator uri="https://gohugo.io">Hugo</generator>
-<<<<<<< HEAD
-    <link>http://etienneburdet.github.io/hugo/ressources/index.xml</link>
-=======
-    <link>http://etienneburdet.github.io/hugo/ressources/index.xml/</link>
->>>>>>> 25de9e5722343d5ee8e623014cb2b4fd8537eb45
+    <link>http://localhost:1313/hugo/ressources/index.xml</link>
     
     <author>Etienne Burdet</author>
     
@@ -15,10 +11,10 @@
     
     <item>
       <title>Readings</title>
-      <link>http://etienneburdet.github.io/hugo/ressources/readings/</link>
+      <link>http://localhost:1313/hugo/ressources/readings/</link>
       <pubDate>Sat, 18 Oct 2014 14:28:36 UTC</pubDate>
       <author>Etienne Burdet</author>
-      <guid>http://etienneburdet.github.io/hugo/ressources/readings/</guid>
+      <guid>http://localhost:1313/hugo/ressources/readings/</guid>
       <description>
 
 &lt;p&gt;A few selected readings I&amp;rsquo;m often asked for.&lt;/p&gt;
@@ -33,10 +29,10 @@
     
     <item>
       <title>LaTeX </title>
-      <link>http://etienneburdet.github.io/hugo/ressources/latex/</link>
+      <link>http://localhost:1313/hugo/ressources/latex/</link>
       <pubDate>Sat, 18 Oct 2014 14:11:28 UTC</pubDate>
       <author>Etienne Burdet</author>
-      <guid>http://etienneburdet.github.io/hugo/ressources/latex/</guid>
+      <guid>http://localhost:1313/hugo/ressources/latex/</guid>
       <description>
 
 &lt;h3 id=&#34;toc_0&#34;&gt;Templates&lt;/h3&gt;
@@ -66,10 +62,10 @@
     
     <item>
       <title>Software Lineup</title>
-      <link>http://etienneburdet.github.io/hugo/ressources/software/</link>
+      <link>http://localhost:1313/hugo/ressources/software/</link>
       <pubDate>Sat, 18 Oct 2014 13:42:07 UTC</pubDate>
       <author>Etienne Burdet</author>
-      <guid>http://etienneburdet.github.io/hugo/ressources/software/</guid>
+      <guid>http://localhost:1313/hugo/ressources/software/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://atom.io/&#34;&gt;&lt;strong&gt;Atom&lt;/strong&gt;&lt;/a&gt; : switching from Emacs, still using emacs for a few minor modes (mainly GNU-Octave).&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.xm1math.net/texmaker/index_fr.html&#34;&gt;&lt;strong&gt;TeXmaker&lt;/strong&gt;&lt;/a&gt; : mainly because it&amp;rsquo;s cross platform and provides super easy access to multiple compile options, shortcuts etc. But I hope a nice Atom package shows up.&lt;/li&gt;
@@ -79,20 +75,6 @@
 &lt;li&gt;&lt;strong&gt;Rhino&lt;/strong&gt; : my CAD software of choice for designing urban blocks. No good OS alternative as far as I know.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Illustrator&lt;/strong&gt; : Maybe a bit overkill for simple workflows, pictograms and posters but… we get used to comfort.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Mendeley&lt;/strong&gt; : classic.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Ressources</title>
-      <link>http://etienneburdet.github.io/hugo/ressources/Ressources/</link>
-      <pubDate>Sat, 11 Oct 2014 16:47:12 UTC</pubDate>
-      <author>Etienne Burdet</author>
-      <guid>http://etienneburdet.github.io/hugo/ressources/Ressources/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;[Software Lineup]()&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/ressources/latex&#34;&gt;Latex&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/ressources/readings&#34;&gt;Readings&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
