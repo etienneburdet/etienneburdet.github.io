@@ -3,7 +3,11 @@
   <channel>
       <title>Recent Content on Etienne Burdet </title>
       <generator uri="https://gohugo.io">Hugo</generator>
+<<<<<<< HEAD
     <link>http://etienneburdet.github.io/hugo/index.xml</link>
+=======
+    <link>http://etienneburdet.github.io/hugo/index.xml/</link>
+>>>>>>> 25de9e5722343d5ee8e623014cb2b4fd8537eb45
     
     <author>Etienne Burdet</author>
     
@@ -100,7 +104,7 @@
       <author>Etienne Burdet</author>
       <guid>http://etienneburdet.github.io/hugo/ressources/Ressources/</guid>
       <description>&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;/ressources/software&#34;&gt;Software Lineup&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[Software Lineup]()&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;/ressources/latex&#34;&gt;Latex&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;/ressources/readings&#34;&gt;Readings&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -142,7 +146,11 @@
       <pubDate>Mon, 30 Jun 2014 21:02:06 UTC</pubDate>
       <author>Etienne Burdet</author>
       <guid>http://etienneburdet.github.io/hugo/about/</guid>
+<<<<<<< HEAD
       <description>&lt;p&gt;&lt;a href=&#34;/EtienneBurdet_CV.pdf&#34;&gt;&amp;rarr; My Vita&lt;/a&gt;&lt;/p&gt;
+=======
+      <description>&lt;p&gt;&lt;a href=&#34;/EtienneBurdet_CV.pdf&#34;&gt;Download my Vita&lt;/a&gt;&lt;/p&gt;
+>>>>>>> 25de9e5722343d5ee8e623014cb2b4fd8537eb45
 
 &lt;p&gt;I&amp;rsquo;m a 28 years old Phd. Student (soon a Dr. !) in urban engineering. My main research is focused on the relation between energy fluxes and urban morphology. I try to produce models for engineers, designers or anybody trying to build cities, rather than for external observers. I also work on various side-topics regardings urban morhpology, urban design/planning and urban climate.&lt;/p&gt;
 
