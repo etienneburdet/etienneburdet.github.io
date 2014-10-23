@@ -3,7 +3,7 @@
   <channel>
       <title>Urba on Etienne Burdet </title>
       <generator uri="https://gohugo.io">Hugo</generator>
-    <link>http://etienneburdet.github.io/hugo/tags/urba/index.xml/</link>
+    <link>http://localhost:1313/hugo/tags/urba/index.xml/</link>
     
     <author>Etienne Burdet</author>
     
@@ -11,10 +11,10 @@
     
     <item>
       <title>Readings</title>
-      <link>http://etienneburdet.github.io/hugo/ressources/readings/</link>
+      <link>http://localhost:1313/hugo/ressources/readings/</link>
       <pubDate>Sat, 18 Oct 2014 14:28:36 UTC</pubDate>
       <author>Etienne Burdet</author>
-      <guid>http://etienneburdet.github.io/hugo/ressources/readings/</guid>
+      <guid>http://localhost:1313/hugo/ressources/readings/</guid>
       <description>
 
 &lt;p&gt;A few selected readings I&amp;rsquo;m often asked for.&lt;/p&gt;
