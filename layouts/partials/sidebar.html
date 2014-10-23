@@ -7,13 +7,13 @@
       </p>
     </div>
 
-
-    <ul class="sidebar-nav">
-      <li><a href="{{ .Site.BaseUrl }}/">Blog</a></li>
+    <p class="sidebar-nav">
+      <a href="{{ .Site.BaseUrl }}/">Blog</a>
+      &bull; <a href="{{ .Site.BaseUrl }}/EtienneBurdet_CV.pdf">CV</a>
       {{ range .Site.Menus.main }}
-        <li><a href="{{.Url}}"> {{ .Name }} </a></li>
+      &bull; <a href="{{ .Url }}">{{ .Name }}</a>
       {{end}}
-    </ul>
+    </p>
 
     <p class="sidebar-nav">
       {{ with .Site.Params.github }}<a href="{{ . }}"><i class="fa fa-github fa-lg"></i></a>{{ end }}

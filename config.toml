@@ -1,10 +1,11 @@
+theme = "hyde"
 contentdir = "content"
 layoutdir = "layouts"
 publishdir = "public"
 builddrafts = false
 canonifyurls = true
-title="Etienne Burdet"
-baseurl = "http://etienneburdet.github.io/hugo"
+title = "Etienne Burdet"
+baseurl= "http://etienneburdet.github.io/hugo"
 
 [indexes]
    category = "categories"
@@ -19,3 +20,7 @@ baseurl = "http://etienneburdet.github.io/hugo"
    linkedin = "https://www.linkedin.com/pub/etienne-burdet/16/25b/954"
    github = "https://github.com/etienneburdet"
    author = "Etienne Burdet"
+
+[permalinks]
+    post = "/:year/:month/:filename/"
+    code = "/:filename/"

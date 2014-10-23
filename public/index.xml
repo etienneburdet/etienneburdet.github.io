@@ -3,11 +3,33 @@
   <channel>
       <title>Recent Content on Etienne Burdet </title>
       <generator uri="https://gohugo.io">Hugo</generator>
+<<<<<<< HEAD
     <link>http://localhost:1313/hugo/index.xml/</link>
+=======
+    <link>http://etienneburdet.github.io/hugo/index.xml</link>
+>>>>>>> 70bf0b9e2125843161c3bc2163131c788f9b55fe
     
     <author>Etienne Burdet</author>
     
-    <updated>Sat, 18 Oct 2014 14:28:36 UTC</updated>
+    <updated>Mon, 20 Oct 2014 23:34:18 CEST</updated>
+    
+    <item>
+      <title>Site Opening</title>
+      <link>http://etienneburdet.github.io/hugo/2014/10/open/</link>
+      <pubDate>Mon, 20 Oct 2014 23:34:18 CEST</pubDate>
+      <author>Etienne Burdet</author>
+      <guid>http://etienneburdet.github.io/hugo/2014/10/open/</guid>
+      <description>&lt;p&gt;I wanted to do this for far too long, here it is, I have my own website !&lt;/p&gt;
+
+&lt;p&gt;So what to expect here ? First the usual hub: vita, publications, social links. Nothings you couldn&amp;rsquo;t find on my lab&amp;rsquo;s site or linkedin, but this can&amp;rsquo;t be in too many places.&lt;/p&gt;
+
+&lt;p&gt;But a personnal site should be, well, a bit more personnal. So I listed here some ressources on how I work, diverses templates, tips and a few readings. The kind of things I would tell you if we were to meet in person, but you would never ask by e-mail.&lt;/p&gt;
+
+&lt;p&gt;Finally, I always wanted to have some sort of irregular blog on both city science and working in the academia. Half scientific things that doesn&amp;rsquo;t really fit journal, comments on articles, discussion on reasearch itself (read: surviving a PhD), productivity at work, etc. I want to write on all those topics and I think it&amp;rsquo;s the ideal place to so.&lt;/p&gt;
+
+&lt;p&gt;Hopefully this site last in the long run, survives instutions and lab changes. I hope it gives you some useful infos and – who knows – maybe some fun. Enjoy your visit and feel free to share your feelings on this site !&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Readings</title>
@@ -95,10 +117,17 @@
     
     <item>
       <title>Ressources</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/hugo/Ressources/</link>
       <pubDate>Sat, 11 Oct 2014 16:47:12 UTC</pubDate>
       <author>Etienne Burdet</author>
       <guid>http://localhost:1313/hugo/Ressources/</guid>
+=======
+      <link>http://etienneburdet.github.io/hugo/Ressources/</link>
+      <pubDate>Sat, 11 Oct 2014 16:47:12 UTC</pubDate>
+      <author>Etienne Burdet</author>
+      <guid>http://etienneburdet.github.io/hugo/Ressources/</guid>
+>>>>>>> 70bf0b9e2125843161c3bc2163131c788f9b55fe
       <description>&lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;../ressources/software&#34;&gt;Software Lineup&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;../ressources/latex&#34;&gt;Latex&lt;/a&gt;&lt;/li&gt;
@@ -108,6 +137,7 @@
     </item>
     
     <item>
+<<<<<<< HEAD
       <title>third</title>
       <link>http://localhost:1313/hugo/post/third/</link>
       <pubDate>Wed, 08 Oct 2014 17:51:27 CEST</pubDate>
@@ -117,6 +147,8 @@
     </item>
     
     <item>
+=======
+>>>>>>> 70bf0b9e2125843161c3bc2163131c788f9b55fe
       <title>post</title>
       <link>http://localhost:1313/hugo/post/</link>
       <pubDate>Wed, 08 Oct 2014 17:48:44 CEST</pubDate>
@@ -127,6 +159,7 @@
     </item>
     
     <item>
+<<<<<<< HEAD
       <title>first</title>
       <link>http://localhost:1313/hugo/post/first/</link>
       <pubDate>Mon, 30 Jun 2014 21:02:17 UTC</pubDate>
@@ -137,14 +170,21 @@
     </item>
     
     <item>
+=======
+>>>>>>> 70bf0b9e2125843161c3bc2163131c788f9b55fe
       <title>About</title>
       <link>http://localhost:1313/hugo/about/</link>
       <pubDate>Mon, 30 Jun 2014 21:02:06 UTC</pubDate>
       <author>Etienne Burdet</author>
+<<<<<<< HEAD
       <guid>http://localhost:1313/hugo/about/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;/EtienneBurdet_CV.pdf&#34;&gt;Download my Vita&lt;/a&gt;&lt;/p&gt;
+=======
+      <guid>http://etienneburdet.github.io/hugo/about/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;/EtienneBurdet_CV.pdf&#34;&gt;&amp;rarr; My Vita&lt;/a&gt;&lt;/p&gt;
+>>>>>>> 70bf0b9e2125843161c3bc2163131c788f9b55fe
 
-&lt;p&gt;I&amp;rsquo;m a 28 years old Phd. Student (soon a Dr. !) in urban engineering. My main research is focused on the relation between energy fluxes and urban morphology. I try to produce models for engineers, designers or anybody trying to build cities, rather than for external observers. I also work on various side-topics regardings urban morhpology, urban design/planning and urban climate.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m a 28 years old Phd. candidate (soon a Dr. !) in urban engineering. My main research is focused on the relation between energy fluxes and urban morphology. I try to produce models for engineers, designers or anybody trying to build cities, rather than for external observers. I also work on various side-topics regardings urban morhpology, urban design/planning and urban climate.&lt;/p&gt;
 
 &lt;p&gt;Here is how I look in my natural habitat :
 &lt;img src=&#34;/me.jpg&#34; alt=&#34;I exist for real&#34; /&gt;
@@ -154,6 +194,7 @@
 </description>
     </item>
     
+<<<<<<< HEAD
     <item>
       <title>second</title>
       <link>http://localhost:1313/hugo/post/second/</link>
@@ -164,5 +205,7 @@
 </description>
     </item>
     
+=======
+>>>>>>> 70bf0b9e2125843161c3bc2163131c788f9b55fe
   </channel>
 </rss>
