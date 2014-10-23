@@ -7,7 +7,7 @@ canonifyurls = true
 title = "Etienne Burdet"
 baseurl= "http://etienneburdet.github.io/hugo"
 
-[indexes]
+[Taxonomies]
    category = "categories"
    tag = "tags"
 
