@@ -3,7 +3,7 @@
   <channel>
       <title>Ressource on Etienne Burdet </title>
       <generator uri="https://gohugo.io">Hugo</generator>
-    <link>http://etienneburdet.github.io/hugo/tags/ressource/index.xml/</link>
+    <link>http://localhost:1313/hugo/tags/ressource/index.xml</link>
     
     <author>Etienne Burdet</author>
     
@@ -11,15 +11,19 @@
     
     <item>
       <title>Ressources</title>
-      <link>http://etienneburdet.github.io/hugo/Ressources/</link>
+      <link>http://localhost:1313/hugo/Ressources/</link>
       <pubDate>Sat, 11 Oct 2014 16:47:12 UTC</pubDate>
       <author>Etienne Burdet</author>
-      <guid>http://etienneburdet.github.io/hugo/Ressources/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;../ressources/software&#34;&gt;Software Lineup&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;../ressources/latex&#34;&gt;Latex&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;../ressources/readings&#34;&gt;Readings&lt;/a&gt;&lt;/li&gt;
+      <guid>http://localhost:1313/hugo/Ressources/</guid>
+      <description>&lt;p&gt;I always find it interesting to know how people are working. There is always somethings to adapt from someone&amp;rsquo;s routine. So have look at to :&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;My &lt;a href=&#34;../ressources/software&#34;&gt;software lineup&lt;/a&gt;, because they are our hands.&lt;/li&gt;
+&lt;li&gt;A few &lt;a href=&#34;../ressources/latex&#34;&gt;Latex&lt;/a&gt; templates and tips.&lt;/li&gt;
+&lt;li&gt;My &lt;a href=&#34;../ressources/readings&#34;&gt;reading bundle&lt;/a&gt;, so you know where I&amp;rsquo;m from.&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;And find below a (hopefuly growing) list related of related blog posts:&lt;/p&gt;
 </description>
     </item>
     

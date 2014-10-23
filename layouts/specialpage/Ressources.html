@@ -1,0 +1,24 @@
+{{ partial "head.html" . }}
+<body>
+
+{{ partial "sidebar.html" . }}
+
+    <div class="content container">
+      <div class="post">
+        <h1>{{ .Title }}</h1>
+        <span class="post-date">{{ if eq .Section "post"}}{{ .Date.Format "Mon, Jan 2, 2006" }}{{ end }}</span>
+        {{ .Content }}
+      </div>
+
+      <ul class="posts">
+        {{ range .Site.Taxonomies.tags }}
+        <p> {{ .tags }}</p>
+        <li>
+          <span><a href="{{ .Permalink }}">{{ .Title }}</a> <time class="pull-right post-list">{{ .Date.Format "Mon, Jan 2, 2006" }}</time></span>
+        </li>
+        {{ end }}
+    </ul>
+    </div>
+
+  </body>
+</html>
