@@ -2,88 +2,49 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-<<<<<<< HEAD
-    <loc>http://localhost:1313/hugo/</loc>
-    <lastmod>2014-10-18T14:28:36+00:00</lastmod>
-=======
     <loc>http://etienneburdet.github.io/hugo/</loc>
     <lastmod>2014-10-20T23:34:18+02:00</lastmod>
->>>>>>> 70bf0b9e2125843161c3bc2163131c788f9b55fe
     <priority>0</priority>
   </url>
   
   <url>
-<<<<<<< HEAD
-    <loc>http://localhost:1313/hugo/ressources/readings/</loc>
-=======
     <loc>http://etienneburdet.github.io/hugo/2014/10/open/</loc>
     <lastmod>2014-10-20T23:34:18+02:00</lastmod>
   </url>
   
   <url>
     <loc>http://etienneburdet.github.io/hugo/ressources/readings/</loc>
->>>>>>> 70bf0b9e2125843161c3bc2163131c788f9b55fe
     <lastmod>2014-10-18T14:28:36+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/hugo/ressources/latex/</loc>
+    <loc>http://etienneburdet.github.io/hugo/ressources/latex/</loc>
     <lastmod>2014-10-18T14:11:28+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/hugo/ressources/software/</loc>
+    <loc>http://etienneburdet.github.io/hugo/ressources/software/</loc>
     <lastmod>2014-10-18T13:42:07+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/hugo/Publications/publi/</loc>
+    <loc>http://etienneburdet.github.io/hugo/Publications/</loc>
     <lastmod>2014-10-11T16:47:33+00:00</lastmod>
   </url>
   
   <url>
-<<<<<<< HEAD
-    <loc>http://localhost:1313/hugo/Ressources/</loc>
-=======
     <loc>http://etienneburdet.github.io/hugo/Ressources/</loc>
->>>>>>> 70bf0b9e2125843161c3bc2163131c788f9b55fe
     <lastmod>2014-10-11T16:47:12+00:00</lastmod>
   </url>
   
   <url>
-<<<<<<< HEAD
-    <loc>http://localhost:1313/hugo/post/third/</loc>
-    <lastmod>2014-10-08T17:51:27+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/hugo/post/</loc>
-=======
     <loc>http://etienneburdet.github.io/hugo/post/</loc>
->>>>>>> 70bf0b9e2125843161c3bc2163131c788f9b55fe
     <lastmod>2014-10-08T17:48:44+02:00</lastmod>
   </url>
   
   <url>
-<<<<<<< HEAD
-    <loc>http://localhost:1313/hugo/post/first/</loc>
-    <lastmod>2014-06-30T21:02:17+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/hugo/about/</loc>
-    <lastmod>2014-06-30T21:02:06+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/hugo/post/second/</loc>
-    <lastmod>2014-06-30T21:01:42+00:00</lastmod>
-  </url>
-  
-=======
     <loc>http://etienneburdet.github.io/hugo/about/</loc>
     <lastmod>2014-06-30T21:02:06+00:00</lastmod>
   </url>
   
->>>>>>> 70bf0b9e2125843161c3bc2163131c788f9b55fe
 </urlset>

@@ -3,11 +3,7 @@
   <channel>
       <title>Recent Content on Etienne Burdet </title>
       <generator uri="https://gohugo.io">Hugo</generator>
-<<<<<<< HEAD
-    <link>http://localhost:1313/hugo/index.xml/</link>
-=======
-    <link>http://etienneburdet.github.io/hugo/index.xml</link>
->>>>>>> 70bf0b9e2125843161c3bc2163131c788f9b55fe
+    <link>http://etienneburdet.github.io/hugo/index.xml/</link>
     
     <author>Etienne Burdet</author>
     
@@ -33,10 +29,10 @@
     
     <item>
       <title>Readings</title>
-      <link>http://localhost:1313/hugo/ressources/readings/</link>
+      <link>http://etienneburdet.github.io/hugo/ressources/readings/</link>
       <pubDate>Sat, 18 Oct 2014 14:28:36 UTC</pubDate>
       <author>Etienne Burdet</author>
-      <guid>http://localhost:1313/hugo/ressources/readings/</guid>
+      <guid>http://etienneburdet.github.io/hugo/ressources/readings/</guid>
       <description>
 
 &lt;p&gt;A few selected readings I&amp;rsquo;m often asked for.&lt;/p&gt;
@@ -51,10 +47,10 @@
     
     <item>
       <title>LaTeX </title>
-      <link>http://localhost:1313/hugo/ressources/latex/</link>
+      <link>http://etienneburdet.github.io/hugo/ressources/latex/</link>
       <pubDate>Sat, 18 Oct 2014 14:11:28 UTC</pubDate>
       <author>Etienne Burdet</author>
-      <guid>http://localhost:1313/hugo/ressources/latex/</guid>
+      <guid>http://etienneburdet.github.io/hugo/ressources/latex/</guid>
       <description>
 
 &lt;h3 id=&#34;toc_0&#34;&gt;Templates&lt;/h3&gt;
@@ -84,10 +80,10 @@
     
     <item>
       <title>Software Lineup</title>
-      <link>http://localhost:1313/hugo/ressources/software/</link>
+      <link>http://etienneburdet.github.io/hugo/ressources/software/</link>
       <pubDate>Sat, 18 Oct 2014 13:42:07 UTC</pubDate>
       <author>Etienne Burdet</author>
-      <guid>http://localhost:1313/hugo/ressources/software/</guid>
+      <guid>http://etienneburdet.github.io/hugo/ressources/software/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://atom.io/&#34;&gt;&lt;strong&gt;Atom&lt;/strong&gt;&lt;/a&gt; : switching from Emacs, still using emacs for a few minor modes (mainly GNU-Octave).&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.xm1math.net/texmaker/index_fr.html&#34;&gt;&lt;strong&gt;TeXmaker&lt;/strong&gt;&lt;/a&gt; : mainly because it&amp;rsquo;s cross platform and provides super easy access to multiple compile options, shortcuts etc. But I hope a nice Atom package shows up.&lt;/li&gt;
@@ -103,31 +99,55 @@
     
     <item>
       <title>Publications</title>
-      <link>http://localhost:1313/hugo/Publications/publi/</link>
+      <link>http://etienneburdet.github.io/hugo/Publications/</link>
       <pubDate>Sat, 11 Oct 2014 16:47:33 UTC</pubDate>
       <author>Etienne Burdet</author>
-      <guid>http://localhost:1313/hugo/Publications/publi/</guid>
+      <guid>http://etienneburdet.github.io/hugo/Publications/</guid>
       <description>
 
-&lt;h3 id=&#34;toc_0&#34;&gt;Journal Preprint (waiting for review)&lt;/h3&gt;
+&lt;h3 id=&#34;toc_0&#34;&gt;Journal&lt;/h3&gt;
 
-&lt;h3 id=&#34;toc_1&#34;&gt;Conference papers&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Burdet, E., Colombert, M, Morand, D. Diab, Y. &lt;strong&gt;Integrated canopy, building energy and radiosity model for 3D urban design.&lt;/strong&gt;
+&lt;em&gt;Energy and Buildings&lt;/em&gt;, 2014, (submitted). &lt;a href=&#34;(https://hal.archives-ouvertes.fr/hal-01075816&#34;&gt;&lt;i class=&#34;fa fa-link&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;toc_1&#34;&gt;Conference Papers&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Burdet, E., Colombert, M, Morand, D. Diab, Y. &lt;a href=&#34;http://mediatum.ub.tum.de/node?id=1169330&#34;&gt;&lt;strong&gt;Modeling of Energy Fluxes for Urban Designs&lt;/strong&gt;&lt;/a&gt;
+&lt;em&gt;PLEA 2013 Sustainable Architecture for a Renewable Future&lt;/em&gt;, 2013 (Munich, Germany). &lt;a href=&#34;http://mediatum.ub.tum.de/node?id=1169330&#34;&gt;&lt;i class=&#34;fa fa-link&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+&lt;br /&gt; &lt;em&gt;&amp;rarr; Note : with hydrodynamic mobility model.&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Burdet, E., Colombert, M, Morand, D. Diab, Y. &lt;strong&gt;Methodology for the Life Cycle Energy Assessment of Urban Designs&lt;/strong&gt;
+&lt;em&gt;Ecobalance 2012 Challenges and Solutions for Sustainable Society&lt;/em&gt;, 2012 (Yokohama, Japan).&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Burdet, E., Colombert, M, Morand, D. Diab, Y. &lt;strong&gt;Modélisation des Flux Énergétiques Urbains pour les Projets d’Aménagements&lt;/strong&gt;
+&lt;em&gt;Futurs Urbains&lt;/em&gt;, 2012 (Yokohama, Japan). &lt;a href=&#34;http://villes-environnement.fr/fr/login.html&#34;&gt;&lt;i class=&#34;fa fa-link&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+&lt;br /&gt; &lt;em&gt;&amp;rarr; Note : different mobility model compared to the PLEA 2013 paper (otherwise similar but in french).&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Burdet, E., Colombert, M, Morand, D. Diab, Y. &lt;strong&gt;Modèle multicouche couplé Bâti - Canopée urbaine&lt;/strong&gt;
+&lt;em&gt;30 ème rencontres de l&amp;rsquo;Association Universitaire de Génie Civil&lt;/em&gt;, 2013 (Cachan, France).&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;toc_2&#34;&gt;Thesis&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Phd. (Dir. Youssef Diab): &lt;strong&gt;Energy Model for Urban Morphology Design&lt;/strong&gt;&lt;br /&gt;
+&lt;em&gt;&amp;rarr; out soon… under review !&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Master&amp;rsquo;s (Dir. Serge Salat): &lt;strong&gt;Mathematicaly Based Taxonomy of Urban Morphologies.&lt;/strong&gt;&lt;br /&gt;
+This document is more or less in the purgatory. We were supposed to make a book out of it, but never happened and the thesis in itself is not really publishable. Available on request if you are really interested. The content is a bit like Marshall&amp;rsquo;s &lt;em&gt;Street &amp;amp; Patterns&lt;/em&gt;, but for groups of buildings.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
     <item>
       <title>Ressources</title>
-<<<<<<< HEAD
-      <link>http://localhost:1313/hugo/Ressources/</link>
-      <pubDate>Sat, 11 Oct 2014 16:47:12 UTC</pubDate>
-      <author>Etienne Burdet</author>
-      <guid>http://localhost:1313/hugo/Ressources/</guid>
-=======
       <link>http://etienneburdet.github.io/hugo/Ressources/</link>
       <pubDate>Sat, 11 Oct 2014 16:47:12 UTC</pubDate>
       <author>Etienne Burdet</author>
       <guid>http://etienneburdet.github.io/hugo/Ressources/</guid>
->>>>>>> 70bf0b9e2125843161c3bc2163131c788f9b55fe
       <description>&lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;../ressources/software&#34;&gt;Software Lineup&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;../ressources/latex&#34;&gt;Latex&lt;/a&gt;&lt;/li&gt;
@@ -137,54 +157,26 @@
     </item>
     
     <item>
-<<<<<<< HEAD
-      <title>third</title>
-      <link>http://localhost:1313/hugo/post/third/</link>
-      <pubDate>Wed, 08 Oct 2014 17:51:27 CEST</pubDate>
-      <author>Etienne Burdet</author>
-      <guid>http://localhost:1313/hugo/post/third/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-=======
->>>>>>> 70bf0b9e2125843161c3bc2163131c788f9b55fe
       <title>post</title>
-      <link>http://localhost:1313/hugo/post/</link>
+      <link>http://etienneburdet.github.io/hugo/post/</link>
       <pubDate>Wed, 08 Oct 2014 17:48:44 CEST</pubDate>
       <author>Etienne Burdet</author>
-      <guid>http://localhost:1313/hugo/post/</guid>
+      <guid>http://etienneburdet.github.io/hugo/post/</guid>
       <description>&lt;p&gt;LOL&lt;/p&gt;
 </description>
     </item>
     
     <item>
-<<<<<<< HEAD
-      <title>first</title>
-      <link>http://localhost:1313/hugo/post/first/</link>
-      <pubDate>Mon, 30 Jun 2014 21:02:17 UTC</pubDate>
-      <author>Etienne Burdet</author>
-      <guid>http://localhost:1313/hugo/post/first/</guid>
-      <description>&lt;p&gt;HO&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-=======
->>>>>>> 70bf0b9e2125843161c3bc2163131c788f9b55fe
       <title>About</title>
-      <link>http://localhost:1313/hugo/about/</link>
+      <link>http://etienneburdet.github.io/hugo/about/</link>
       <pubDate>Mon, 30 Jun 2014 21:02:06 UTC</pubDate>
       <author>Etienne Burdet</author>
-<<<<<<< HEAD
-      <guid>http://localhost:1313/hugo/about/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;/EtienneBurdet_CV.pdf&#34;&gt;Download my Vita&lt;/a&gt;&lt;/p&gt;
-=======
       <guid>http://etienneburdet.github.io/hugo/about/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;/EtienneBurdet_CV.pdf&#34;&gt;&amp;rarr; My Vita&lt;/a&gt;&lt;/p&gt;
->>>>>>> 70bf0b9e2125843161c3bc2163131c788f9b55fe
+      <description>
 
-&lt;p&gt;I&amp;rsquo;m a 28 years old Phd. candidate (soon a Dr. !) in urban engineering. My main research is focused on the relation between energy fluxes and urban morphology. I try to produce models for engineers, designers or anybody trying to build cities, rather than for external observers. I also work on various side-topics regardings urban morhpology, urban design/planning and urban climate.&lt;/p&gt;
+&lt;h3 id=&#34;toc_0&#34;&gt;&lt;a href=&#34;/EtienneBurdet_CV.pdf&#34;&gt;&amp;rarr; My Vita&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;I&amp;rsquo;m a 28 years old Phd. candidate (soon a Dr. !) in urban engineering at &lt;a href=&#34;http://www.eivp-paris.fr/&#34;&gt;EIVP&lt;/a&gt;. My main research is focused on the relation between energy fluxes and urban morphology. I try to produce models for engineers, designers or anybody trying to build cities, rather than for external observers. I also work on various side-topics regardings urban morhpology, urban design/planning and urban climate.&lt;/p&gt;
 
 &lt;p&gt;Here is how I look in my natural habitat :
 &lt;img src=&#34;/me.jpg&#34; alt=&#34;I exist for real&#34; /&gt;
@@ -194,18 +186,5 @@
 </description>
     </item>
     
-<<<<<<< HEAD
-    <item>
-      <title>second</title>
-      <link>http://localhost:1313/hugo/post/second/</link>
-      <pubDate>Mon, 30 Jun 2014 21:01:42 UTC</pubDate>
-      <author>Etienne Burdet</author>
-      <guid>http://localhost:1313/hugo/post/second/</guid>
-      <description>&lt;p&gt;NOZ&lt;/p&gt;
-</description>
-    </item>
-    
-=======
->>>>>>> 70bf0b9e2125843161c3bc2163131c788f9b55fe
   </channel>
 </rss>
