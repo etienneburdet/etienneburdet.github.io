@@ -3,7 +3,7 @@
   <channel>
       <title>Productivity on Etienne Burdet </title>
       <generator uri="https://gohugo.io">Hugo</generator>
-    <link>http://localhost:1313/hugo/tags/productivity/index.xml/</link>
+    <link>http://etienneburdet.github.io/hugo/tags/productivity/index.xml/</link>
     
     
     
@@ -11,10 +11,10 @@
     
     <item>
       <title>LaTeX </title>
-      <link>http://localhost:1313/hugo/ressources/latex/</link>
+      <link>http://etienneburdet.github.io/hugo/ressources/latex/</link>
       <pubDate>Sat, 18 Oct 2014 14:11:28 UTC</pubDate>
       
-      <guid>http://localhost:1313/hugo/ressources/latex/</guid>
+      <guid>http://etienneburdet.github.io/hugo/ressources/latex/</guid>
       <description>
 
 &lt;h3 id=&#34;toc_0&#34;&gt;Templates&lt;/h3&gt;
@@ -47,10 +47,10 @@
     
     <item>
       <title>Ressources</title>
-      <link>http://localhost:1313/hugo/Ressources/</link>
+      <link>http://etienneburdet.github.io/hugo/Ressources/</link>
       <pubDate>Sat, 11 Oct 2014 16:47:12 UTC</pubDate>
       
-      <guid>http://localhost:1313/hugo/Ressources/</guid>
+      <guid>http://etienneburdet.github.io/hugo/Ressources/</guid>
       <description>&lt;p&gt;I always find it interesting to know how people are working. There is always somethings to adapt from someone&amp;rsquo;s routine. So have look at to :&lt;/p&gt;
 
 &lt;ul&gt;
@@ -60,24 +60,6 @@
 &lt;/ul&gt;
 
 &lt;p&gt;And find below a (hopefuly growing) list related of related blog posts:&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Ressources</title>
-      <link>http://localhost:1313/hugo/SingleList/Ressources/</link>
-      <pubDate>Sat, 11 Oct 2014 16:47:12 UTC</pubDate>
-      
-      <guid>http://localhost:1313/hugo/SingleList/Ressources/</guid>
-      <description>&lt;p&gt;I always find it interesting to know how people are working. There is always somethings to adapt from someone&amp;rsquo;s routine. So have look at to :&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;My &lt;a href=&#34;../ressources/software&#34;&gt;software lineup&lt;/a&gt;, because they are our hands.&lt;/li&gt;
-&lt;li&gt;A few &lt;a href=&#34;../ressources/latex&#34;&gt;Latex&lt;/a&gt; templates and tips.&lt;/li&gt;
-&lt;li&gt;My &lt;a href=&#34;../ressources/readings&#34;&gt;reading bundle&lt;/a&gt;, so you know where I&amp;rsquo;m from.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;And find below a (hopefuly growing) list of related blog posts:&lt;/p&gt;
 </description>
     </item>
     
