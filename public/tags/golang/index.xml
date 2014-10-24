@@ -3,7 +3,7 @@
   <channel>
       <title>Golang on Etienne Burdet </title>
       <generator uri="https://gohugo.io">Hugo</generator>
-    <link>http://etienneburdet.github.io/hugo/tags/golang/index.xml/</link>
+    <link>http://localhost:1313/hugo/tags/golang/index.xml/</link>
     
     
     
@@ -11,10 +11,10 @@
     
     <item>
       <title>Site Opening</title>
-      <link>http://etienneburdet.github.io/hugo/2014/10/open/</link>
+      <link>http://localhost:1313/hugo/2014/10/open/</link>
       <pubDate>Mon, 20 Oct 2014 23:34:18 CEST</pubDate>
       
-      <guid>http://etienneburdet.github.io/hugo/2014/10/open/</guid>
+      <guid>http://localhost:1313/hugo/2014/10/open/</guid>
       <description>&lt;p&gt;I&amp;rsquo;ve wanting to do this for far too long, here it is: I have my own website !&lt;/p&gt;
 
 &lt;p&gt;So what to expect here ? First the usual hub: vita, publications, social links. Nothings you couldn&amp;rsquo;t find on my lab&amp;rsquo;s site or linkedin, but this can&amp;rsquo;t be in too many places.&lt;/p&gt;

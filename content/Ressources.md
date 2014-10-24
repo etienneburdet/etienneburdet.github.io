@@ -4,7 +4,7 @@ draft = true
 title = "Ressources"
 menu = "main"
 tags = ["science","productivity","ressource"]
-type = "SingleList"
+type = "singlelist"
 +++
 
 I always find it interesting to know how people are working. There is always somethings to adapt from someone's routine. So have look at to :

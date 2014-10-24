@@ -1,0 +1,15 @@
+{{ partial "head.html" . }}
+<body>
+
+{{ partial "sidebar.html" . }}
+
+    <div class="content container">
+<div class="post">
+  <h1>{{ .Title }} lol</h1>
+  <span class="post-date">{{ if eq .Section "post"}}{{ .Date.Format "Mon, Jan 2, 2006" }}{{ end }}</span>
+      {{ .Content }}
+</div>
+</div>
+
+  </body>
+</html>
