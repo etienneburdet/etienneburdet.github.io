@@ -11,9 +11,6 @@ baseurl= "http://etienneburdet.github.io/hugo"
    category = "categories"
    tag = "tags"
 
-[Author]
-  name = "Etienne Burdet"
-
 [Params]
    Description = "Modeling, Analyzing and Enjoying Cities."
    twitter = "https://twitter.com/EtienneBurdet"
