@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-      <title>Urba on Etienne Burdet </title>
+      <title>Productiviy on Etienne Burdet </title>
       <generator uri="https://gohugo.io">Hugo</generator>
-    <link>http://localhost:1313/hugo/tags/urba/index.xml</link>
+    <link>http://etienneburdet.github.io/hugo/tags/productiviy/index.xml</link>
     
     
     
@@ -11,10 +11,10 @@
     
     <item>
       <title>Readings</title>
-      <link>http://localhost:1313/hugo/ressources/readings/</link>
+      <link>http://etienneburdet.github.io/hugo/ressources/readings/</link>
       <pubDate>Sat, 18 Oct 2014 14:28:36 UTC</pubDate>
       
-      <guid>http://localhost:1313/hugo/ressources/readings/</guid>
+      <guid>http://etienneburdet.github.io/hugo/ressources/readings/</guid>
       <description>
 
 &lt;p&gt;A few selected readings I&amp;rsquo;m often asked for.&lt;/p&gt;

@@ -2,7 +2,7 @@
 date = 2014-10-18T14:11:28Z
 draft = true
 title = "LaTeX "
-tags = ["science","productivity"]
+tags = ["productivity"]
 +++
 
 ### Templates

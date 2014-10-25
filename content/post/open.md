@@ -1,7 +1,6 @@
 +++
 Categories = ["Development", "GoLang"]
 Description = "Site grand opening. Welcome everybody !"  
-Tags = ["Development", "golang"]
 date = "2014-10-20T23:34:18+02:00"
 title = "Site Opening"
 +++
