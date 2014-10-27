@@ -2,7 +2,7 @@
 date = 2014-10-18T13:42:07Z
 draft = true
 title = "Software Lineup"
-
+tags = ["software"]
 +++
 
 * [**Atom**](https://atom.io/) : switching from Emacs, still using emacs for a few minor modes (mainly GNU-Octave).
