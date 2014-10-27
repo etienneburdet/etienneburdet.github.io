@@ -3,36 +3,39 @@
   <channel>
       <title>Ressources on Etienne Burdet </title>
       <generator uri="https://gohugo.io">Hugo</generator>
-    <link>http://localhost:1313/hugo/ressources/index.xml</link>
+    <link>http://etienneburdet.github.io/hugo/ressources/index.xml</link>
     
     
     
     <updated>Sat, 18 Oct 2014 14:28:36 UTC</updated>
     
     <item>
-      <title>Readings</title>
-      <link>http://localhost:1313/hugo/ressources/readings/</link>
+      <title>The Reading Bundle</title>
+      <link>http://etienneburdet.github.io/hugo/ressources/readings/</link>
       <pubDate>Sat, 18 Oct 2014 14:28:36 UTC</pubDate>
       
-      <guid>http://localhost:1313/hugo/ressources/readings/</guid>
-      <description>
+      <guid>http://etienneburdet.github.io/hugo/ressources/readings/</guid>
+      <description>&lt;p&gt;Whenever I talk with fellow researchers, I realized I end up giving them a list a pretty standard books, rather than the latest new fancy thing in my feeds. They are not my daily read, more the basics of my discipline. They should give you a good sense of where I&amp;rsquo;m from.&lt;/p&gt;
 
-&lt;p&gt;A few selected readings I&amp;rsquo;m often asked for.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Serge Salat : The big bad guy. I was in Serge&amp;rsquo;s lab when he wrote this and he is kind of my mentor, so I have different view on this book. I&amp;rsquo;m not sure it&amp;rsquo;s readable straight from start to finish and I don&amp;rsquo;t necessarly endorse all views. But the amount of information in this book is just incredible.&lt;/li&gt;
+&lt;li&gt;The Urban Housing Handbook : before anything, look at what has been done in the world. It especially contains essential figures on density.&lt;/li&gt;
+&lt;li&gt;Street &amp;amp; Patterns : Once again a broad view, not super technical. Just make sure you have all those pictures in mind.&lt;/li&gt;
+&lt;li&gt;Space Matrix : Are you sure you know you basic arithmetics of urban morpho ? Super simple, still essential for good problem setting.&lt;/li&gt;
+&lt;li&gt;Computer Modeling For Sustainable Urban Design : everything urban energy modeling, state of the art (the few published things, doesn&amp;rsquo;t really change the game).&lt;/li&gt;
+&lt;li&gt;Théorie du Système Général - Théorie de la Modélisation (in french only sadly) : why are we even modeling ? What can I understand from a model of a complex system ? This book is my base on systemic, on complex systems and more broadly on why I&amp;rsquo;m not modeling like a physicist.&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;h3 id=&#34;toc_0&#34;&gt;Articles&lt;/h3&gt;
-
-&lt;h3 id=&#34;toc_1&#34;&gt;Books&lt;/h3&gt;
-
-&lt;h3 id=&#34;toc_2&#34;&gt;On-line&lt;/h3&gt;
+&lt;p&gt;A few more articles : . And there you are&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>LaTeX </title>
-      <link>http://localhost:1313/hugo/ressources/latex/</link>
+      <link>http://etienneburdet.github.io/hugo/ressources/latex/</link>
       <pubDate>Sat, 18 Oct 2014 14:11:28 UTC</pubDate>
       
-      <guid>http://localhost:1313/hugo/ressources/latex/</guid>
+      <guid>http://etienneburdet.github.io/hugo/ressources/latex/</guid>
       <description>
 
 &lt;h3 id=&#34;toc_0&#34;&gt;Templates&lt;/h3&gt;
@@ -65,10 +68,10 @@
     
     <item>
       <title>Software Lineup</title>
-      <link>http://localhost:1313/hugo/ressources/software/</link>
+      <link>http://etienneburdet.github.io/hugo/ressources/software/</link>
       <pubDate>Sat, 18 Oct 2014 13:42:07 UTC</pubDate>
       
-      <guid>http://localhost:1313/hugo/ressources/software/</guid>
+      <guid>http://etienneburdet.github.io/hugo/ressources/software/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://atom.io/&#34;&gt;&lt;strong&gt;Atom&lt;/strong&gt;&lt;/a&gt; : switching from Emacs, still using emacs for a few minor modes (mainly GNU-Octave).&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.xm1math.net/texmaker/index_fr.html&#34;&gt;&lt;strong&gt;TeXmaker&lt;/strong&gt;&lt;/a&gt; : mainly because it&amp;rsquo;s cross platform and provides super easy access to multiple compile options, shortcuts etc. But I hope a nice Atom package shows up.&lt;/li&gt;

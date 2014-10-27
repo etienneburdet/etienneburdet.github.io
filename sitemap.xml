@@ -2,43 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://localhost:1313/hugo/</loc>
+    <loc>http://etienneburdet.github.io/hugo/</loc>
     <lastmod>2014-10-20T23:34:18+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/hugo/2014/10/open/</loc>
+    <loc>http://etienneburdet.github.io/hugo/2014/10/open/</loc>
     <lastmod>2014-10-20T23:34:18+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/hugo/ressources/readings/</loc>
+    <loc>http://etienneburdet.github.io/hugo/ressources/readings/</loc>
     <lastmod>2014-10-18T14:28:36+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/hugo/ressources/latex/</loc>
+    <loc>http://etienneburdet.github.io/hugo/ressources/latex/</loc>
     <lastmod>2014-10-18T14:11:28+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/hugo/ressources/software/</loc>
+    <loc>http://etienneburdet.github.io/hugo/ressources/software/</loc>
     <lastmod>2014-10-18T13:42:07+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/hugo/Publications/</loc>
+    <loc>http://etienneburdet.github.io/hugo/Publications/</loc>
     <lastmod>2014-10-11T16:47:33+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/hugo/Ressources/</loc>
+    <loc>http://etienneburdet.github.io/hugo/Ressources/</loc>
     <lastmod>2014-10-11T16:47:12+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/hugo/about/</loc>
+    <loc>http://etienneburdet.github.io/hugo/about/</loc>
     <lastmod>2014-06-30T21:02:06+00:00</lastmod>
   </url>
   
