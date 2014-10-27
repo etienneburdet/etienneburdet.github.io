@@ -3,7 +3,7 @@
   <channel>
       <title>Ressources on Etienne Burdet </title>
       <generator uri="https://gohugo.io">Hugo</generator>
-    <link>http://etienneburdet.github.io/hugo/ressources/index.xml</link>
+    <link>http://etienneburdet.github.io/ressources/index.xml</link>
     
     
     
@@ -11,10 +11,10 @@
     
     <item>
       <title>The Reading Bundle</title>
-      <link>http://etienneburdet.github.io/hugo/ressources/readings/</link>
+      <link>http://etienneburdet.github.io/ressources/readings/</link>
       <pubDate>Sat, 18 Oct 2014 14:28:36 UTC</pubDate>
       
-      <guid>http://etienneburdet.github.io/hugo/ressources/readings/</guid>
+      <guid>http://etienneburdet.github.io/ressources/readings/</guid>
       <description>&lt;p&gt;Whenever I talk with fellow researchers, I realized I end up giving them a list a pretty standard books, rather than the latest new fancy thing in my feeds. They are not my daily read, more the basics of my discipline. They should give you a good sense of where I&amp;rsquo;m from.&lt;/p&gt;
 
 &lt;ul&gt;
@@ -32,10 +32,10 @@
     
     <item>
       <title>LaTeX </title>
-      <link>http://etienneburdet.github.io/hugo/ressources/latex/</link>
+      <link>http://etienneburdet.github.io/ressources/latex/</link>
       <pubDate>Sat, 18 Oct 2014 14:11:28 UTC</pubDate>
       
-      <guid>http://etienneburdet.github.io/hugo/ressources/latex/</guid>
+      <guid>http://etienneburdet.github.io/ressources/latex/</guid>
       <description>
 
 &lt;h3 id=&#34;toc_0&#34;&gt;Templates&lt;/h3&gt;
@@ -68,10 +68,10 @@
     
     <item>
       <title>Software Lineup</title>
-      <link>http://etienneburdet.github.io/hugo/ressources/software/</link>
+      <link>http://etienneburdet.github.io/ressources/software/</link>
       <pubDate>Sat, 18 Oct 2014 13:42:07 UTC</pubDate>
       
-      <guid>http://etienneburdet.github.io/hugo/ressources/software/</guid>
+      <guid>http://etienneburdet.github.io/ressources/software/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://atom.io/&#34;&gt;&lt;strong&gt;Atom&lt;/strong&gt;&lt;/a&gt; : switching from Emacs, still using emacs for a few minor modes (mainly GNU-Octave).&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.xm1math.net/texmaker/index_fr.html&#34;&gt;&lt;strong&gt;TeXmaker&lt;/strong&gt;&lt;/a&gt; : mainly because it&amp;rsquo;s cross platform and provides super easy access to multiple compile options, shortcuts etc. But I hope a nice Atom package shows up.&lt;/li&gt;
