@@ -3,27 +3,27 @@
   <channel>
       <title>Science on Etienne Burdet </title>
       <generator uri="https://gohugo.io">Hugo</generator>
-    <link>http://etienneburdet.github.io/hugo/tags/science/index.xml</link>
+    <link>http://localhost:1313/hugo/tags/science/index.xml</link>
     
     
     
-    <updated>Sat, 11 Oct 2014 16:47:12 UTC</updated>
+    <updated>Sat, 18 Oct 2014 14:28:36 UTC</updated>
     
     <item>
-      <title>Ressources</title>
-      <link>http://etienneburdet.github.io/hugo/Ressources/</link>
-      <pubDate>Sat, 11 Oct 2014 16:47:12 UTC</pubDate>
+      <title>Readings</title>
+      <link>http://localhost:1313/hugo/ressources/readings/</link>
+      <pubDate>Sat, 18 Oct 2014 14:28:36 UTC</pubDate>
       
-      <guid>http://etienneburdet.github.io/hugo/Ressources/</guid>
-      <description>&lt;p&gt;I always find it interesting to know how people are working. There is always somethings to adapt from someone&amp;rsquo;s routine. So have look at to :&lt;/p&gt;
+      <guid>http://localhost:1313/hugo/ressources/readings/</guid>
+      <description>
 
-&lt;ul&gt;
-&lt;li&gt;My &lt;a href=&#34;../ressources/software&#34;&gt;software lineup&lt;/a&gt;, because they are our hands.&lt;/li&gt;
-&lt;li&gt;A few &lt;a href=&#34;../ressources/latex&#34;&gt;Latex&lt;/a&gt; templates and tips.&lt;/li&gt;
-&lt;li&gt;My &lt;a href=&#34;../ressources/readings&#34;&gt;reading bundle&lt;/a&gt;, so you know where I&amp;rsquo;m from.&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;A few selected readings I&amp;rsquo;m often asked for.&lt;/p&gt;
 
-&lt;p&gt;And find below a (hopefuly growing) list related of related blog posts:&lt;/p&gt;
+&lt;h3 id=&#34;toc_0&#34;&gt;Articles&lt;/h3&gt;
+
+&lt;h3 id=&#34;toc_1&#34;&gt;Books&lt;/h3&gt;
+
+&lt;h3 id=&#34;toc_2&#34;&gt;On-line&lt;/h3&gt;
 </description>
     </item>
     
