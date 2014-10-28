@@ -1,7 +1,7 @@
 echo "\033[0;32mDeploying updates to Github...\033[0m"
 
 # Build the project.
-hugo -D
+hugo
 
 # Add changes to git.
 # git add -A
@@ -17,5 +17,5 @@ git add -A
 git commit -a -m "$msg"
 
 # Push source and build repos.
-git push origin master
-git subtree push --prefix public web master
+git push origin source
+git subtree push --prefix public origin master

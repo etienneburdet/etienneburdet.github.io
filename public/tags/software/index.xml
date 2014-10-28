@@ -3,7 +3,7 @@
   <channel>
       <title>Software on Etienne Burdet </title>
       <generator uri="https://gohugo.io">Hugo</generator>
-    <link>http://etienneburdet.github.io/tags/software/index.xml</link>
+    <link>http://localhost:1313/tags/software/index.xml/</link>
     
     
     
@@ -11,10 +11,10 @@
     
     <item>
       <title>Software Lineup</title>
-      <link>http://etienneburdet.github.io/ressources/software/</link>
+      <link>http://localhost:1313/resources/software/</link>
       <pubDate>Sat, 18 Oct 2014 13:42:07 UTC</pubDate>
       
-      <guid>http://etienneburdet.github.io/ressources/software/</guid>
+      <guid>http://localhost:1313/resources/software/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://atom.io/&#34;&gt;&lt;strong&gt;Atom&lt;/strong&gt;&lt;/a&gt; : switching from Emacs, still using emacs for a few minor modes (mainly GNU-Octave).&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.xm1math.net/texmaker/index_fr.html&#34;&gt;&lt;strong&gt;TeXmaker&lt;/strong&gt;&lt;/a&gt; : mainly because it&amp;rsquo;s cross platform and provides super easy access to multiple compile options, shortcuts etc. But I hope a nice Atom package shows up.&lt;/li&gt;

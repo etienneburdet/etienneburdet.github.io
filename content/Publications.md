@@ -1,6 +1,6 @@
 +++
 date = 2014-10-11T16:47:33Z
-draft = true
+draft = false
 title = "Publications"
 menu = "main"
 +++
