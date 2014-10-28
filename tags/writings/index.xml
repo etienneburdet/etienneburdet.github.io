@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Writings on Etienne Burdet </title>
+      <generator uri="https://gohugo.io">Hugo</generator>
+    <link>http://etienneburdet.github.io/tags/writings/index.xml/</link>
+    
+    
+    
+    <updated>Sat, 11 Oct 2014 16:47:33 UTC</updated>
+    
+    <item>
+      <title>Publications</title>
+      <link>http://etienneburdet.github.io/Publications/</link>
+      <pubDate>Sat, 11 Oct 2014 16:47:33 UTC</pubDate>
+      
+      <guid>http://etienneburdet.github.io/Publications/</guid>
+      <description>
+
+&lt;h3 id=&#34;toc_0&#34;&gt;Journal&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Burdet, E., Colombert, M, Morand, D. Diab, Y. &lt;strong&gt;Integrated canopy, building energy and radiosity model for 3D urban design.&lt;/strong&gt;
+&lt;em&gt;Energy and Buildings&lt;/em&gt;, 2014, (submitted). &lt;a href=&#34;(https://hal.archives-ouvertes.fr/hal-01075816&#34;&gt;&lt;i class=&#34;fa fa-link&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;toc_1&#34;&gt;Conference Papers&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Burdet, E., Colombert, M, Morand, D. Diab, Y. &lt;a href=&#34;http://mediatum.ub.tum.de/node?id=1169330&#34;&gt;&lt;strong&gt;Modeling of Energy Fluxes for Urban Designs&lt;/strong&gt;&lt;/a&gt;
+&lt;em&gt;PLEA 2013 Sustainable Architecture for a Renewable Future&lt;/em&gt;, 2013 (Munich, Germany). &lt;a href=&#34;http://mediatum.ub.tum.de/node?id=1169330&#34;&gt;&lt;i class=&#34;fa fa-link&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+&lt;br /&gt; &lt;em&gt;&amp;rarr; Note : with hydrodynamic mobility model.&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Burdet, E., Colombert, M, Morand, D. Diab, Y. &lt;strong&gt;Methodology for the Life Cycle Energy Assessment of Urban Designs&lt;/strong&gt;
+&lt;em&gt;Ecobalance 2012 Challenges and Solutions for Sustainable Society&lt;/em&gt;, 2012 (Yokohama, Japan).&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Burdet, E., Colombert, M, Morand, D. Diab, Y. &lt;strong&gt;Modélisation des Flux Énergétiques Urbains pour les Projets d’Aménagements&lt;/strong&gt;
+&lt;em&gt;Futurs Urbains&lt;/em&gt;, 2012 (Yokohama, Japan). &lt;a href=&#34;http://villes-environnement.fr/fr/login.html&#34;&gt;&lt;i class=&#34;fa fa-link&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+&lt;br /&gt; &lt;em&gt;&amp;rarr; Note : different mobility model compared to the PLEA 2013 paper (otherwise similar but in french).&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Burdet, E., Colombert, M, Morand, D. Diab, Y. &lt;strong&gt;Modèle multicouche couplé Bâti - Canopée urbaine&lt;/strong&gt;
+&lt;em&gt;30 ème rencontres de l&amp;rsquo;Association Universitaire de Génie Civil&lt;/em&gt;, 2013 (Cachan, France).&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;toc_2&#34;&gt;Thesis&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Phd. (Dir. Youssef Diab): &lt;strong&gt;Energy Model for Urban Morphology Design&lt;/strong&gt;&lt;br /&gt;
+&lt;em&gt;&amp;rarr; out soon… under review !&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Master&amp;rsquo;s (Dir. Serge Salat): &lt;strong&gt;Mathematicaly Based Taxonomy of Urban Morphologies.&lt;/strong&gt;&lt;br /&gt;
+This document is more or less in the purgatory. We were supposed to make a book out of it, but never happened and the thesis in itself is not really publishable. Available on request if you are really interested. The content is a bit like Marshall&amp;rsquo;s &lt;em&gt;Street &amp;amp; Patterns&lt;/em&gt;, but for groups of buildings.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

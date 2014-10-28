@@ -3,18 +3,34 @@
   <channel>
       <title>Recent Content on Etienne Burdet </title>
       <generator uri="https://gohugo.io">Hugo</generator>
-    <link>http://localhost:1313/index.xml/</link>
+    <link>http://etienneburdet.github.io/index.xml/</link>
     
     
     
-    <updated>Mon, 20 Oct 2014 23:34:18 CEST</updated>
+    <updated>Tue, 28 Oct 2014 15:57:37 CET</updated>
+    
+    <item>
+      <title>Resources</title>
+      <link>http://etienneburdet.github.io/Resources/</link>
+      <pubDate>Tue, 28 Oct 2014 15:57:37 CET</pubDate>
+      
+      <guid>http://etienneburdet.github.io/Resources/</guid>
+      <description>&lt;p&gt;&lt;em&gt;This section is under construction. It should fill up quickly !&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Latex :&lt;/strong&gt; My &lt;a href=&#34;https://github.com/etienneburdet/Phd-template&#34;&gt;PhD. memoir template&lt;/a&gt;, my fork of &lt;a href=&#34;https://github.com/etienneburdet/Deedy-Resume&#34;&gt;Deedy&amp;rsquo;s CV&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;/resources/readings&#34;&gt;My reading bundle&lt;/a&gt; :&lt;/strong&gt; To get started on urban morphology and energy modeling.&lt;/p&gt;
+
+&lt;p&gt;And a (hopefully growing) list of related blog posts:&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Site Opening</title>
-      <link>http://localhost:1313/2014/10/open/</link>
+      <link>http://etienneburdet.github.io/2014/10/open/</link>
       <pubDate>Mon, 20 Oct 2014 23:34:18 CEST</pubDate>
       
-      <guid>http://localhost:1313/2014/10/open/</guid>
+      <guid>http://etienneburdet.github.io/2014/10/open/</guid>
       <description>&lt;p&gt;I&amp;rsquo;ve been wanting to do this for far too long, here it is: I have my own website !&lt;/p&gt;
 
 &lt;p&gt;So what to expect here ? First the usual hub: vita, publications, social links. Nothings you couldn&amp;rsquo;t find on my lab&amp;rsquo;s site or linkedin, but this can&amp;rsquo;t be in too many places.&lt;/p&gt;
@@ -28,11 +44,53 @@
     </item>
     
     <item>
+      <title>The Reading Bundle</title>
+      <link>http://etienneburdet.github.io/resources/readings/</link>
+      <pubDate>Sat, 18 Oct 2014 14:28:36 UTC</pubDate>
+      
+      <guid>http://etienneburdet.github.io/resources/readings/</guid>
+      <description>
+
+&lt;p&gt;I realized that whenever I talk about my work, I end up giving a list of pretty standard books, rather than the latest new fancy thing in my feeds. They are not my daily read, neither my only reading topic. It is more a minimal list of the basics of my discipline. It should give you a good sense of where I&amp;rsquo;m from.&lt;/p&gt;
+
+&lt;h3 id=&#34;toc_0&#34;&gt;If you had only one to read&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://www.amazon.com/Cities-Forms-On-Sustainable-Urbanism/dp/2705681116/ref=sr_1_1?ie=UTF8&amp;amp;qid=1414488270&amp;amp;sr=8-1&amp;amp;keywords=serge+salat&#34;&gt;Cities and Forms: On Sustainable Urbanism&lt;/a&gt;&lt;/strong&gt; : The big bad guy. I was in Serge&amp;rsquo;s lab when he wrote this and he is kind of my mentor. I&amp;rsquo;m not sure it&amp;rsquo;s readable straight from start to finish and I don&amp;rsquo;t necessarily endorse all views. But the amount of information in this book is just incredible.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;toc_1&#34;&gt;Morphology&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://www.amazon.fr/Urban-Housing-Handbook-Eric-Firley/dp/1119989981&#34;&gt;The Urban Housing Handbook&lt;/a&gt;&lt;/strong&gt; : before anything, look at what has been done in the world. Excellent maps and essential figures on density. Follow-up on towers and master planning are definitely worth reading too.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://www.amazon.com/Streets-Patterns-Stephen-Marshall/dp/0415317509&#34;&gt;Streets &amp;amp; Patterns&lt;/a&gt;&lt;/strong&gt;: Once again a broad view, not super technical. Just make sure you have all those pictures in mind.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://www.amazon.co.uk/Space-Matrix-Density-Urban-Form/dp/9056627422&#34;&gt;Space Matrix&lt;/a&gt;&lt;/strong&gt; : Are you sure you know you basic arithmetics of urban morpho&amp;rsquo; ? Super simple, still essential for good problem setting.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;toc_2&#34;&gt;Urban Energy Modeling&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://www.amazon.fr/Computer-Modelling-Sustainable-Urban-Design/dp/1844076792&#34;&gt;Computer Modeling For Sustainable Urban Design&lt;/a&gt;&lt;/strong&gt; : everything urban energy modeling, state of the art (the few newly published things doesn&amp;rsquo;t really change the game).&lt;/li&gt;
+&lt;li&gt;A few articles: &lt;strong&gt;&lt;a href=&#34;http://dx.doi.org/10.1016/S0378-7788(02)00079-8&#34;&gt;Ratti 2003&lt;/a&gt;&lt;/strong&gt;, &lt;strong&gt;&lt;a href=&#34;http://www.sciencedirect.com/science/article/pii/S0378778804003391&#34;&gt;Ratti 2005&lt;/a&gt;&lt;/strong&gt;, &lt;strong&gt;&lt;a href=&#34;http://linkinghub.elsevier.com/retrieve/pii/S0038092X06000612&#34;&gt;Robinson 2006&lt;/a&gt;&lt;/strong&gt;, for passive volume, perimeter blocks and irregular irradiation patterns.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;toc_3&#34;&gt;Modeling Epistemology&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://www.mcxapc.org/inserts/ouvrages/0609tsgtm.pdf&#34;&gt;Théorie du Système Général - Théorie de la Modélisation&lt;/a&gt;&lt;/strong&gt; : why are we even modeling ? This book is my base on systemic, on complex systems and more broadly on why I&amp;rsquo;m not modeling like a physicist.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://doi.wiley.com/10.1111/ecoj.12128&#34;&gt;Economic Models as Analogy&lt;/a&gt;&lt;/strong&gt;: a primer on case-based reasoning and analogy interpretation of models. Initially for economy, it works really well for city modeling too (found this one on James Keirstead&amp;rsquo;s &lt;a href=&#34;http://www.jameskeirstead.ca/&#34;&gt;website&lt;/a&gt;).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Once again, remember that it is a very minimal list, nothing exhaustive. But it should get you started on the topic.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Publications</title>
-      <link>http://localhost:1313/Publications/</link>
+      <link>http://etienneburdet.github.io/Publications/</link>
       <pubDate>Sat, 11 Oct 2014 16:47:33 UTC</pubDate>
       
-      <guid>http://localhost:1313/Publications/</guid>
+      <guid>http://etienneburdet.github.io/Publications/</guid>
       <description>
 
 &lt;h3 id=&#34;toc_0&#34;&gt;Journal&lt;/h3&gt;
@@ -73,46 +131,28 @@ This document is more or less in the purgatory. We were supposed to make a book 
     </item>
     
     <item>
-      <title>About</title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Mon, 30 Jun 2014 21:02:06 UTC</pubDate>
+      <title></title>
+      <link>http://etienneburdet.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
       
-      <guid>http://localhost:1313/about/</guid>
+      <guid>http://etienneburdet.github.io/about/</guid>
       <description>
+
+&lt;p&gt;﻿+++
+date = 2014-06-30T21:02:06Z
+title = &amp;ldquo;About&amp;rdquo;
+menu = &amp;ldquo;main&amp;rdquo;
++++&lt;/p&gt;
 
 &lt;h3 id=&#34;toc_0&#34;&gt;&lt;a href=&#34;/EtienneBurdet_CV.pdf&#34;&gt;&amp;rarr; My Vita&lt;/a&gt;&lt;/h3&gt;
 
-&lt;p&gt;I&amp;rsquo;m a 28 years old PhD. candidate (soon a Dr. !) in urban engineering at &lt;a href=&#34;http://www.eivp-paris.fr/&#34;&gt;EIVP&lt;/a&gt;. My main research is focused on the relation between energy fluxes and urban morphology. I try to produce models for engineers, designers or anybody trying to build cities, rather than for external observers. I also work on various side-topics regarding urban morhpology, urban design/planning and urban climate.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m a 28 years old PhD. candidate (soon a Dr. !) in urban engineering at &lt;a href=&#34;http://www.eivp-paris.fr/&#34;&gt;EIVP&lt;/a&gt;. My main research is focused on the relation between energy fluxes and urban morphology. I try to produce models for engineers, designers or anybody trying to build cities, rather than for external observers. I also work on various side-topics regarding urban morphology, urban design/planning and urban climate.&lt;/p&gt;
 
 &lt;p&gt;Here is how I look in my natural habitat :
 &lt;img src=&#34;/me.jpg&#34; alt=&#34;I exist for real&#34; /&gt;
 &lt;/p&gt;
 
 &lt;p&gt;Beside research, I traded my living room for movie theaters, I hunt art exhibitions, dance and new circus performances in Paris, I&amp;rsquo;m a huge tea/wine/food/restaurants geek and a passionate snowboarder.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://localhost:1313/Resources/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-      
-      <guid>http://localhost:1313/Resources/</guid>
-      <description>&lt;p&gt;﻿+++
-date = 2014-10-11T16:47:12Z
-title = &amp;ldquo;Resources&amp;rdquo;
-menu = &amp;ldquo;main&amp;rdquo;
-type = &amp;ldquo;singlelist&amp;rdquo;
-layout = &amp;ldquo;Resources&amp;rdquo;
-+++&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;This section is under construction. It should fill up quickly !&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Latex :&lt;/strong&gt; My &lt;a href=&#34;https://github.com/etienneburdet/Phd-template&#34;&gt;PhD. memoir template&lt;/a&gt;, my fork of &lt;a href=&#34;https://github.com/etienneburdet/Deedy-Resume&#34;&gt;Deedy&amp;rsquo;s CV&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;/resources/readings&#34;&gt;My reading bundle&lt;/a&gt; :&lt;/strong&gt; To get started on urban morphology and energy modeling.&lt;/p&gt;
-
-&lt;p&gt;And a (hopefully growing) list of related blog posts:&lt;/p&gt;
 </description>
     </item>
     
