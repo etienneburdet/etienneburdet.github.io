@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Software on Etienne Burdet </title>
+      <generator uri="https://gohugo.io">Hugo</generator>
+    <link>http://etienneburdet.github.io/tags/software/index.xml</link>
+    
+    
+    
+    <updated>Sat, 18 Oct 2014 13:42:07 UTC</updated>
+    
+    <item>
+      <title>Software Lineup</title>
+      <link>http://etienneburdet.github.io/ressources/software/</link>
+      <pubDate>Sat, 18 Oct 2014 13:42:07 UTC</pubDate>
+      
+      <guid>http://etienneburdet.github.io/ressources/software/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://atom.io/&#34;&gt;&lt;strong&gt;Atom&lt;/strong&gt;&lt;/a&gt; : switching from Emacs, still using emacs for a few minor modes (mainly GNU-Octave).&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.xm1math.net/texmaker/index_fr.html&#34;&gt;&lt;strong&gt;TeXmaker&lt;/strong&gt;&lt;/a&gt; : mainly because it&amp;rsquo;s cross platform and provides super easy access to multiple compile options, shortcuts etc. But I hope a nice Atom package shows up.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://freeplane.sourceforge.net/wiki/index.php/Main_Page&#34;&gt;&lt;strong&gt;Freeplane&lt;/strong&gt;&lt;/a&gt; : simple and actively developped.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.gnu.org/software/octave/&#34;&gt;&lt;strong&gt;GNU-Octave&lt;/strong&gt;&lt;/a&gt; : who needs Matlab ? Still mostly compatible with it.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://citysim.epfl.ch/&#34;&gt;&lt;strong&gt;CitySim&lt;/strong&gt;&lt;/a&gt; : Has the very big advantage of being integrable into a multi-software workflow (Rhino, autoCAD for preprocessing, Octave for post-process etc.).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Rhino&lt;/strong&gt; : my CAD software of choice for designing urban blocks. No good OS alternative as far as I know.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Illustrator&lt;/strong&gt; : Maybe a bit overkill for simple workflows, pictograms and posters but… we get used to comfort.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mendeley&lt;/strong&gt; : classic.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

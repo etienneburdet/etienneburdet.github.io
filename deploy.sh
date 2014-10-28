@@ -4,7 +4,7 @@ echo "\033[0;32mDeploying updates to Github...\033[0m"
 hugo
 
 # Add changes to git.
-# git add -A
+git add -A
 
 # Commit changes (no staging).
 msg="rebuilding site `date`"
@@ -12,9 +12,8 @@ if [ $# -eq 1 ]
   then msg="$1"
 fi
 
-## Being totally lazy and unsafe… yeah yeah, I know.
-git add -A
-git commit -a -m "$msg"
+## Being totally lazy… yeah yeah, I know.
+git commit -m "$msg"
 
 # Push source and build repos.
 git push origin source

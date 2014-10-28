@@ -100,7 +100,7 @@ This document is more or less in the purgatory. We were supposed to make a book 
       <guid>http://etienneburdet.github.io/Resources/</guid>
       <description>&lt;p&gt;﻿+++
 date = 2014-10-11T16:47:12Z
-draft = true
+draft = false
 title = &amp;ldquo;Resources&amp;rdquo;
 menu = &amp;ldquo;main&amp;rdquo;
 type = &amp;ldquo;singlelist&amp;rdquo;
