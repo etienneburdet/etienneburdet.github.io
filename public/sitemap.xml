@@ -2,33 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://etienneburdet.github.io/</loc>
     <lastmod>2014-10-20T23:34:18+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/2014/10/open/</loc>
+    <loc>http://etienneburdet.github.io/2014/10/open/</loc>
     <lastmod>2014-10-20T23:34:18+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/resources/readings/</loc>
-    <lastmod>2014-10-18T14:28:36+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/Publications/</loc>
+    <loc>http://etienneburdet.github.io/Publications/</loc>
     <lastmod>2014-10-11T16:47:33+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>http://etienneburdet.github.io/about/</loc>
     <lastmod>2014-06-30T21:02:06+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/Resources/</loc>
+    <loc>http://etienneburdet.github.io/Resources/</loc>
     <lastmod>0001-01-01T00:00:00+00:00</lastmod>
   </url>
   
