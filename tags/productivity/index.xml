@@ -17,7 +17,7 @@
       <guid>http://etienneburdet.github.io/2014/11/herehugo/</guid>
       <description>
 
-&lt;p&gt;Whether for a personal page or a project site, we need websites all the time, to be someone on the web. We want something simple, but we don&amp;rsquo;t necessarily have the money to hire a pro (when we should) – but hey, this shouldn&amp;rsquo;t be that hard. So what do we have ? A tumblr, wordpress.com ? Hosting your own wordpress or drupal ? WYSIWYG tools ?&lt;/p&gt;
+&lt;p&gt;Whether for a personal page or a project site, we need websites all the time, to be someone on the web. We want something simple, but we don&amp;rsquo;t necessarily have the money to hire a pro (when we should) – but hey, this shouldn&amp;rsquo;t be that hard. So what do we have ? A &lt;em&gt;tumblr&lt;/em&gt;, &lt;em&gt;wordpress.com&lt;/em&gt; ? Hosting your own &lt;em&gt;wordpress&lt;/em&gt; or &lt;em&gt;drupal&lt;/em&gt; ? &lt;em&gt;WYSIWYG&lt;/em&gt; tools ?&lt;/p&gt;
 
 &lt;p&gt;For this web site, I chose a static generator: &lt;a href=&#34;http://gohugo.io&#34;&gt;Hugo&lt;/a&gt;. Why ? You Input text files, it outputs a full – super lightweight and responsive – plain html site. Magic happens in the middle.&lt;/p&gt;
 
@@ -25,15 +25,15 @@
 
 &lt;p&gt;In those hipsterish days, old is the new cool and apparently we are back to static sites. Or static generator to be more precise.&lt;/p&gt;
 
-&lt;p&gt;So how does the thing works ? First I installed Hugo (it takes about 2 clicks) and told him &amp;ldquo;new site please&amp;rdquo;. He gave me a backbone, empty site. Now when I want to input a new page, or a new blog post, I write the content in &lt;a href=&#34;https://help.github.com/articles/markdown-basics/&#34;&gt;markdown&lt;/a&gt; in a text file and… that&amp;rsquo;s about it. Then you say &amp;ldquo;hey Hugo, make a site out this bunch of text files&amp;rdquo;, and then he generates a whole site in milliseconds. A fully static, ready to upload website.&lt;/p&gt;
+&lt;p&gt;So how does the thing works ? First I installed Hugo (it takes about 2 clicks) and told him &lt;em&gt;&amp;ldquo;new site please&amp;rdquo;&lt;/em&gt;. He gave me a backbone, empty site. Now when I want to input a new page, or a new blog post, I write the content in a text file using &lt;a href=&#34;https://help.github.com/articles/markdown-basics/&#34;&gt;markdown&lt;/a&gt; and… that&amp;rsquo;s about it. Then you say &lt;em&gt;&amp;ldquo;hey Hugo, make a site out this bunch of text files&amp;rdquo;&lt;/em&gt; and he generates a whole site in milliseconds. A fully static, ready to upload website.&lt;/p&gt;
 
-&lt;p&gt;That simple ? That simple. Then you can customize the template, by digging a bit into the HTML/CSS/Go template. It is hackable to the core. The really great thing being the learning curve. Simple things — such as the social button — are simple to do and from there you can gradually tweak your site more and more.&lt;/p&gt;
+&lt;p&gt;That simple ? That simple. You can customize the template, by digging a bit into the HTML/CSS/Go template. It is hackable to the core. The really great thing being the learning curve. Simple things — such as the social button — are simple to do and from there you can gradually tweak your site more and more.&lt;/p&gt;
 
 &lt;h3 id=&#34;toc_1&#34;&gt;Ligh, flexible and free&lt;/h3&gt;
 
 &lt;p&gt;First advantage: no database. No php, no CMS, no accounts, no nothing server side. Read: no bugs. Just plain html pages that you upload on any host. No account on a specific service either (like wordpress.com), which means no adds, no terms of use, no limitations of any kind.&lt;/p&gt;
 
-&lt;p&gt;Second advantage is in the long run. What will tumblr or about.me be in 10 years ? What is gonna happen when I need to transfer my site from wordpress.com to the new cool thing ? One thing is sure, plain html is gonna be here for a long time. This site is hosted on github, but if I want it on dropbox or any other host, I upload the file there and it is up in minutes, literally.&lt;/p&gt;
+&lt;p&gt;Second advantage is in the long run. What will &lt;em&gt;tumblr&lt;/em&gt; or &lt;em&gt;about.me&lt;/em&gt; be in 10 years ? What is gonna happen when I need to transfer my site from &lt;em&gt;wordpress.com&lt;/em&gt; to the new cool thing ? One thing is sure, plain html is gonna be here for a long time. This site is hosted on github, but if I want it on dropbox or any other host, I upload the file there and it is up in minutes, literally.&lt;/p&gt;
 
 &lt;h3 id=&#34;toc_2&#34;&gt;Mobile first, content first&lt;/h3&gt;
 
