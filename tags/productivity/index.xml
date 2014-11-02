@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-      <title>Posts on Etienne Burdet </title>
+      <title>Productivity on Etienne Burdet </title>
       <generator uri="https://gohugo.io">Hugo</generator>
-    <link>http://etienneburdet.github.io/post/index.xml</link>
+    <link>http://etienneburdet.github.io/tags/productivity/index.xml</link>
     
     
     
@@ -40,24 +40,6 @@
 &lt;p&gt;I decided to go for the superb &lt;a href=&#34;http://andhyde.com/&#34;&gt;Hyde&lt;/a&gt; theme. It is responsive (try resize that window) and it&amp;rsquo;s mobile first/content first. It means you don&amp;rsquo;t have one hundred links on the sidebar, you don&amp;rsquo;t have the avatar of every single guy who likes the page on the facebook, no wordcloud, no widgets everywhere, etc. Deliver the content efficiently, else it&amp;rsquo;s gonna be unreadable on a small smartphone screen. And looks so clean on big one.&lt;/p&gt;
 
 &lt;p&gt;Light, fast, responsive, content first, customizable… you feel so free ! Going back to a CMS from Hugo for this kind of site would just feel like riding a limo on bike path.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Site Opening</title>
-      <link>http://etienneburdet.github.io/2014/10/open/</link>
-      <pubDate>Mon, 20 Oct 2014 23:34:18 CEST</pubDate>
-      
-      <guid>http://etienneburdet.github.io/2014/10/open/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;ve been wanting to do this for far too long, here it is: I have my own website !&lt;/p&gt;
-
-&lt;p&gt;So what to expect here ? First the usual hub: vita, publications, social links. Nothings you couldn&amp;rsquo;t find on my lab&amp;rsquo;s site or linkedin, but this can&amp;rsquo;t be in too many places.&lt;/p&gt;
-
-&lt;p&gt;But a personal site should be, well, a bit more personal. So I listed here some resources on how I work, diverse templates, tips and a few readings. The kind of things I would tell you if we were to meet in person, but you would never ask by e-mail.&lt;/p&gt;
-
-&lt;p&gt;Finally, I always wanted to have some sort of irregular blog on both city science and working in the academia. Half scientific things that doesn&amp;rsquo;t really fit journals, comments on articles, discussion on research itself (read: surviving a PhD), productivity at work, etc. I want to write on all those topics and I think it&amp;rsquo;s the ideal place to so.&lt;/p&gt;
-
-&lt;p&gt;Hopefully this site last in the long run, survives institutions and lab changes. I hope it gives you some useful infos and – who knows – maybe some fun. Enjoy your visit and feel free to share your feelings on this site !&lt;/p&gt;
 </description>
     </item>
     
