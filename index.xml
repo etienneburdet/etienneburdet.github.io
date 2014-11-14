@@ -3,11 +3,25 @@
   <channel>
       <title>Recent Content on Etienne Burdet </title>
       <generator uri="https://gohugo.io">Hugo</generator>
-    <link>http://etienneburdet.github.io/index.xml/</link>
+    <link>http://etienneburdet.github.io/index.xml</link>
     
     
     
-    <updated>Sun, 02 Nov 2014 16:39:37 CET</updated>
+    <updated>Fri, 14 Nov 2014 22:40:25 CET</updated>
+    
+    <item>
+      <title>Article Update</title>
+      <link>http://etienneburdet.github.io/2014/11/articleupdate/</link>
+      <pubDate>Fri, 14 Nov 2014 22:40:25 CET</pubDate>
+      
+      <guid>http://etienneburdet.github.io/2014/11/articleupdate/</guid>
+      <description>&lt;p&gt;The article on the thermal part of my model has been reviewed quite quickly. I updated the version with some minors modifications, you can find it on my &lt;a href=&#34;https://hal.archives-ouvertes.fr/view/index/docid/1082955&#34;&gt;HAL profile&lt;/a&gt;. Hope it&amp;rsquo;s useful, feel free to ask any question.&lt;/p&gt;
+
+&lt;p&gt;The hardest part was maybe to understand how to properly submit a LaTeX article through EES. It&amp;rsquo;s well made in fact, you upload your .tex and .bib as manuscript and the figures as figures and the article is generated.&lt;/p&gt;
+
+&lt;p&gt;Except it&amp;rsquo;s not said anywhere you should proceed this way. Actually the FAQ tells you to upload the .pdf as manuscript and the latex files as latex source files, while the dialog box orders you to never ever upload a .pdf (but still let you do it). How much are we paying for Elsevier again ?&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Here Hugo</title>
