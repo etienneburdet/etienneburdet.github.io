@@ -3,7 +3,7 @@
   <channel>
       <title>Recent Content on Etienne Burdet </title>
       <generator uri="https://gohugo.io">Hugo</generator>
-    <link>http://etienneburdet.github.io/index.xml</link>
+    <link>http://etienneburdet.github.io/index.xml/</link>
     
     
     
@@ -15,7 +15,7 @@
       <pubDate>Fri, 14 Nov 2014 22:40:25 CET</pubDate>
       
       <guid>http://etienneburdet.github.io/2014/11/articleupdate/</guid>
-      <description>&lt;p&gt;The article on the thermal part of my model has been reviewed quite quickly. I updated the version with some minors modifications, you can find it on my &lt;a href=&#34;https://hal.archives-ouvertes.fr/view/index/docid/1082955&#34;&gt;HAL profile&lt;/a&gt;. Hope it&amp;rsquo;s useful, feel free to ask any question.&lt;/p&gt;
+      <description>&lt;p&gt;The article on the thermal part of my model has been reviewed quite quickly. I updated the version with some minors modifications, you can find it on my &lt;a href=&#34;https://hal.archives-ouvertes.fr/view/index/docid/1082955&#34;&gt;HAL profile (moderation pending)&lt;/a&gt; and &lt;a href=&#34;http://arxiv.org/abs/1411.4956&#34;&gt;arXiv&lt;/a&gt;. Hope it&amp;rsquo;s useful, feel free to ask any question.&lt;/p&gt;
 
 &lt;p&gt;The hardest part was maybe to understand how to properly submit a LaTeX article through EES. It&amp;rsquo;s well made in fact, you upload your .tex and .bib as manuscript and the figures as figures and the article is generated.&lt;/p&gt;
 
