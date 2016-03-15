@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://etienneburdet.github.io/</loc>
+    <lastmod>2016-03-15T07:30:19+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://etienneburdet.github.io/post/jobupdate/</loc>
+    <lastmod>2016-03-15T07:30:19+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://etienneburdet.github.io/about/</loc>
+    <lastmod>2016-02-16T21:50:49+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://etienneburdet.github.io/post/ArticleUpdate/</loc>
+    <lastmod>2014-11-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://etienneburdet.github.io/post/Hugo/</loc>
+    <lastmod>2014-11-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://etienneburdet.github.io/post/open/</loc>
+    <lastmod>2014-10-20T23:34:18+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://etienneburdet.github.io/readings/</loc>
+    <lastmod>2014-10-18T14:28:36+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://etienneburdet.github.io/resources/</loc>
+  </url>
+  
+</urlset>
