@@ -1,0 +1,27 @@
+﻿master update
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	new file:   themes/hyde/LICENSE.md
+#	new file:   themes/hyde/README.md
+#	new file:   themes/hyde/archetypes/default.md
+#	new file:   themes/hyde/images/screenshot.png
+#	new file:   themes/hyde/images/tn.png
+#	new file:   themes/hyde/layouts/404.html
+#	new file:   themes/hyde/layouts/_default/list.html
+#	new file:   themes/hyde/layouts/_default/single.html
+#	new file:   themes/hyde/layouts/index.html
+#	new file:   themes/hyde/layouts/partials/disqus.html
+#	new file:   themes/hyde/layouts/partials/head.html
+#	new file:   themes/hyde/layouts/partials/sidebar.html
+#	new file:   themes/hyde/static/apple-touch-icon-144-precomposed.png
+#	new file:   themes/hyde/static/css/hyde.css
+#	new file:   themes/hyde/static/css/poole.css
+#	new file:   themes/hyde/static/css/syntax.css
+#	new file:   themes/hyde/static/favicon.png
+#	new file:   themes/hyde/theme.toml
+#
+
