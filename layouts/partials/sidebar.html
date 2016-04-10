@@ -1,0 +1,30 @@
+<div class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+      <a href="{{ .Site.BaseURL }}"><h1>{{ .Site.Title }}</h1></a>
+      <p class="lead">
+      {{ with .Site.Params.description }} {{.}} {{ else }}Modeling, Analyzing and Enjoying Cities{{end}}
+      </p>
+
+      <p class="sidebar-nav">
+        <a href="/">Blog</a>
+        &bull; <a href="/EtienneBurdet_CV.pdf">CV</a>
+        &bull; <a href="/about">About me</a>
+        &bull; <a href="/resources">Resources</a>
+
+      </p>
+
+
+      <p class="sidebar-nav">
+        <a href="https://github.com/etienneburdet"><i class="fa fa-github fa-lg"></i></a>
+        <a href="https://www.linkedin.com/pub/etienne-burdet/16/25b/954"><i class="fa fa-linkedin-square fa-lg"></i></a>
+        <a href="https://twitter.com/EtienneBurdet"><i class="fa fa-twitter fa-lg"></i></a>
+        <a href="{{ .Site.RSSLink }}"><i class="fa fa-rss fa-lg"></i></a>
+      </p>
+    </div>
+
+
+
+    <p>{{ with .Site.Params.copyright }}{{.}}{{ else }}&copy; {{.Now.Format "2006"}}. All rights reserved. {{end}}</p>
+  </div>
+</div>
