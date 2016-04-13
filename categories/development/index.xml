@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Development on Etienne Burdet</title>
+    <link>http://etienneburdet.github.io/categories/development/</link>
+    <description>Recent content in Development on Etienne Burdet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 13 Apr 2016 17:43:46 +0200</lastBuildDate>
+    <atom:link href="http://etienneburdet.github.io/categories/development/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>3615 Smart City</title>
+      <link>http://etienneburdet.github.io/post/3615/</link>
+      <pubDate>Wed, 13 Apr 2016 17:43:46 +0200</pubDate>
+      
+      <guid>http://etienneburdet.github.io/post/3615/</guid>
+      <description>&lt;p&gt;Since yesterday, it&amp;rsquo;s all the rage for CityMapper, Transit and the like in Paris. The RATP has decided to close back their data, until they really re-open it again late 2016. The official reason is that &lt;em&gt;&amp;ldquo;RATP is thinking about a way to monetize his data&amp;rdquo;&lt;/em&gt;. This problem is not specific to the RATP actually, but may apply to anything smartcity and is as old as the profitable internet. I call it the &lt;em&gt;&amp;ldquo;Minitel way of the smartcity&amp;rdquo;&lt;/em&gt; issue (for the non-french of you, read &lt;a href=&#34;http://www.bbc.com/news/magazine-18610692&#34;&gt;what the Minitel was&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;The original form of the problem is an internet provider realizing that Meetic is making a lot of money thanks to its infrastructure. Except Meetic doesn&amp;rsquo;t pay for the wires, routers and construction work—”they don&amp;rsquo;t even provide the content of their site! The first thought of the internet provider is either: &lt;em&gt;&amp;ldquo;I&amp;rsquo;ll make them pay&amp;rdquo;&lt;/em&gt; or &lt;em&gt;&amp;ldquo;I forbid everybody to run dating sites on my network, I make my very own one and take all that cash!&amp;rdquo;&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Translate back this problem to the RATP: CityMapper makes money with our metros, either they pay or we have monopoly. But this could also be true for museums, cities parking lot or even—ahem—railway stations. This is the minitel way of thinking. You dial &lt;em&gt;3615 MySmartMuseum&lt;/em&gt;, or &lt;em&gt;3615 SuperSmartParis&lt;/em&gt; and you download every app related to the building/city, for having access to the exhibitions, available parking spots or train information. But every time you change city, you change all the apps. In the Minitel world, using CityMapper both in Paris and London doesn&amp;rsquo;t exist. Every little king wants to rule the apps in his county and have his very own Minitel.&lt;/p&gt;
+
+&lt;p&gt;So what happened on the internet? Well legally, it was more or less said, that charging only profitable megabytes because else you could be very annoying, is mob practice. Same goes for the RATP. Charging apps like Transit or Citymapper for the sole reason you could be annoying—like giving them estimated time instead of real ones—if they didn&amp;rsquo;t pay is a quite questionable practice.&lt;/p&gt;
+
+&lt;p&gt;But more importantly, the minitel way of thinking—and the minitel itself—disappeared because it&amp;rsquo;s inefficient compared to the connected way of doing things. Being able to post a Youtube video on Facebook or to facebook-like a video on Youtube is at the core of the success of both. Facebook has a video player and Youtube has a like system. But while they could block each other—and rule their own kingdom—they realized that it wasn&amp;rsquo;t profitable at all. It&amp;rsquo;s quite the opposite, the more connected you are to other app, the more traffic you draw.&lt;/p&gt;
+
+&lt;p&gt;Again, same story for CityMapper and RATP. User could buy tickets through CityMapper and RATP could use a CityMapper API to provide their users comparison with bike, walking or taxi. Actually, if you start thinking this way, the number of potential services to the customer is unlimited. You could have an app that guides you from the street, through transport up to the piece of art inside the museum. Or you could have your favorite app for the transport and another app that guides you through any exhibition in the world. It&amp;rsquo;s up to what you prefer.&lt;/p&gt;
+
+&lt;p&gt;And the transporters/museums/city doesn&amp;rsquo;t even have to pay to develop the app if they don&amp;rsquo;t want to. They only have to provide the API—which they have to develop for themselves anyway— and think &lt;em&gt;&amp;ldquo;connected&amp;rdquo;&lt;/em&gt;. Then it&amp;rsquo;s a better service for free. So the financial iusse seems quite simple  to me. Win, win.&lt;/p&gt;
+
+&lt;p&gt;The political question is very different, though. Do you want to provide a digital service to your fellow citizen or do you want to be a little Lord of the Minitel collecting tax from your peasants?&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
