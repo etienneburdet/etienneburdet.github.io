@@ -1,0 +1,45 @@
+﻿build
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch source
+# Your branch is up-to-date with 'origin/source'.
+#
+# Changes to be committed:
+#	deleted:    public/404.html
+#	deleted:    public/EtienneBurdet_CV.pdf
+#	deleted:    public/about/index.html
+#	deleted:    public/apple-touch-icon-144-precomposed.png
+#	deleted:    public/categories/development/index.html
+#	deleted:    public/categories/development/index.xml
+#	deleted:    public/categories/golang/index.html
+#	deleted:    public/categories/golang/index.xml
+#	deleted:    public/css/hyde.css
+#	deleted:    public/css/poole.css
+#	deleted:    public/css/syntax.css
+#	deleted:    public/favicon.png
+#	deleted:    public/index.html
+#	deleted:    public/index.xml
+#	deleted:    public/me.jpg
+#	deleted:    public/post/3615/index.html
+#	deleted:    public/post/ArticleUpdate/index.html
+#	deleted:    public/post/Hugo/index.html
+#	deleted:    public/post/OAScritique/index.html
+#	deleted:    public/post/index.html
+#	deleted:    public/post/index.xml
+#	deleted:    public/post/jobupdate/index.html
+#	deleted:    public/post/open/index.html
+#	deleted:    public/readings/index.html
+#	deleted:    public/resources/index.html
+#	deleted:    public/sitemap.xml
+#	deleted:    public/tags/development/index.html
+#	deleted:    public/tags/development/index.xml
+#	deleted:    public/tags/golang/index.html
+#	deleted:    public/tags/golang/index.xml
+#	deleted:    public/tags/readings/index.html
+#	deleted:    public/tags/readings/index.xml
+#	deleted:    public/tags/science/index.html
+#	deleted:    public/tags/science/index.xml
+#	deleted:    public/tags/urba/index.html
+#	deleted:    public/tags/urba/index.xml
+#
+
