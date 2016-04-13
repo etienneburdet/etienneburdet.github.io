@@ -1,7 +1,6 @@
-echo "\033[0;32mDeploying updates to Github...\033[0m"
+#!/bin/bash
 
-# make sure we are on source
-git checkout source
+echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 
 # Build the project.
 hugo
@@ -9,15 +8,13 @@ hugo
 # Add changes to git.
 git add -A
 
-# Commit changes (no staging).
+# Commit changes.
 msg="rebuilding site `date`"
 if [ $# -eq 1 ]
   then msg="$1"
 fi
-
-## Being totally lazy… yeah yeah, I know.
 git commit -m "$msg"
 
 # Push source and build repos.
 git push origin source
-git subtree push --prefix=public origin master
+git subtree push --prefix=public https://github.com/etienneburdet/etienneburdet.github.io.git master
