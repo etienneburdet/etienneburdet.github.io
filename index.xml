@@ -6,8 +6,34 @@
     <description>Recent content on Etienne Burdet</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 May 2016 17:43:46 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jun 2016 19:55:30 +0200</lastBuildDate>
     <atom:link href="http://etienneburdet.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>The ultimate scientificaly true definition of the smartcity. By me.</title>
+      <link>http://etienneburdet.github.io/post/definition/</link>
+      <pubDate>Mon, 06 Jun 2016 19:55:30 +0200</pubDate>
+      
+      <guid>http://etienneburdet.github.io/post/definition/</guid>
+      <description>&lt;p&gt;No less than that. Ready? Here we go:&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;A part of a city is smart when its elements communicate with the TCP/IP protocol.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;That&amp;rsquo;s it folks. Hmm… I feel a bit of disappointment. It doesn&amp;rsquo;t sound futuristic enough? Too technocratic maybe? Let&amp;rsquo;s look deeper.&lt;/p&gt;
+
+&lt;p&gt;First, does it work? Since &lt;a href=&#34;https://en.wikipedia.org/wiki/Internet_protocol_suite&#34;&gt;TCP/IP powers the internet&lt;/a&gt;, we have: internet of things, people gathering over social network, Uber, Airbnb and Bitcoin, big data and monitoring, participatory politics etc. So far so good, it seems we cover everything we intuitively associate with the notion.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;It&amp;rsquo;s just a city that uses the Internet then. What so special about it?&lt;/em&gt; Well, it might seem normal today, because we have been living in smartcities for quite a while now, but those protocols are quite game changers. TCP/IP has introduced two very special things: you can query directly whoever you want on the network and you can answer directly to any message. If your mayor makes a speech, you can only listen, provided you&amp;rsquo;re in the crowd or behind your TV. If she posts on twitter, you can answer. It&amp;rsquo;s the well known difference between the world of internet and the world of journals and TV. &lt;a href=&#34;http://www.moreno-web.net/interview-du-pr-carlos-moreno-par-nicolas-curien-revue-communications-strategies-art-fr-en-esp/&#34;&gt;Carlos Moreno&lt;/a&gt; may insists a lot on ubiquitous access to information, but in my opinion it&amp;rsquo;s the possibility to answer any message that changes everything.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Ok internet is going to change the world—like we never heard it before. What we want to know is what our cities are going to look like. Where are my DIY driverless car kit and ultra-mega-uber speed Li-Fi network?&lt;/em&gt; Modesty aside, the strength of this definition is to not presuppose any final state. By focusing on the protocol used to exchange information, I want to stress that the essence of a smartcity is the way it reacts to information, the method used to connect people and things, not what it&amp;rsquo;s made of. Knowing if a friend is in the same café as you is much more important than knowing if the information has gone through 4G or LiFi and even more important than &lt;em&gt;&amp;ldquo;living in a connected world of ubiquitous access to big data&amp;rdquo;&lt;/em&gt;. You querry the geolocalization app, it asks your friend, your friends phone answers to the app, the app answers to you. Querry, answer. That&amp;rsquo;s what matters.&lt;/p&gt;
+
+&lt;p&gt;And if all the parts of the city—human and objects alike—are capable of answering to each other, it means that the city is constantly transforming. That&amp;rsquo;s where the big misunderstanding around the definition of smartcity lies. Architects and urbanists—or all kind of other theorists for that matters—are trying to see smartcity as a new model of urban planning. Just like &lt;em&gt;eco-district&lt;/em&gt;, &lt;em&gt;Ville Radieuse&lt;/em&gt; or &lt;em&gt;open planning&lt;/em&gt; were models, there had to be a new one. It&amp;rsquo;s easy to understand that trying to describe the final state of a city that constantly transforms itself is a dead end. Seeing smartcity not as a city, but as a method for the city to react, to transform itself, is much more useful in my view.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Can I  querry it? Can I answer its message?&lt;/em&gt; Those are the two questions you really want to ask yourself when designing smartcity stuff. Querrying might be reading bus time tables or see if there are free seats at a restaurant. Answering might be signaling something broken in your street or just painting street furniture to a color you like more (oooops, it doesn&amp;rsquo;t use TCP/IP) and tweet about your performance (few…). Am I connecting inputs and outputs the &lt;em&gt;internet way&lt;/em&gt;, i.e using TCP/IP? What happens then? Anything else, including trying to know if your city is green, equilitarian or &lt;a href=&#34;http://www.thewisecity.org/&#34;&gt;wise&lt;/a&gt; is a battle to define a final state—preferrably one that is better than your neighbors.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&amp;ldquo;My definition”&lt;/em&gt; is of course a bit picky and it might not even be mine. But at least it works (mostly) and I hope it drives us away from this stupid technocracy vs. participation and people vs. data debate. You don&amp;rsquo;t really care about what is a smartcity. You care about what does a smartcity. The first stage is to notice that a smartcity communicates the internet-way. If you want a deeper understanding though, there&amp;rsquo;s no better way than inputing a message or a design and see for yourself what your smartcity does.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Musk &amp; The City</title>
