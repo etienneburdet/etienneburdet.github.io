@@ -6,8 +6,32 @@
     <description>Recent content in Posts on Etienne Burdet</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 Jun 2016 19:55:30 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 31 Aug 2016 19:52:53 +0200</lastBuildDate>
     <atom:link href="http://etienneburdet.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>The Forked City</title>
+      <link>http://etienneburdet.github.io/post/forked/</link>
+      <pubDate>Wed, 31 Aug 2016 19:52:53 +0200</pubDate>
+      
+      <guid>http://etienneburdet.github.io/post/forked/</guid>
+      <description>&lt;p&gt;A recent passion of mine has been the &lt;a href=&#34;https://blog.ethereum.org/2016/07/20/hard-fork-completed/&#34;&gt;DAO-hardfork of the Ethereum blockchain&lt;/a&gt;. Especially the fact that both blockchains &lt;a href=&#34;http://www.coindesk.com/can-two-ethereum-markets-co-exist/&#34;&gt;co-exist a month after the fork&lt;/a&gt;… with the same people on both chains.&lt;/p&gt;
+
+&lt;p&gt;If you don&amp;rsquo;t understand a single word of what I&amp;rsquo;m talking about, let me me use a smartcity exemple. Imagine a fleet of solar powered autonomous bus—that&amp;rsquo;s for the futuristic effect, it works with regular buses too—that go from charging stations to points where people have called the bus. Buses and solar charging points pay each other with virtual money and transactions are stored on an electronic ledger, like &lt;a href=&#34;https://www.ethereum.org/&#34;&gt;Ethereum&lt;/a&gt;. All of this is fully automated and safely recorded (that&amp;rsquo;s what a blockchain is for, no need for technical details), actually you can have all sort of rules, like charging times, maximum distance you can ask the bus to go etc. all embedded in the Ethereum system.&lt;/p&gt;
+
+&lt;p&gt;Now, at some point, because of bug or hack, there is an impossible transaction. Let&amp;rsquo;s say one bus is in debt of 1 billion in electricity to a solar charger—which is physically impossible. You cannot say &lt;em&gt;“hey, let&amp;rsquo;s errase this, it&amp;rsquo;s obviously wrong”&lt;/em&gt; easily. The purpose of a blockchain is that isolated individuals cannot erase a line of history. You have to send back the money explicitly. Except the solar charger is pretty happy with his billion, so he doesn&amp;rsquo;t want to.&lt;/p&gt;
+
+&lt;p&gt;This is where things become funky. You can “fork” the history, by collectively implementing a patch, ignoring this suspicious transaction. But first, some people won&amp;rsquo;t like it at all and will feel like if history can be manipulated, how is their money safe? That&amp;rsquo;s what happened with the Ethereum hard fork. Then if you implement a patch, some people or device will not use it before a long time. They wouldn&amp;rsquo;t even know that there had even been a problem and they would choose the “wrong” path of history unconsciously. That&amp;rsquo;s what happened with the &lt;a href=&#34;https://mineforeman.com/2013/03/14/what-the-fork-was-that-a-forking-post-mortem/&#34;&gt;bitcoin 0,7 almost-fork&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Let&amp;rsquo;s not focus on the details of forks (&lt;a href=&#34;https://www.bloomberg.com/view/articles/2016-06-17/blockchain-company-s-smart-contracts-were-dumb&#34;&gt;read some here&lt;/a&gt;) but just look at the result: at some points you have two versions of history and people and devices choose one path, or the other… or both. Each path is incompatible with the other and has it&amp;rsquo;s own currency (like euro-a and euro-b). Which means if a bus using one currency comes to charging station using the other one, it cannot charge, it means that passenger have to pay in different moneys etc.&lt;/p&gt;
+
+&lt;p&gt;Now, can such a thing realistically happens in a smart city? Well, in my opinion the &lt;em&gt;did not implement the patch&lt;/em&gt; scenario is quite likely to happen. You have to understand that a lot of infrastructure in cities are maintained over very long delays, some things (especially underground) are left alone for years, contractors often disagrees on who should do what—like patching software etc. Deploying such a patch on every device of a city, from ATM to buses and solar charging stations, can take months… if it ever happens.&lt;/p&gt;
+
+&lt;p&gt;So, do we end up with a bugged city? Not necessarily, two solutions exist. First, city-level regulation. The City hall can decide to enforce a specific version of the blockchain if they are running their own sidechain—this would be a political hard fork. Second, with ledgers interoperability. It&amp;rsquo;s possible for &lt;a href=&#34;https://interledger.org/&#34;&gt;different ledgers to exchange infos&lt;/a&gt;… provided you have the good software and economy guys.&lt;/p&gt;
+
+&lt;p&gt;No matter what, blockchains in smartcity are gonna be messy. Which is why they are a good thing—cities are intrinsically messy and need to be. Software designers who can handle this blockchain mess will be key to the system and quite looked after. Time to study urban engineering and blockchain technology?&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Masdar is gonna be as efficient as Besançon-Viotte</title>
