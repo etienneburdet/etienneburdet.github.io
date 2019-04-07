@@ -1,7 +1,7 @@
 +++
-Description = "Site grand opening. Welcome everybody !"  
-date = "2019-04-20T23:34:18+02:00"
-title = "New Website"
+Description = "Site a bit abandonned"  
+date = "2019-04-07T19:52:53+02:00"
+title = "Old Website"
 +++
 
 I've been neglecting this site for way too long.w It's pretty outdated and I hope to update it... sometime. I am still unsure wether I want to turn this into a pure landing page and only rely on medium/linkedin or if I use it as long term backup. Still, it needs update.
