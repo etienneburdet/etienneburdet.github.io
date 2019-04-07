@@ -7,7 +7,9 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 31 Aug 2016 19:52:53 +0200</lastBuildDate>
-    <atom:link href="http://etienneburdet.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://etienneburdet.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>The Forked City</title>
@@ -15,46 +17,18 @@
       <pubDate>Wed, 31 Aug 2016 19:52:53 +0200</pubDate>
       
       <guid>http://etienneburdet.github.io/post/forked/</guid>
-      <description>&lt;p&gt;A recent passion of mine has been the &lt;a href=&#34;https://blog.ethereum.org/2016/07/20/hard-fork-completed/&#34;&gt;DAO-hardfork of the Ethereum blockchain&lt;/a&gt;. Especially the fact that both blockchains &lt;a href=&#34;http://www.coindesk.com/can-two-ethereum-markets-co-exist/&#34;&gt;co-exist a month after the fork&lt;/a&gt;… with the same people on both chains.&lt;/p&gt;
-
-&lt;p&gt;If you don&amp;rsquo;t understand a single word of what I&amp;rsquo;m talking about, let me me use a smartcity exemple. Imagine a fleet of solar powered autonomous bus—that&amp;rsquo;s for the futuristic effect, it works with regular buses too—that go from charging stations to points where people have called the bus. Buses and solar charging points pay each other with virtual money and transactions are stored on an electronic ledger, like &lt;a href=&#34;https://www.ethereum.org/&#34;&gt;Ethereum&lt;/a&gt;. All of this is fully automated and safely recorded (that&amp;rsquo;s what a blockchain is for, no need for technical details), actually you can have all sort of rules, like charging times, maximum distance you can ask the bus to go etc. all embedded in the Ethereum system.&lt;/p&gt;
-
-&lt;p&gt;Now, at some point, because of bug or hack, there is an impossible transaction. Let&amp;rsquo;s say one bus is in debt of 1 billion in electricity to a solar charger—which is physically impossible. You cannot say &lt;em&gt;“hey, let&amp;rsquo;s errase this, it&amp;rsquo;s obviously wrong”&lt;/em&gt; easily. The purpose of a blockchain is that isolated individuals cannot erase a line of history. You have to send back the money explicitly. Except the solar charger is pretty happy with his billion, so he doesn&amp;rsquo;t want to.&lt;/p&gt;
-
-&lt;p&gt;This is where things become funky. You can “fork” the history, by collectively implementing a patch, ignoring this suspicious transaction. But first, some people won&amp;rsquo;t like it at all and will feel like if history can be manipulated, how is their money safe? That&amp;rsquo;s what happened with the Ethereum hard fork. Then if you implement a patch, some people or device will not use it before a long time. They wouldn&amp;rsquo;t even know that there had even been a problem and they would choose the “wrong” path of history unconsciously. That&amp;rsquo;s what happened with the &lt;a href=&#34;https://mineforeman.com/2013/03/14/what-the-fork-was-that-a-forking-post-mortem/&#34;&gt;bitcoin 0,7 almost-fork&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Let&amp;rsquo;s not focus on the details of forks (&lt;a href=&#34;https://www.bloomberg.com/view/articles/2016-06-17/blockchain-company-s-smart-contracts-were-dumb&#34;&gt;read some here&lt;/a&gt;) but just look at the result: at some points you have two versions of history and people and devices choose one path, or the other… or both. Each path is incompatible with the other and has it&amp;rsquo;s own currency (like euro-a and euro-b). Which means if a bus using one currency comes to charging station using the other one, it cannot charge, it means that passenger have to pay in different moneys etc.&lt;/p&gt;
-
-&lt;p&gt;Now, can such a thing realistically happens in a smart city? Well, in my opinion the &lt;em&gt;did not implement the patch&lt;/em&gt; scenario is quite likely to happen. You have to understand that a lot of infrastructure in cities are maintained over very long delays, some things (especially underground) are left alone for years, contractors often disagrees on who should do what—like patching software etc. Deploying such a patch on every device of a city, from ATM to buses and solar charging stations, can take months… if it ever happens.&lt;/p&gt;
-
-&lt;p&gt;So, do we end up with a bugged city? Not necessarily, two solutions exist. First, city-level regulation. The City hall can decide to enforce a specific version of the blockchain if they are running their own sidechain—this would be a political hard fork. Second, with ledgers interoperability. It&amp;rsquo;s possible for &lt;a href=&#34;https://interledger.org/&#34;&gt;different ledgers to exchange infos&lt;/a&gt;… provided you have the good software and economy guys.&lt;/p&gt;
-
-&lt;p&gt;No matter what, blockchains in smartcity are gonna be messy. Which is why they are a good thing—cities are intrinsically messy and need to be. Software designers who can handle this blockchain mess will be key to the system and quite looked after. Time to study urban engineering and blockchain technology?&lt;/p&gt;
-</description>
+      <description>A recent passion of mine has been the DAO-hardfork of the Ethereum blockchain. Especially the fact that both blockchains co-exist a month after the fork… with the same people on both chains.
+If you don&amp;rsquo;t understand a single word of what I&amp;rsquo;m talking about, let me me use a smartcity exemple. Imagine a fleet of solar powered autonomous bus—that&amp;rsquo;s for the futuristic effect, it works with regular buses too—that go from charging stations to points where people have called the bus.</description>
     </item>
     
     <item>
       <title>Masdar is gonna be as efficient as Besançon-Viotte</title>
-      <link>http://etienneburdet.github.io/post/Masdar/</link>
+      <link>http://etienneburdet.github.io/post/masdar/</link>
       <pubDate>Mon, 06 Jun 2016 19:55:30 +0200</pubDate>
       
-      <guid>http://etienneburdet.github.io/post/Masdar/</guid>
-      <description>&lt;p&gt;So it seems like Masdar &lt;a href=&#34;https://www.theguardian.com/environment/2016/feb/16/masdars-zero-carbon-dream-could-become-worlds-first-green-ghost-town&#34;&gt;is not going to be anywhere near net zero&lt;/a&gt;. Not like it&amp;rsquo;s much of a surprise to anybody. But the new figure of 50% brings back many questions, most of them old. How do you compute this number for a full city? Is Masdar going to be a city at all? Is it any good by the way?&lt;/p&gt;
-
-&lt;p&gt;Coming out with the embodied energy of a city is quite difficult, mainly because of the way you estimate the lifespan. A sustainable city lifespan is more or less infinite and if you are betting your city dies in 50 years, you better not build it. That wasn&amp;rsquo;t much of a problem when the planned city was net zero: operative energy is fully clean and material are carbon neutral in a way or another. Divide zero by as long as you want, it&amp;rsquo;s zero.&lt;/p&gt;
-
-&lt;p&gt;But now that they figured their material and construction are not carbon neutral—and I&amp;rsquo;m not even counting countless flights of star architects and engineers bragging all over the world—how does the math works? What I guess, is that they account for embodied energy of buildings and roads and the operative energy (most likely negative) of the first cycle of buildings. So the first cycle of the built environment is net zero.&lt;/p&gt;
-
-&lt;p&gt;Now this is very problematic, because a few roads and rails sitting next to pretentious buildings are nowhere near to be a city. If you look at &lt;a href=&#34;http://www.paris.fr/viewmultimediadocument?multimediadocument-id=31448&#34;&gt;the carbon balance of Paris&lt;/a&gt;, it accounts for all kinds of things: food, administration, imported goods, of course transportation, but also agriculture etc.&lt;/p&gt;
-
-&lt;p&gt;Which brings back to a well known point: Masdar is not a city anyways and is not going to be any time soon. It&amp;rsquo;s just a bunch of empty buildings and infrastructure sitting next to each other. First life, then space, then buildings is a well known receipe for sustainable urban places. Well, it seems like first money, then buildings is good receipe for desert ghost town. The good part is, you don&amp;rsquo;t need too much solar energy to run empty buildings. Or maybe you don&amp;rsquo;t build them in the first place.&lt;/p&gt;
-
-&lt;p&gt;But whatever, I&amp;rsquo;m just jealous. Masdar may not be as good as it was supposed to but any “pioneer” faces problems, right? And 50% ain&amp;rsquo;t that bad, right? Well: wrong and… wrong. First, going 50% on just the built environment is nothing new. From Malmö to Frieburg, people were already doing this in the 90&amp;rsquo;s and 00&amp;rsquo;s. Today&amp;rsquo;s ambitious standard are far higher and most likely far more inclusive.&lt;/p&gt;
-
-&lt;p&gt;Then 50% net energy is nothing to be ashamed of, but it&amp;rsquo;s pretty standard for eco-districts nowadays. At AREP we are working on &lt;a href=&#34;http://www.tracesecritesnews.fr/actualite/besancon-57219&#34;&gt;Besançon-Viotte eco-district&lt;/a&gt;. You never heard of it because it&amp;rsquo;s no fancy flagship project, it&amp;rsquo;s just a regular project, with regular budget constraints (and people doing good work). My lowest estimate for renewables on this oh-so-normal project is about 50% operative energy and my highest suggestion was about &lt;sup&gt;40&lt;/sup&gt;&amp;frasl;&lt;sub&gt;50&lt;/sub&gt;% net energy. The better option was nothing near Masdar, just a tank storage with a low temperature heat network and local wood structural elements. Still, it&amp;rsquo;s in the same league as Masdar in terms of energy efficiency and so are hundreds of other projects around the world. And in cities that are gonna get build for real, with people in it and everything, not desert ghost towns.&lt;/p&gt;
-
-&lt;p&gt;The conclusion then seems pretty simple: stop Masdar and send us your money. We&amp;rsquo;ll happily build net zero districts!&lt;/p&gt;
-</description>
+      <guid>http://etienneburdet.github.io/post/masdar/</guid>
+      <description>So it seems like Masdar is not going to be anywhere near net zero. Not like it&amp;rsquo;s much of a surprise to anybody. But the new figure of 50% brings back many questions, most of them old. How do you compute this number for a full city? Is Masdar going to be a city at all? Is it any good by the way?
+Coming out with the embodied energy of a city is quite difficult, mainly because of the way you estimate the lifespan.</description>
     </item>
     
     <item>
@@ -63,44 +37,19 @@
       <pubDate>Mon, 06 Jun 2016 19:55:30 +0200</pubDate>
       
       <guid>http://etienneburdet.github.io/post/definition/</guid>
-      <description>&lt;p&gt;No less than that. Ready? Here we go:&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;A part of a city is smart when its elements communicate with the TCP/IP protocol.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;That&amp;rsquo;s it folks. Hmm… I feel a bit of disappointment. It doesn&amp;rsquo;t sound futuristic enough? Too technocratic maybe? Let&amp;rsquo;s look deeper.&lt;/p&gt;
-
-&lt;p&gt;First, does it work? Since &lt;a href=&#34;https://en.wikipedia.org/wiki/Internet_protocol_suite&#34;&gt;TCP/IP powers the internet&lt;/a&gt;, we have: internet of things, people gathering over social network, Uber, Airbnb and Bitcoin, big data and monitoring, participatory politics etc. So far so good, it seems we cover everything we intuitively associate with the notion.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;It&amp;rsquo;s just a city that uses the Internet then. What so special about it?&lt;/em&gt; Well, it might seem normal today, because we have been living in smartcities for quite a while now, but those protocols are quite game changers. TCP/IP has introduced two very special things: you can query directly whoever you want on the network and you can answer directly to any message. If your mayor makes a speech, you can only listen, provided you&amp;rsquo;re in the crowd or behind your TV. If she posts on twitter, you can answer. It&amp;rsquo;s the well known difference between the world of internet and the world of journals and TV. &lt;a href=&#34;http://www.moreno-web.net/interview-du-pr-carlos-moreno-par-nicolas-curien-revue-communications-strategies-art-fr-en-esp/&#34;&gt;Carlos Moreno&lt;/a&gt; may insists a lot on ubiquitous access to information, but in my opinion it&amp;rsquo;s the possibility to answer any message that changes everything.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Ok internet is going to change the world—like we never heard it before. What we want to know is what our cities are going to look like. Where are my DIY driverless car kit and ultra-mega-uber speed Li-Fi network?&lt;/em&gt; Modesty aside, the strength of this definition is to not presuppose any final state. By focusing on the protocol used to exchange information, I want to stress that the essence of a smartcity is the way it reacts to information, the method used to connect people and things, not what it&amp;rsquo;s made of. Knowing if a friend is in the same café as you is much more important than knowing if the information has gone through 4G or LiFi and even more important than &lt;em&gt;&amp;ldquo;living in a connected world of ubiquitous access to big data&amp;rdquo;&lt;/em&gt;. You querry the geolocalization app, it asks your friend, your friends phone answers to the app, the app answers to you. Querry, answer. That&amp;rsquo;s what matters.&lt;/p&gt;
-
-&lt;p&gt;And if all the parts of the city—human and objects alike—are capable of answering to each other, it means that the city is constantly transforming. That&amp;rsquo;s where the big misunderstanding around the definition of smartcity lies. Architects and urbanists—or all kind of other theorists—are trying to see smartcity as a new model of urban planning. Just like &lt;em&gt;eco-district&lt;/em&gt;, &lt;em&gt;Ville Radieuse&lt;/em&gt; or &lt;em&gt;open planning&lt;/em&gt; were models, there had to be a new one. It&amp;rsquo;s easy to understand that trying to describe the final state of a city that constantly transforms itself is a dead end. Seeing smartcity not as a city, but as a method for the city to react, to transform itself, is much more useful in my view.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Can I  querry it? Can I answer its message?&lt;/em&gt; Those are the two questions you really want to ask yourself when designing smartcity stuff. Querrying might be reading bus time tables or see if there are free seats at a restaurant. Answering might be signaling something broken in your street or just painting street furniture to a color you like more (oooops, it doesn&amp;rsquo;t use TCP/IP) and tweet about your performance (few…). Am I connecting inputs and outputs the &lt;em&gt;internet way&lt;/em&gt;, i.e using TCP/IP? What happens then? Anything else, including trying to know if your city is green, equilitarian or &lt;a href=&#34;http://www.thewisecity.org/&#34;&gt;wise&lt;/a&gt; is a battle to define a final state—preferrably one that is better than your neighbors.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;&amp;ldquo;My definition”&lt;/em&gt; is of course a bit picky and it might not even be mine. But at least it works (mostly) and I hope it drives us away from this stupid technocracy vs. participation and people vs. data debate. You don&amp;rsquo;t really care about what is a smartcity. You care about what does a smartcity. The first stage is to notice that a smartcity communicates the internet-way. If you want a deeper understanding though, there&amp;rsquo;s no better way than inputing a message or a design and see for yourself what your smartcity does.&lt;/p&gt;
-</description>
+      <description>No less than that. Ready? Here we go:
+A part of a city is smart when its elements communicate with the TCP/IP protocol.
+That&amp;rsquo;s it folks. Hmm… I feel a bit of disappointment. It doesn&amp;rsquo;t sound futuristic enough? Too technocratic maybe? Let&amp;rsquo;s look deeper.
+First, does it work? Since TCP/IP powers the internet, we have: internet of things, people gathering over social network, Uber, Airbnb and Bitcoin, big data and monitoring, participatory politics etc.</description>
     </item>
     
     <item>
       <title>Musk &amp; The City</title>
-      <link>http://etienneburdet.github.io/post/Musk/</link>
+      <link>http://etienneburdet.github.io/post/musk/</link>
       <pubDate>Sun, 22 May 2016 17:43:46 +0200</pubDate>
       
-      <guid>http://etienneburdet.github.io/post/Musk/</guid>
-      <description>&lt;p&gt;It&amp;rsquo;s funny, I was re-reading &lt;a href=&#34;http://assemblepapers.com.au/2013/06/13/cities-for-people-jan-gehl/&#34;&gt;Jan Ghel&amp;rsquo;s Cities for People&lt;/a&gt; when they announced &lt;a href=&#34;http://www.dezeen.com/2016/05/13/hyperloop-bjarke-ingels-transform-cities-high-speed-transport-technology-test/&#34;&gt;BIG and Foster would design the Hype&amp;reg;loop stations&lt;/a&gt;. On one side, the vision of pedestrian city centers, human scale furniture and small distances. On the other, the vision of huge oddly shaped perfume boxes, infinite corridors, elevators and speed of light travel. All of a sudden something became clear to me: Elon Musk has bet on the end of the cities.&lt;/p&gt;
-
-&lt;p&gt;The idea of bringing a full-stack service that includes both the train and the stations (and maybe more), condemns Hyperloop stations to be airport-like rather than downtown train stations. Think about it, would London remplace St-Pancras with a BIG funny looking building? Is Paris gonna put a Foster tower/dildo next to Gare de Lyon? And I&amp;rsquo;m not even mentioning this huge tube coming out of it in plain sight. Hyperloop is fully designed to work like planes, not trains. Funnily enough, it means you&amp;rsquo;re gonna have to commute to it…with a slow train.&lt;/p&gt;
-
-&lt;p&gt;And it goes even further if you look at all other Musk&amp;rsquo;s businesses. Your &lt;a href=&#34;https://www.teslamotors.com/powerwall&#34;&gt;Powerwall&lt;/a&gt; and solar panel fuel your Tesla and suburban house, while ordering everything you need on Amazon. The future Musk envision is a future without a city. One where you go from suburban houses to airports, from warehouses to shopping malls through tunnels isolated from the environment. The whole vision is then pretty clear and it&amp;rsquo;s like Musk and has taken &lt;a href=&#34;https://fr.scribd.com/doc/123183240/Bigness-or-problem-of-the-large-by-Rem-Koolhaas&#34;&gt;Koolas words&lt;/a&gt; a bit too literraly. It&amp;rsquo;s &lt;em&gt;“fuck the context”&lt;/em&gt; and bigness taken to the next level. Which basically means &lt;em&gt;“fuck cities, I&amp;rsquo;m going suburban”&lt;/em&gt;. No surprises BIG and Foster are in. Trust me, it&amp;rsquo;s a matter of weeks before one of them say the future is two &lt;em&gt;vertical cities&lt;/em&gt; connected by an Hyperloop.&lt;/p&gt;
-
-&lt;p&gt;It&amp;rsquo;s nothing new actually. From 50&amp;rsquo;s sci-fi to Le Corbusier Cité radieuse, we&amp;rsquo;ve seen it plenty of times—enough to be quite bored actually. But who has been winning, Velib&amp;rsquo; or &lt;a href=&#34;https://fr.wikipedia.org/wiki/Plan_autoroutier_pour_Paris&#34;&gt;Laser project&lt;/a&gt;? Downtown light rail or &lt;a href=&#34;https://en.wikipedia.org/wiki/A%C3%A9rotrain&#34;&gt;Aérotrain&lt;/a&gt;? Ho, right, you didn&amp;rsquo;t even know what the high speed motorway Laser project or the hovercraft Aérotrain were.&lt;/p&gt;
-
-&lt;p&gt;So in the end, the whole Elon Musk plan bets on the death of cities. Some have tried before in an endless serie of failures. Does he, or his team, know this? I have no idea. But this vision of the city—or actual lack thereof—might very well be his Achilles heel.&lt;/p&gt;
-
-&lt;p&gt;Ok, I have I think I have reached my quota of Musk, Musk, Musk Hyperloop, Musk… to get some clicks. I have a trash can to design if you&amp;rsquo;ll excuse me.&lt;/p&gt;
-</description>
+      <guid>http://etienneburdet.github.io/post/musk/</guid>
+      <description>It&amp;rsquo;s funny, I was re-reading Jan Ghel&amp;rsquo;s Cities for People when they announced BIG and Foster would design the Hype&amp;reg;loop stations. On one side, the vision of pedestrian city centers, human scale furniture and small distances. On the other, the vision of huge oddly shaped perfume boxes, infinite corridors, elevators and speed of light travel. All of a sudden something became clear to me: Elon Musk has bet on the end of the cities.</description>
     </item>
     
     <item>
@@ -109,56 +58,17 @@
       <pubDate>Wed, 13 Apr 2016 17:43:46 +0200</pubDate>
       
       <guid>http://etienneburdet.github.io/post/3615/</guid>
-      <description>&lt;p&gt;Since yesterday, it&amp;rsquo;s all the rage for CityMapper, Transit and the like in Paris. The RATP has decided to close back their data, until they really re-open it again late 2016. The official reason is that &lt;em&gt;&amp;ldquo;RATP is thinking about a way to monetize his data&amp;rdquo;&lt;/em&gt;. This problem is not specific to the RATP actually, but may apply to anything smartcity and is as old as the profitable internet. I call it the &lt;em&gt;&amp;ldquo;Minitel way of the smartcity&amp;rdquo;&lt;/em&gt; issue (for the non-french of you, read &lt;a href=&#34;http://www.bbc.com/news/magazine-18610692&#34;&gt;what the Minitel was&lt;/a&gt;).&lt;/p&gt;
-
-&lt;p&gt;The original form of the problem is an internet provider realizing that Meetic is making a lot of money thanks to its infrastructure. Except Meetic doesn&amp;rsquo;t pay for the wires, routers and construction work—”they don&amp;rsquo;t even provide the content of their site! The first thought of the internet provider is either: &lt;em&gt;&amp;ldquo;I&amp;rsquo;ll make them pay&amp;rdquo;&lt;/em&gt; or &lt;em&gt;&amp;ldquo;I forbid everybody to run dating sites on my network, I make my very own one and take all that cash!&amp;rdquo;&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;Translate back this problem to the RATP: CityMapper makes money with our metros, either they pay or we have monopoly. But this could also be true for museums, cities parking lot or even—ahem—railway stations. This is the minitel way of thinking. You dial &lt;em&gt;3615 MySmartMuseum&lt;/em&gt;, or &lt;em&gt;3615 SuperSmartParis&lt;/em&gt; and you download every app related to the building/city, for having access to the exhibitions, available parking spots or train information. But every time you change city, you change all the apps. In the Minitel world, using CityMapper both in Paris and London doesn&amp;rsquo;t exist. Every little king wants to rule the apps in his county and have his very own Minitel.&lt;/p&gt;
-
-&lt;p&gt;So what happened on the internet? Well legally, it was more or less said, that charging only profitable megabytes because else you could be very annoying, is mob practice. Same goes for the RATP. Charging apps like Transit or Citymapper for the sole reason you could be annoying—like giving them estimated time instead of real ones—if they didn&amp;rsquo;t pay is a quite questionable practice.&lt;/p&gt;
-
-&lt;p&gt;But more importantly, the minitel way of thinking—and the minitel itself—disappeared because it&amp;rsquo;s inefficient compared to the connected way of doing things. Being able to post a Youtube video on Facebook or to facebook-like a video on Youtube is at the core of the success of both. Facebook has a video player and Youtube has a like system. But while they could block each other—and rule their own kingdom—they realized that it wasn&amp;rsquo;t profitable at all. It&amp;rsquo;s quite the opposite, the more connected you are to other app, the more traffic you draw.&lt;/p&gt;
-
-&lt;p&gt;Again, same story for CityMapper and RATP. User could buy tickets through CityMapper and RATP could use a CityMapper API to provide their users comparison with bike, walking or taxi. Actually, if you start thinking this way, the number of potential services to the customer is unlimited. You could have an app that guides you from the street, through transport up to the piece of art inside the museum. Or you could have your favorite app for the transport and another app that guides you through any exhibition in the world. It&amp;rsquo;s up to what you prefer.&lt;/p&gt;
-
-&lt;p&gt;And the transporters/museums/city doesn&amp;rsquo;t even have to pay to develop the app if they don&amp;rsquo;t want to. They only have to provide the API—which they have to develop for themselves anyway— and think &lt;em&gt;&amp;ldquo;connected&amp;rdquo;&lt;/em&gt;. Then it&amp;rsquo;s a better service for free. So the financial iusse seems quite simple  to me. Win, win.&lt;/p&gt;
-
-&lt;p&gt;The political question is very different, though. Do you want to provide a digital service to your fellow citizen or do you want to be a little Lord of the Minitel collecting tax from your peasants?&lt;/p&gt;
-</description>
+      <description>Since yesterday, it&amp;rsquo;s all the rage for CityMapper, Transit and the like in Paris. The RATP has decided to close back their data, until they really re-open it again late 2016. The official reason is that &amp;ldquo;RATP is thinking about a way to monetize his data&amp;rdquo;. This problem is not specific to the RATP actually, but may apply to anything smartcity and is as old as the profitable internet. I call it the &amp;ldquo;Minitel way of the smartcity&amp;rdquo; issue (for the non-french of you, read what the Minitel was).</description>
     </item>
     
     <item>
       <title>Critique of Opens Source Architecture by Carlo Ratti</title>
-      <link>http://etienneburdet.github.io/post/OAScritique/</link>
+      <link>http://etienneburdet.github.io/post/oascritique/</link>
       <pubDate>Tue, 05 Apr 2016 07:30:19 +0100</pubDate>
       
-      <guid>http://etienneburdet.github.io/post/OAScritique/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.amazon.com/Open-Source-Architecture-Carlo-Ratti/dp/0500343063&#34;&gt;Open Source Architecture&lt;/a&gt; is a book by Carlo Ratti, on what happens to architecture in this flat networked movement that is taking up the world, from open source software to 3D printing over the internet—or cooperative energy I might even add! Written by someone who started his career on urban morphology and energy, now turned to smart cities (see a pattern?), you guess I was interested.&lt;/p&gt;
-
-&lt;p&gt;Rather than jumping straight into &lt;em&gt;“hey, you see Wikipedia and Raspberry Pi ? Yeah let&amp;rsquo;s do the same in architecture !”&lt;/em&gt;, Ratti does something brilliant: he looks at collaboration in architecture over the course of history. This really is my favorite part of the book. From cathedrals, to vernacular urban morphology, from Le Corbusier Pessac&amp;rsquo;s experiment to Christopher Alexander, you&amp;rsquo;ll get quite a panorama.&lt;/p&gt;
-
-&lt;p&gt;And the conclusion, is quite insightful. Most architecture is totally authorless and we know for sure collaborative architecture can work: cathedrals for examples were open source collaborative projects in every respect. Think about it: how many people have contributed to build Paris? The number might put Wikipedia to shame! Yet collaboration is very hard to implement and everybody fails at it every time they try to implement it in modern/contemporary architecture and planning. You think you invented participatory/modular architecture with a &lt;em&gt;Wikibuilding in a city 3.0&lt;/em&gt;? Well think again, people have tried before you—and failed miserably by the way. You had people writing idea on post-its to design a zebra crossing? Congratulations, 1000 years ago people were able to build cathedrals with hundreds of artisans over decades without a single full plan of the thing.&lt;/p&gt;
-
-&lt;p&gt;So we end up with a question that has no easy answer: how do we do collaborative architecture again (stress that AGAIN),  without failing miserably because of a bad top down implementation? The internet seems quite the place no? With all it&amp;rsquo;s sharing economy, hackers and new open collaborative stuff. Right?&lt;/p&gt;
-
-&lt;p&gt;There goes the second part of the book. Ratti explains how the whole sharing economy has build up on the internet and how internet and open source are bound to each other. At first, I was going to be picky and say you shouldn&amp;rsquo;t mistake open source and collaboration, that Airbnb is a wrong example because it&amp;rsquo;s not open source at all. But in the end it doesn&amp;rsquo;t matter much. What matter is the feeling, the logic at work. You want to do your own thing, you go on the internet, you find people with common interest, you share recipes (rather than goods) and that&amp;rsquo;s it. It&amp;rsquo;s pretty important that the book remains simple here, because there is a ton of architects out there who absolutely doesn&amp;rsquo;t get what&amp;rsquo;s going on in the open source world. So better use an Airbnb example that is effective, rather than using a Github pull request metaphor and fail to convince.&lt;/p&gt;
-
-&lt;p&gt;So ok, we are here: people share recipe (or source code, or 3D printing files, etc.) on the internet super fast, what happens when they share architectural recipe?&lt;/p&gt;
-
-&lt;p&gt;First, Ratti thinks open source project are gonna kill the Promethean architect and the logic where signature matters more than everyday satisfaction. As much as I&amp;rsquo;d love that to happen, it&amp;rsquo;s not what has happen in open source software. Most of open source projects have very charismatic leaders (Linus Torvald, Steve Francia, etc.) and most of those projects are totally carried by a very small group, if not one person. Take one open source software I use often for example: &lt;a href=&#34;http://www.grasshopper3d.com/group/ladybug&#34;&gt;LadyBug&lt;/a&gt;. Well, it&amp;rsquo;s clearly Mostapha Sadheghipour&amp;rsquo;s software, with a few very well known contributors. Another example is Android. It&amp;rsquo;s totally maintained by Google in a quite authoritative fashion (yet has tons of benefits, don&amp;rsquo;t get me wrong !).&lt;/p&gt;
-
-&lt;p&gt;Worse, imagine an open project, where a group of people decide to crowdfund a large housing building. Anyone can join, add ideas, draw and decide where the money goes. What prevent them to go to www.buyyourownjeannouveltower.com and impose themselves a huge dick disguised as a perfume box drawn by the all mighty? Nothing. (And then there is this Murphy&amp;rsquo;s law…)&lt;/p&gt;
-
-&lt;p&gt;Then he argues that the future architect is a “Choral Architect”, curating people ideas, ensuring harmony in the project, rather than imposing his view. Again, I see what he means, but I have a few problem with that too. First, the practical implementation of the Choral Architect sounds a lot like a BIM manager. Much less sexy all of a sudden… but that&amp;rsquo;s a job nonetheless. Second, to me, this choral architect is too much of an “enlighten cool dude”—a variant of the enlightened despot that listen more to its peer, because he is cool, but still enlightens the world with its superior knowledge.&lt;/p&gt;
-
-&lt;p&gt;But in the open source world, it&amp;rsquo;s all contribute or die. How enlighten you are doesn&amp;rsquo;t matter much. You want to collaborate in (or even start) an open source software project? Code, make a user feedback, enrich documentation, etc. But what is the real contribution of &lt;em&gt;“bringing harmony to the project”&lt;/em&gt;? How do you pull request that? Open source project are superbly effective precisely because you always have to bring tangible contribution to the final product, whatever you do. Drawings, masteplans, art concepts, calculations, pretty much everything is welcome, but you bring something or you not a contributor. However, you can filter ideas only if it&amp;rsquo;s your own project.&lt;/p&gt;
-
-&lt;p&gt;Ultimately, I think that it is misleading to speak of open source architecture, rather than open source buildings (or building projects). Architecture is a practice not an object. The question is more, imagine there is an open source building project, how would you contribute? How do you monetize that if you are a professional? I think we are gonna see all sort services that delivers tangible contributions to open source building. This might very well put back architects to the drawing table and find innovative ways of selling their core skills.&lt;/p&gt;
-
-&lt;p&gt;Bull those few critique of mine just prove the book has met his goal: get people thinking on the topic. You have all the examples needed for a good dose of thinking and the book will lead you to most of the important issues. I have been having tons of ideas, should they be reaction to Ratti&amp;rsquo;s one, since I have read the book. Most importantly, the book share this feeling of &lt;em&gt;“go contributing”&lt;/em&gt;, that is most needed in today&amp;rsquo;s morose architectural landscape. So go read it, make your critiques and go contribute to cool projects!&lt;/p&gt;
-
-&lt;p&gt;P.S. : the work on typography and editing is amazing. The book is uber-classy and superbly readable thanks it&amp;rsquo;s dark brown lettering on light brown background and thin column edit. I wish every single book was given as much attention! (Except I read mostly on my kindle…)&lt;/p&gt;
-</description>
+      <guid>http://etienneburdet.github.io/post/oascritique/</guid>
+      <description>Open Source Architecture is a book by Carlo Ratti, on what happens to architecture in this flat networked movement that is taking up the world, from open source software to 3D printing over the internet—or cooperative energy I might even add! Written by someone who started his career on urban morphology and energy, now turned to smart cities (see a pattern?), you guess I was interested.
+Rather than jumping straight into “hey, you see Wikipedia and Raspberry Pi ?</description>
     </item>
     
     <item>
@@ -167,57 +77,28 @@
       <pubDate>Tue, 15 Mar 2016 07:30:19 +0100</pubDate>
       
       <guid>http://etienneburdet.github.io/post/jobupdate/</guid>
-      <description>&lt;p&gt;A quick site update to reflect my new position as a smart-city officer at &lt;a href=&#34;www.arepgroup.com&#34;&gt;AREP&lt;/a&gt;. Which leads to  a natural question:What does a smart-city officer do, beside having a job with a really cool job name ?&lt;/p&gt;
-
-&lt;p&gt;First you have the top-down approach to my work.  Here, somebody (a stakeholder, a politic) comes to us and say  &lt;em&gt;&amp;ldquo;Hey, I heard smart-cities are cool. I want mine. You make it?&lt;/em&gt;. Sure we do but… is he speaking participatory urban planning or driverless cars  or smartgrids ? Or all of them ? Does even know ? So here my job is to decypher the notion. I have to understand what people want in a particular case—even though they are using the same question for asking very different things— and find out what we can offer as a solution with the many talents we have in the company. (And we have basically every kind of architects, designers and engineers you can think of.)&lt;/p&gt;
-
-&lt;p&gt;Then you have the bottom-up approach to my work. With the help of different experts, I test connected technologies and try to make a new project with it or input it into a new project. For exemple it can be a smartphone app for crowdsourcing informations in a GIS or testing a new energy storage device. Here, it&amp;rsquo;s all trial and errors. I find something that looks cool, we try it for real, we learn. The most important thing is to the put the new technology to the test as fast as possible, without too much theory about it —especially on &lt;em&gt;&amp;ldquo;is it true smart&amp;rdquo;&lt;/em&gt; side. That last part being way easier said than done.&lt;/p&gt;
-
-&lt;p&gt;The two approach are helping each other. Decyphering a smart-city vision may lead to try a new technologies and mastering a new tool may help to be more tangible about what we mean by smart-city. Hopefully, in the middle, we find some sort of strategic positioning, real projects and a way to value the expertise of all our architects, planners, designers and engineers. That&amp;rsquo;s the plan !&lt;/p&gt;
-
-&lt;p&gt;There is one fun thing you might notice. In the top-down approach, it&amp;rsquo;s not me to define smart-city, nor to debate what a smart-city should be. And in the bottom-up approach, we don&amp;rsquo;t even want to think about it. So if I succeed in my job, well the very word smart-city will disappear from our practice and the sooner the better. But then my job title will sound way less cool…&lt;/p&gt;
-</description>
+      <description>A quick site update to reflect my new position as a smart-city officer at AREP. Which leads to a natural question:What does a smart-city officer do, beside having a job with a really cool job name ?
+First you have the top-down approach to my work. Here, somebody (a stakeholder, a politic) comes to us and say &amp;ldquo;Hey, I heard smart-cities are cool. I want mine. You make it?. Sure we do but… is he speaking participatory urban planning or driverless cars or smartgrids ?</description>
     </item>
     
     <item>
       <title>Article Update</title>
-      <link>http://etienneburdet.github.io/post/ArticleUpdate/</link>
+      <link>http://etienneburdet.github.io/post/articleupdate/</link>
       <pubDate>Fri, 14 Nov 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://etienneburdet.github.io/post/ArticleUpdate/</guid>
-      <description>&lt;p&gt;The article on the thermal part of my model has been reviewed quite quickly. I updated the version with some minors modifications, you can find it on my &lt;a href=&#34;https://hal.archives-ouvertes.fr/view/index/docid/1082955&#34;&gt;HAL profile&lt;/a&gt; (moderation pending) and &lt;a href=&#34;http://arxiv.org/abs/1411.4956&#34;&gt;arXiv&lt;/a&gt;. I hope it&amp;rsquo;s useful, feel free to ask any question.&lt;/p&gt;
-
-&lt;p&gt;The hardest part was maybe to understand how to properly submit a LaTeX article through EES. It&amp;rsquo;s well made in fact, you upload your .tex and .bib as manuscript and the figures as figures and the article is generated.&lt;/p&gt;
-
-&lt;p&gt;Except it&amp;rsquo;s not said anywhere you should proceed this way. Actually the FAQ tells you to upload the .pdf as manuscript and the latex files as latex source files, while the dialog box orders you to never ever upload a .pdf (but still let you do it). How much are we paying for Elsevier again ?&lt;/p&gt;
-</description>
+      <guid>http://etienneburdet.github.io/post/articleupdate/</guid>
+      <description>The article on the thermal part of my model has been reviewed quite quickly. I updated the version with some minors modifications, you can find it on my HAL profile (moderation pending) and arXiv. I hope it&amp;rsquo;s useful, feel free to ask any question.
+The hardest part was maybe to understand how to properly submit a LaTeX article through EES. It&amp;rsquo;s well made in fact, you upload your .tex and .</description>
     </item>
     
     <item>
       <title>Here Hugo</title>
-      <link>http://etienneburdet.github.io/post/Hugo/</link>
+      <link>http://etienneburdet.github.io/post/hugo/</link>
       <pubDate>Sun, 02 Nov 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://etienneburdet.github.io/post/Hugo/</guid>
-      <description>&lt;p&gt;Whether for a personal page or a project site, we need websites all the time, to be someone on the web. We want something simple, but we don&amp;rsquo;t necessarily have the money to hire a pro (when we should) – but hey, this shouldn&amp;rsquo;t be that hard. So what do we have ? A tumblr, wordpress.com ? Hosting your own wordpress or drupal ? WYSIWYG tools ?&lt;/p&gt;
-
-&lt;p&gt;For this web site, I chose a static generator: &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt;. Why ? You Input text files, it outputs a full – super lightweight and responsive – plain html site. Magic happens in the middle.
-Be cool, be static&lt;/p&gt;
-
-&lt;p&gt;In those hipsterish days, old is the new cool and apparently we are back to static sites. Or static generator to be more precise.&lt;/p&gt;
-
-&lt;p&gt;So how does the thing works ? First I installed Hugo (it takes about 2 clicks) and told him &lt;em&gt;“new site please”&lt;/em&gt;. He gave me an empty site that I used as a backbone. Now when I want to input a new page, or a new blog post, I write the content in a text file using markdown and… that&amp;rsquo;s about it. Then you say &lt;em&gt;“hey Hugo, make a site out of this bunch of text files”&lt;/em&gt; and he generates a whole site in milliseconds. A fully static, ready to upload website.&lt;/p&gt;
-
-&lt;p&gt;That simple ? That simple. You can customize the template, by digging a bit into the HTML/CSS/Go template. It is hackable to the core. The really great thing being the learning curve. Simple things — such as the social button — are simple to do and from there you can gradually tweak your site more and more.&lt;/p&gt;
-
-&lt;p&gt;First advantage: no database. No php, no CMS, no accounts, no nothing server side. Read: no bugs. Just plain html pages that you upload on any host. No account on a specific service either (like wordpress.com), which means no adds, no terms of use, no limitations of any kind.&lt;/p&gt;
-
-&lt;p&gt;Second advantage is in the long run. What will tumblr or about.me be in 10 years ? What is gonna happen when I need to transfer my site from wordpress.com to the new cool thing ? One thing is sure, plain html is gonna be here for a long time. This site is hosted on github, but if I want it on dropbox or any other host, I upload the file there and it is up in minutes, literally.&lt;/p&gt;
-
-&lt;p&gt;I decided to go for the superb Hyde theme. It is responsive (try resize that window) and it&amp;rsquo;s mobile first/content first. It means you don&amp;rsquo;t have one hundred links on the sidebar, you don&amp;rsquo;t have the avatar of every single guy who likes the page on the facebook, no wordcloud, no widgets everywhere, etc. Deliver the content efficiently, else it&amp;rsquo;s gonna be unreadable on a small smartphone screen. And it looks so clean on big one.&lt;/p&gt;
-
-&lt;p&gt;Light, fast, responsive, content first, customizable… I feel so free ! Going back to a CMS from Hugo for this kind of site would just feel like riding a limo on bike path.&lt;/p&gt;
-</description>
+      <guid>http://etienneburdet.github.io/post/hugo/</guid>
+      <description>Whether for a personal page or a project site, we need websites all the time, to be someone on the web. We want something simple, but we don&amp;rsquo;t necessarily have the money to hire a pro (when we should) – but hey, this shouldn&amp;rsquo;t be that hard. So what do we have ? A tumblr, wordpress.com ? Hosting your own wordpress or drupal ? WYSIWYG tools ?
+For this web site, I chose a static generator: Hugo.</description>
     </item>
     
     <item>
@@ -226,16 +107,9 @@ Be cool, be static&lt;/p&gt;
       <pubDate>Mon, 20 Oct 2014 23:34:18 +0200</pubDate>
       
       <guid>http://etienneburdet.github.io/post/open/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;ve been wanting to do this for far too long, here it is: I have my own website !&lt;/p&gt;
-
-&lt;p&gt;So what to expect here ? First the usual hub: vita, publications, social links. Nothings you couldn&amp;rsquo;t find on my lab&amp;rsquo;s site or linkedin, but this can&amp;rsquo;t be in too many places.&lt;/p&gt;
-
-&lt;p&gt;But a personal site should be, well, a bit more personal. So I listed here some resources, like templates and a few readings. The kind of things I would tell you if we were to meet in person, but you would never ask by e-mail. This section will grow in the near future, with some software advices and teaching resources.&lt;/p&gt;
-
-&lt;p&gt;Finally, I always wanted to have some sort of irregular blog on both city science and working in the academia. Half scientific things that doesn&amp;rsquo;t really fit journals, comments on articles, discussion on research itself (read: surviving a PhD), productivity at work, etc. I want to write on all those topics and I think it&amp;rsquo;s the ideal place to so.&lt;/p&gt;
-
-&lt;p&gt;Hopefully this site last in the long run, survives institutions and lab changes. I hope it gives you some useful infos and – who knows – maybe some fun. Enjoy your visit and feel free to share your feelings on this site !&lt;/p&gt;
-</description>
+      <description>I&amp;rsquo;ve been wanting to do this for far too long, here it is: I have my own website !
+So what to expect here ? First the usual hub: vita, publications, social links. Nothings you couldn&amp;rsquo;t find on my lab&amp;rsquo;s site or linkedin, but this can&amp;rsquo;t be in too many places.
+But a personal site should be, well, a bit more personal. So I listed here some resources, like templates and a few readings.</description>
     </item>
     
   </channel>

@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <url>
-    <loc>http://etienneburdet.github.io/</loc>
-    <lastmod>2016-08-31T19:52:53+02:00</lastmod>
-    <priority>0</priority>
-  </url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
     <loc>http://etienneburdet.github.io/post/forked/</loc>
@@ -13,7 +8,7 @@
   </url>
   
   <url>
-    <loc>http://etienneburdet.github.io/post/Masdar/</loc>
+    <loc>http://etienneburdet.github.io/post/masdar/</loc>
     <lastmod>2016-06-06T19:55:30+02:00</lastmod>
   </url>
   
@@ -23,7 +18,7 @@
   </url>
   
   <url>
-    <loc>http://etienneburdet.github.io/post/Musk/</loc>
+    <loc>http://etienneburdet.github.io/post/musk/</loc>
     <lastmod>2016-05-22T17:43:46+02:00</lastmod>
   </url>
   
@@ -33,7 +28,7 @@
   </url>
   
   <url>
-    <loc>http://etienneburdet.github.io/post/OAScritique/</loc>
+    <loc>http://etienneburdet.github.io/post/oascritique/</loc>
     <lastmod>2016-04-05T07:30:19+01:00</lastmod>
   </url>
   
@@ -48,12 +43,12 @@
   </url>
   
   <url>
-    <loc>http://etienneburdet.github.io/post/ArticleUpdate/</loc>
+    <loc>http://etienneburdet.github.io/post/articleupdate/</loc>
     <lastmod>2014-11-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://etienneburdet.github.io/post/Hugo/</loc>
+    <loc>http://etienneburdet.github.io/post/hugo/</loc>
     <lastmod>2014-11-02T00:00:00+00:00</lastmod>
   </url>
   
@@ -68,7 +63,72 @@
   </url>
   
   <url>
+    <loc>http://etienneburdet.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://etienneburdet.github.io/tags/development/</loc>
+    <lastmod>2016-04-13T17:43:46+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://etienneburdet.github.io/categories/development/</loc>
+    <lastmod>2016-04-13T17:43:46+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://etienneburdet.github.io/</loc>
+    <lastmod>2016-08-31T19:52:53+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://etienneburdet.github.io/tags/golang/</loc>
+    <lastmod>2016-04-13T17:43:46+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://etienneburdet.github.io/categories/golang/</loc>
+    <lastmod>2016-04-13T17:43:46+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://etienneburdet.github.io/post/</loc>
+    <lastmod>2016-08-31T19:52:53+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://etienneburdet.github.io/tags/readings/</loc>
+    <lastmod>2014-10-18T14:28:36+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://etienneburdet.github.io/resources/</loc>
+  </url>
+  
+  <url>
+    <loc>http://etienneburdet.github.io/tags/science/</loc>
+    <lastmod>2014-10-18T14:28:36+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://etienneburdet.github.io/tags/</loc>
+    <lastmod>2016-04-13T17:43:46+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://etienneburdet.github.io/tags/urba/</loc>
+    <lastmod>2014-10-18T14:28:36+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
 </urlset>

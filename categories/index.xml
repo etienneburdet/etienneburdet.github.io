@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Etienne Burdet</title>
+    <link>http://etienneburdet.github.io/categories/</link>
+    <description>Recent content in Categories on Etienne Burdet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://etienneburdet.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Development</title>
+      <link>http://etienneburdet.github.io/categories/development/</link>
+      <pubDate>Wed, 13 Apr 2016 17:43:46 +0200</pubDate>
+      
+      <guid>http://etienneburdet.github.io/categories/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Golang</title>
+      <link>http://etienneburdet.github.io/categories/golang/</link>
+      <pubDate>Wed, 13 Apr 2016 17:43:46 +0200</pubDate>
+      
+      <guid>http://etienneburdet.github.io/categories/golang/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
